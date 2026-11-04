@@ -16,10 +16,11 @@ An entry lists the public projects created on one day (midnight to midnight, `As
 {
   "date": "2026-11-03",
   "summary": "One sentence naming what was created.",
+  "intro": "Two or three sentences leading the entry: what was created and across which areas.",
   "scope": "created",
   "projects": [
     {
-      "name": "Network-Forensics-Plugin",
+      "name": "Network Forensics Plugin",
       "url": "https://github.com/danielrosehill/Network-Forensics-Plugin",
       "network": "GitHub",
       "section": "repos",
@@ -38,10 +39,16 @@ An entry lists the public projects created on one day (midnight to midnight, `As
 | `type` for `datasets` | `Training dataset`, `Evaluation dataset`, `Audio dataset`, `Reference dataset`, `Other` |
 | `type` for `models` | `Fine-tuned model`, `Quantised model`, `Other` |
 
-`render_entry.py` rejects anything outside these values. Sections render in the order above, and a section with no projects has no header.
+`render_entry.py` rejects anything outside these values. Sections render in the order above, and a section with no projects has no header. Each section opens with a count ("4 repos created"). The script also sorts projects alphabetically by `name` within each section, rewriting the JSON, so agents need not order them.
 
 ## Writing rules
 
 - `description`: one sentence, about 25 words at most, taken from the repo description, README or model card. Say what the thing is, never guess. No hype, no emojis.
 - `summary`: one sentence, used as the list line on the blog and in the indexes.
+- `intro`: two or three sentences that open the entry, saying what was created and across which areas. Plain and factual.
+- `name`: the readable name, not the machine name: spaces instead of hyphens and underscores, words capitalised, established casing kept (`ChatGPT`, `GGUF`, `MCP`, `IP`, `ASR`). `term-context-sentences` becomes `Term Context Sentences`. The machine name stays in `url`. The script rejects a name containing `-` or `_`.
 - Forks, private repositories, gated Hugging Face items and this repository are left out.
+
+## Planned
+
+- **Repos updated** (requested by Daniel 2026-11-04, deliberately left for later): list existing repos that changed on the day, not only new ones. This is new scope. `collect.py` finds a repo by its latest `pushed_at`, so a repo pushed again later is missed for older days, and backfilling updates needs a per-repo commit history sweep first.

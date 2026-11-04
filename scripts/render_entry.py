@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Validate a YYYY-MM-DD.json entry and write its .md beside it. Format: FORMAT.md.
+"""Validate a YYYY-MM-DD.json entry, sort its projects in place and write its .md beside it.
+Format: FORMAT.md.
 
 Usage: render_entry.py YYYY/MM/YYYY-MM-DD.json [...]
 """
@@ -7,6 +8,7 @@ import datetime as dt, json, sys
 from pathlib import Path
 
 SECTIONS = {"repos": "GitHub Repositories", "datasets": "Datasets", "models": "AI Models"}
+NOUNS = {"repos": "repo", "datasets": "dataset", "models": "model"}
 NETWORKS = {"GitHub", "Hugging Face"}
 TYPES = {
     "repos": {"Agent plugin", "MCP server", "Application", "Tool", "Website", "Documentation",
@@ -21,10 +23,14 @@ def check(e, path):
     problems = [] if path.stem == e["date"] else [f"file name does not match date {e['date']}"]
     if not e.get("summary"):
         problems.append("missing summary")
+    if not e.get("intro"):
+        problems.append("missing intro")
     if not e.get("projects"):
         problems.append("no projects: a day with none gets no entry")
     for p in e.get("projects", []):
         label = p.get("name", "?")
+        if "-" in label or "_" in label:
+            problems.append(f"{label}: name is not normalised")
         if p.get("section") not in SECTIONS:
             problems.append(f"{label}: bad section {p.get('section')!r}")
         elif p.get("type") not in TYPES[p["section"]]:
@@ -42,11 +48,12 @@ def render(e, day):
     counts = {s: sum(p["section"] == s for p in e["projects"]) for s in SECTIONS}
     lines = ["---", f"date: {e['date']}", f"summary: {e['summary']}", f"scope: {e.get('scope', 'created')}",
              "counts: { " + ", ".join(f"{k}: {v}" for k, v in counts.items()) + " }", "---", "",
-             f"# {day.day} {day:%B %Y}", "", e["summary"]]
+             f"# {day.day} {day:%B %Y}", "", e["intro"]]
     for section, title in SECTIONS.items():
         items = [p for p in e["projects"] if p["section"] == section]
         if items:
-            lines += ["", f"## {title}", ""]
+            noun = NOUNS[section] + ("" if len(items) == 1 else "s")
+            lines += ["", f"## {title}", "", f"{len(items)} {noun} created", ""]
             lines += [f"- **[{p['name']}]({p['url']})** ({p['network']}, {p['type']}): {p['description']}" for p in items]
     return "\n".join(lines) + "\n"
 
@@ -60,6 +67,8 @@ for arg in sys.argv[1:]:
         failed = True
         print(f"{path}: " + "; ".join(problems), file=sys.stderr)
         continue
+    entry["projects"].sort(key=lambda p: (list(SECTIONS).index(p["section"]), p["name"].casefold()))
+    path.write_text(json.dumps(entry, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     path.with_suffix(".md").write_text(render(entry, day), encoding="utf-8")
     print(f"rendered {path.with_suffix('.md')}")
 sys.exit(1 if failed else 0)

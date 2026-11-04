@@ -1,10 +1,11 @@
 {
   "date": "2026-11-03",
   "summary": "Three agent plugins, a playbook for keeping IP cameras local-only, a small sentence-generation model with its training data, and a mixed English-Hebrew sentence dataset.",
+  "intro": "New repositories covered agent tooling and home network security, with three agent plugins and a playbook for keeping cheap IP cameras local-only. On Hugging Face, the new work was speech-recognition training material: a small model that writes read-aloud sentences, its training data, and a mixed English-Hebrew sentence dataset.",
   "scope": "created",
   "projects": [
     {
-      "name": "ChatGPT-Workspace-Agents-Claude-Plugin",
+      "name": "ChatGPT Workspace Agents Claude Plugin",
       "url": "https://github.com/danielrosehill/ChatGPT-Workspace-Agents-Claude-Plugin",
       "network": "GitHub",
       "section": "repos",
@@ -12,7 +13,7 @@
       "description": "Builds and manages ChatGPT Workspace Agents from Claude Code by driving the agent builder in a browser, since OpenAI has no public API for creating them."
     },
     {
-      "name": "Guava-Health-Plugin",
+      "name": "Guava Health Plugin",
       "url": "https://github.com/danielrosehill/Guava-Health-Plugin",
       "network": "GitHub",
       "section": "repos",
@@ -20,7 +21,7 @@
       "description": "Unofficial plugin and Python CLI for the Guava Health API: logs medications, symptoms and readings, and reviews the data, including for dependents on a family plan."
     },
     {
-      "name": "IP-Cam-Lockdown",
+      "name": "IP Cam Lockdown",
       "url": "https://github.com/danielrosehill/IP-Cam-Lockdown",
       "network": "GitHub",
       "section": "repos",
@@ -28,7 +29,7 @@
       "description": "Forensics and a playbook for running cheap AliExpress IP cameras local-only: how each one reaches the vendor cloud, and how to cut it off."
     },
     {
-      "name": "Network-Forensics-Plugin",
+      "name": "Network Forensics Plugin",
       "url": "https://github.com/danielrosehill/Network-Forensics-Plugin",
       "network": "GitHub",
       "section": "repos",
@@ -36,15 +37,7 @@
       "description": "Skills for tracing what a device on a home network talks to, documenting it, blocking it at the firewall and verifying the lockdown."
     },
     {
-      "name": "term-context-sentences",
-      "url": "https://huggingface.co/datasets/danielrosehill/term-context-sentences",
-      "network": "Hugging Face",
-      "section": "datasets",
-      "type": "Training dataset",
-      "description": "Training data for writing short read-aloud sentences that use a given term in a given context, covering romanized Hebrew and Yiddish, Israeli names and tech vocabulary."
-    },
-    {
-      "name": "English-Hebrew-Mixed-Sentences",
+      "name": "English Hebrew Mixed Sentences",
       "url": "https://huggingface.co/datasets/danielrosehill/English-Hebrew-Mixed-Sentences",
       "network": "Hugging Face",
       "section": "datasets",
@@ -52,7 +45,15 @@
       "description": "English sentences with Hebrew words and phrases mixed in, for training and evaluating speech-to-text for English speakers in Israel."
     },
     {
-      "name": "Contextual-Sentence-Creator",
+      "name": "Term Context Sentences",
+      "url": "https://huggingface.co/datasets/danielrosehill/term-context-sentences",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Training dataset",
+      "description": "Training data for writing short read-aloud sentences that use a given term in a given context, covering romanized Hebrew and Yiddish, Israeli names and tech vocabulary."
+    },
+    {
+      "name": "Contextual Sentence Creator",
       "url": "https://huggingface.co/danielrosehill/Contextual-Sentence-Creator",
       "network": "Hugging Face",
       "section": "models",
@@ -60,7 +61,7 @@
       "description": "LoRA fine-tune of Granite 4.2 3B that returns natural sentences using a given term in a given context, for recording speech-recognition training data."
     },
     {
-      "name": "Contextual-Sentence-Creator-GGUF",
+      "name": "Contextual Sentence Creator GGUF",
       "url": "https://huggingface.co/danielrosehill/Contextual-Sentence-Creator-GGUF",
       "network": "Hugging Face",
       "section": "models",
