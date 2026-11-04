@@ -3,8 +3,8 @@
 
 Writes YYYY/MM/README.md for every month and the block between the markers in README.md.
 Each entry's list line comes from the `summary:` field in its front matter.
-Also writes data.json (metrics by day and month, plus every YYYY-MM-DD.json newest first), which the blog
-reads at build time, and a programmatic YYYY/MM/wrap-up.md per month: the days concatenated section by section.
+Also writes data.json (every YYYY-MM-DD.json newest first) and stats.json (counts created per day and month
+by section, no project data), which the blog reads at build time, and a programmatic YYYY/MM/wrap-up.md per month: the days concatenated section by section.
 """
 import datetime as dt, json, re
 from pathlib import Path
@@ -50,15 +50,13 @@ def tally(days):
 by_month = {}
 for e in structured:
     by_month.setdefault(e["date"][:7], []).append(e)
-data = {
-    "metrics": {
-        "totals": {**tally(structured), "days": len(structured)},
-        "by_month": [{"month": m, "days": len(d), **tally(d)} for m, d in sorted(by_month.items())],
-        "by_day": [{"date": e["date"], **tally([e])} for e in reversed(structured)],
-    },
-    "entries": structured,
+stats = {
+    "totals": {**tally(structured), "days": len(structured)},
+    "by_month": [{"month": m, "days": len(d), **tally(d)} for m, d in sorted(by_month.items())],
+    "by_day": [{"date": e["date"], **tally([e])} for e in reversed(structured)],
 }
-(ROOT / "data.json").write_text(json.dumps(data, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+(ROOT / "stats.json").write_text(json.dumps(stats, indent=1) + "\n", encoding="utf-8")
+(ROOT / "data.json").write_text(json.dumps({"entries": structured}, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
 
 for month, days in by_month.items():
     label = dt.date.fromisoformat(month + "-01").strftime("%B %Y")

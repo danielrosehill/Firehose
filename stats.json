@@ -1,0 +1,2655 @@
+{
+ "totals": {
+  "repos": 1022,
+  "datasets": 99,
+  "models": 20,
+  "total": 1141,
+  "days": 350
+ },
+ "by_month": [
+  {
+   "month": "2024-11",
+   "days": 9,
+   "repos": 13,
+   "datasets": 0,
+   "models": 0,
+   "total": 13
+  },
+  {
+   "month": "2024-12",
+   "days": 13,
+   "repos": 21,
+   "datasets": 2,
+   "models": 0,
+   "total": 23
+  },
+  {
+   "month": "2025-01",
+   "days": 12,
+   "repos": 16,
+   "datasets": 0,
+   "models": 0,
+   "total": 16
+  },
+  {
+   "month": "2025-02",
+   "days": 19,
+   "repos": 25,
+   "datasets": 0,
+   "models": 0,
+   "total": 25
+  },
+  {
+   "month": "2025-03",
+   "days": 15,
+   "repos": 25,
+   "datasets": 1,
+   "models": 0,
+   "total": 26
+  },
+  {
+   "month": "2025-04",
+   "days": 19,
+   "repos": 50,
+   "datasets": 12,
+   "models": 0,
+   "total": 62
+  },
+  {
+   "month": "2025-05",
+   "days": 14,
+   "repos": 19,
+   "datasets": 5,
+   "models": 0,
+   "total": 24
+  },
+  {
+   "month": "2025-06",
+   "days": 3,
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "month": "2025-07",
+   "days": 9,
+   "repos": 15,
+   "datasets": 0,
+   "models": 0,
+   "total": 15
+  },
+  {
+   "month": "2025-08",
+   "days": 22,
+   "repos": 34,
+   "datasets": 8,
+   "models": 0,
+   "total": 42
+  },
+  {
+   "month": "2025-09",
+   "days": 16,
+   "repos": 19,
+   "datasets": 4,
+   "models": 0,
+   "total": 23
+  },
+  {
+   "month": "2025-10",
+   "days": 24,
+   "repos": 63,
+   "datasets": 5,
+   "models": 0,
+   "total": 68
+  },
+  {
+   "month": "2025-11",
+   "days": 24,
+   "repos": 61,
+   "datasets": 5,
+   "models": 4,
+   "total": 70
+  },
+  {
+   "month": "2025-12",
+   "days": 27,
+   "repos": 74,
+   "datasets": 6,
+   "models": 0,
+   "total": 80
+  },
+  {
+   "month": "2026-01",
+   "days": 11,
+   "repos": 18,
+   "datasets": 0,
+   "models": 0,
+   "total": 18
+  },
+  {
+   "month": "2026-02",
+   "days": 5,
+   "repos": 10,
+   "datasets": 1,
+   "models": 0,
+   "total": 11
+  },
+  {
+   "month": "2026-03",
+   "days": 20,
+   "repos": 71,
+   "datasets": 2,
+   "models": 0,
+   "total": 73
+  },
+  {
+   "month": "2026-04",
+   "days": 26,
+   "repos": 263,
+   "datasets": 5,
+   "models": 0,
+   "total": 268
+  },
+  {
+   "month": "2026-05",
+   "days": 9,
+   "repos": 33,
+   "datasets": 2,
+   "models": 0,
+   "total": 35
+  },
+  {
+   "month": "2026-07",
+   "days": 12,
+   "repos": 50,
+   "datasets": 1,
+   "models": 0,
+   "total": 51
+  },
+  {
+   "month": "2026-08",
+   "days": 15,
+   "repos": 45,
+   "datasets": 1,
+   "models": 0,
+   "total": 46
+  },
+  {
+   "month": "2026-09",
+   "days": 4,
+   "repos": 9,
+   "datasets": 1,
+   "models": 1,
+   "total": 11
+  },
+  {
+   "month": "2026-10",
+   "days": 19,
+   "repos": 72,
+   "datasets": 35,
+   "models": 13,
+   "total": 120
+  },
+  {
+   "month": "2026-11",
+   "days": 3,
+   "repos": 13,
+   "datasets": 3,
+   "models": 2,
+   "total": 18
+  }
+ ],
+ "by_day": [
+  {
+   "date": "2024-11-08",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2024-11-12",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2024-11-13",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2024-11-19",
+   "repos": 5,
+   "datasets": 0,
+   "models": 0,
+   "total": 5
+  },
+  {
+   "date": "2024-11-20",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2024-11-21",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2024-11-24",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2024-11-26",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2024-11-29",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2024-12-02",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2024-12-04",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2024-12-05",
+   "repos": 1,
+   "datasets": 1,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2024-12-08",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2024-12-09",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2024-12-10",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2024-12-17",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2024-12-18",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2024-12-19",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2024-12-20",
+   "repos": 2,
+   "datasets": 1,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2024-12-24",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2024-12-29",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2024-12-30",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-01-05",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-01-06",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-01-08",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-01-09",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-01-12",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-01-20",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-01-22",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-01-27",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-01-28",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-01-29",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-01-30",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-01-31",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-02-03",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-02-05",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2025-02-06",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-02-07",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-02-08",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-02-09",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-02-11",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-02-12",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-02-13",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-02-14",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-02-16",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-02-17",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-02-18",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-02-19",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-02-22",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-02-23",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-02-24",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-02-25",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-02-26",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-03-01",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-03-03",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-03-04",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-03-07",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-03-09",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-03-12",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-03-13",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-03-19",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-03-20",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-03-21",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-03-22",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-03-25",
+   "repos": 4,
+   "datasets": 1,
+   "models": 0,
+   "total": 5
+  },
+  {
+   "date": "2025-03-26",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2025-03-28",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-03-30",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-04-03",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-04-04",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-04-06",
+   "repos": 9,
+   "datasets": 0,
+   "models": 0,
+   "total": 9
+  },
+  {
+   "date": "2025-04-07",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2025-04-08",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-04-09",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-04-10",
+   "repos": 5,
+   "datasets": 8,
+   "models": 0,
+   "total": 13
+  },
+  {
+   "date": "2025-04-11",
+   "repos": 2,
+   "datasets": 1,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2025-04-13",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-04-16",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-04-17",
+   "repos": 4,
+   "datasets": 0,
+   "models": 0,
+   "total": 4
+  },
+  {
+   "date": "2025-04-18",
+   "repos": 4,
+   "datasets": 0,
+   "models": 0,
+   "total": 4
+  },
+  {
+   "date": "2025-04-21",
+   "repos": 3,
+   "datasets": 1,
+   "models": 0,
+   "total": 4
+  },
+  {
+   "date": "2025-04-24",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-04-25",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-04-27",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-04-28",
+   "repos": 2,
+   "datasets": 2,
+   "models": 0,
+   "total": 4
+  },
+  {
+   "date": "2025-04-29",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-04-30",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2025-05-04",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-05-06",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-05-08",
+   "repos": 1,
+   "datasets": 1,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-05-09",
+   "repos": 1,
+   "datasets": 1,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-05-17",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-05-18",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-05-20",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-05-21",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-05-22",
+   "repos": 1,
+   "datasets": 1,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-05-23",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-05-26",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-05-27",
+   "repos": 2,
+   "datasets": 1,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2025-05-29",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-05-30",
+   "repos": 0,
+   "datasets": 1,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-06-05",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-06-15",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-06-29",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-07-17",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-07-20",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-07-21",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-07-22",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2025-07-23",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-07-24",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-07-29",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-07-30",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-07-31",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-08-02",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-08-03",
+   "repos": 0,
+   "datasets": 1,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-08-04",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-08-05",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-08-06",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-08-07",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-08-09",
+   "repos": 5,
+   "datasets": 0,
+   "models": 0,
+   "total": 5
+  },
+  {
+   "date": "2025-08-10",
+   "repos": 6,
+   "datasets": 1,
+   "models": 0,
+   "total": 7
+  },
+  {
+   "date": "2025-08-11",
+   "repos": 1,
+   "datasets": 1,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-08-12",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-08-14",
+   "repos": 0,
+   "datasets": 1,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-08-15",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-08-16",
+   "repos": 0,
+   "datasets": 1,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-08-17",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-08-19",
+   "repos": 1,
+   "datasets": 1,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-08-21",
+   "repos": 0,
+   "datasets": 1,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-08-24",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-08-25",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-08-26",
+   "repos": 1,
+   "datasets": 1,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-08-27",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-08-28",
+   "repos": 4,
+   "datasets": 0,
+   "models": 0,
+   "total": 4
+  },
+  {
+   "date": "2025-08-31",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-09-01",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-09-02",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-09-03",
+   "repos": 2,
+   "datasets": 1,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2025-09-07",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-09-08",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-09-09",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-09-10",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2025-09-11",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-09-12",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-09-15",
+   "repos": 1,
+   "datasets": 1,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-09-16",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-09-17",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-09-19",
+   "repos": 1,
+   "datasets": 1,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-09-24",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-09-26",
+   "repos": 0,
+   "datasets": 1,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-09-29",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-10-02",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-10-03",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2025-10-04",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-10-06",
+   "repos": 0,
+   "datasets": 1,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-10-09",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-10-11",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-10-12",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-10-15",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-10-16",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-10-17",
+   "repos": 5,
+   "datasets": 1,
+   "models": 0,
+   "total": 6
+  },
+  {
+   "date": "2025-10-18",
+   "repos": 0,
+   "datasets": 2,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-10-19",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-10-20",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-10-21",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-10-22",
+   "repos": 4,
+   "datasets": 1,
+   "models": 0,
+   "total": 5
+  },
+  {
+   "date": "2025-10-23",
+   "repos": 7,
+   "datasets": 0,
+   "models": 0,
+   "total": 7
+  },
+  {
+   "date": "2025-10-24",
+   "repos": 9,
+   "datasets": 0,
+   "models": 0,
+   "total": 9
+  },
+  {
+   "date": "2025-10-25",
+   "repos": 5,
+   "datasets": 0,
+   "models": 0,
+   "total": 5
+  },
+  {
+   "date": "2025-10-26",
+   "repos": 5,
+   "datasets": 0,
+   "models": 0,
+   "total": 5
+  },
+  {
+   "date": "2025-10-27",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2025-10-28",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2025-10-29",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-10-30",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-10-31",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-11-01",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-11-03",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-11-06",
+   "repos": 1,
+   "datasets": 0,
+   "models": 4,
+   "total": 5
+  },
+  {
+   "date": "2025-11-07",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-11-08",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-11-09",
+   "repos": 4,
+   "datasets": 0,
+   "models": 0,
+   "total": 4
+  },
+  {
+   "date": "2025-11-10",
+   "repos": 0,
+   "datasets": 1,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-11-11",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-11-13",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2025-11-14",
+   "repos": 1,
+   "datasets": 1,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-11-15",
+   "repos": 20,
+   "datasets": 0,
+   "models": 0,
+   "total": 20
+  },
+  {
+   "date": "2025-11-16",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-11-17",
+   "repos": 1,
+   "datasets": 1,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-11-18",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-11-19",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-11-20",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-11-21",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-11-22",
+   "repos": 0,
+   "datasets": 1,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-11-23",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-11-25",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2025-11-26",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-11-27",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-11-28",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2025-11-30",
+   "repos": 5,
+   "datasets": 1,
+   "models": 0,
+   "total": 6
+  },
+  {
+   "date": "2025-12-01",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-12-02",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2025-12-03",
+   "repos": 5,
+   "datasets": 1,
+   "models": 0,
+   "total": 6
+  },
+  {
+   "date": "2025-12-05",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-12-06",
+   "repos": 4,
+   "datasets": 0,
+   "models": 0,
+   "total": 4
+  },
+  {
+   "date": "2025-12-07",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2025-12-08",
+   "repos": 4,
+   "datasets": 0,
+   "models": 0,
+   "total": 4
+  },
+  {
+   "date": "2025-12-09",
+   "repos": 3,
+   "datasets": 1,
+   "models": 0,
+   "total": 4
+  },
+  {
+   "date": "2025-12-10",
+   "repos": 3,
+   "datasets": 2,
+   "models": 0,
+   "total": 5
+  },
+  {
+   "date": "2025-12-11",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2025-12-12",
+   "repos": 1,
+   "datasets": 1,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-12-13",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-12-14",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-12-15",
+   "repos": 8,
+   "datasets": 0,
+   "models": 0,
+   "total": 8
+  },
+  {
+   "date": "2025-12-16",
+   "repos": 4,
+   "datasets": 0,
+   "models": 0,
+   "total": 4
+  },
+  {
+   "date": "2025-12-18",
+   "repos": 3,
+   "datasets": 1,
+   "models": 0,
+   "total": 4
+  },
+  {
+   "date": "2025-12-20",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-12-21",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-12-23",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-12-24",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-12-25",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-12-26",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2025-12-27",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2025-12-28",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-12-29",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2025-12-30",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2025-12-31",
+   "repos": 6,
+   "datasets": 0,
+   "models": 0,
+   "total": 6
+  },
+  {
+   "date": "2026-01-01",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2026-01-02",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2026-01-09",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2026-01-11",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-01-14",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-01-15",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-01-21",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-01-25",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-01-26",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-01-28",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2026-01-30",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-02-02",
+   "repos": 1,
+   "datasets": 1,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2026-02-03",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2026-02-17",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2026-02-18",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2026-02-20",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2026-03-02",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-03-03",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-03-04",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2026-03-05",
+   "repos": 2,
+   "datasets": 1,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2026-03-09",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2026-03-10",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2026-03-12",
+   "repos": 4,
+   "datasets": 0,
+   "models": 0,
+   "total": 4
+  },
+  {
+   "date": "2026-03-14",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-03-15",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-03-18",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-03-19",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-03-20",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2026-03-22",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2026-03-24",
+   "repos": 7,
+   "datasets": 0,
+   "models": 0,
+   "total": 7
+  },
+  {
+   "date": "2026-03-25",
+   "repos": 16,
+   "datasets": 0,
+   "models": 0,
+   "total": 16
+  },
+  {
+   "date": "2026-03-26",
+   "repos": 5,
+   "datasets": 1,
+   "models": 0,
+   "total": 6
+  },
+  {
+   "date": "2026-03-27",
+   "repos": 7,
+   "datasets": 0,
+   "models": 0,
+   "total": 7
+  },
+  {
+   "date": "2026-03-29",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2026-03-30",
+   "repos": 6,
+   "datasets": 0,
+   "models": 0,
+   "total": 6
+  },
+  {
+   "date": "2026-03-31",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2026-04-01",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2026-04-03",
+   "repos": 6,
+   "datasets": 0,
+   "models": 0,
+   "total": 6
+  },
+  {
+   "date": "2026-04-04",
+   "repos": 4,
+   "datasets": 0,
+   "models": 0,
+   "total": 4
+  },
+  {
+   "date": "2026-04-05",
+   "repos": 12,
+   "datasets": 0,
+   "models": 0,
+   "total": 12
+  },
+  {
+   "date": "2026-04-06",
+   "repos": 9,
+   "datasets": 0,
+   "models": 0,
+   "total": 9
+  },
+  {
+   "date": "2026-04-08",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-04-09",
+   "repos": 11,
+   "datasets": 0,
+   "models": 0,
+   "total": 11
+  },
+  {
+   "date": "2026-04-10",
+   "repos": 12,
+   "datasets": 0,
+   "models": 0,
+   "total": 12
+  },
+  {
+   "date": "2026-04-12",
+   "repos": 5,
+   "datasets": 0,
+   "models": 0,
+   "total": 5
+  },
+  {
+   "date": "2026-04-13",
+   "repos": 1,
+   "datasets": 1,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2026-04-14",
+   "repos": 4,
+   "datasets": 0,
+   "models": 0,
+   "total": 4
+  },
+  {
+   "date": "2026-04-16",
+   "repos": 7,
+   "datasets": 0,
+   "models": 0,
+   "total": 7
+  },
+  {
+   "date": "2026-04-17",
+   "repos": 6,
+   "datasets": 1,
+   "models": 0,
+   "total": 7
+  },
+  {
+   "date": "2026-04-18",
+   "repos": 4,
+   "datasets": 0,
+   "models": 0,
+   "total": 4
+  },
+  {
+   "date": "2026-04-19",
+   "repos": 34,
+   "datasets": 0,
+   "models": 0,
+   "total": 34
+  },
+  {
+   "date": "2026-04-20",
+   "repos": 17,
+   "datasets": 0,
+   "models": 0,
+   "total": 17
+  },
+  {
+   "date": "2026-04-21",
+   "repos": 6,
+   "datasets": 0,
+   "models": 0,
+   "total": 6
+  },
+  {
+   "date": "2026-04-22",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-04-23",
+   "repos": 18,
+   "datasets": 1,
+   "models": 0,
+   "total": 19
+  },
+  {
+   "date": "2026-04-24",
+   "repos": 4,
+   "datasets": 0,
+   "models": 0,
+   "total": 4
+  },
+  {
+   "date": "2026-04-25",
+   "repos": 6,
+   "datasets": 0,
+   "models": 0,
+   "total": 6
+  },
+  {
+   "date": "2026-04-26",
+   "repos": 8,
+   "datasets": 0,
+   "models": 0,
+   "total": 8
+  },
+  {
+   "date": "2026-04-27",
+   "repos": 10,
+   "datasets": 1,
+   "models": 0,
+   "total": 11
+  },
+  {
+   "date": "2026-04-28",
+   "repos": 35,
+   "datasets": 1,
+   "models": 0,
+   "total": 36
+  },
+  {
+   "date": "2026-04-29",
+   "repos": 13,
+   "datasets": 0,
+   "models": 0,
+   "total": 13
+  },
+  {
+   "date": "2026-04-30",
+   "repos": 27,
+   "datasets": 0,
+   "models": 0,
+   "total": 27
+  },
+  {
+   "date": "2026-05-01",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2026-05-02",
+   "repos": 4,
+   "datasets": 0,
+   "models": 0,
+   "total": 4
+  },
+  {
+   "date": "2026-05-03",
+   "repos": 6,
+   "datasets": 0,
+   "models": 0,
+   "total": 6
+  },
+  {
+   "date": "2026-05-04",
+   "repos": 4,
+   "datasets": 1,
+   "models": 0,
+   "total": 5
+  },
+  {
+   "date": "2026-05-05",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-05-06",
+   "repos": 10,
+   "datasets": 1,
+   "models": 0,
+   "total": 11
+  },
+  {
+   "date": "2026-05-13",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-05-18",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2026-05-20",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-07-15",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-07-16",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-07-18",
+   "repos": 6,
+   "datasets": 0,
+   "models": 0,
+   "total": 6
+  },
+  {
+   "date": "2026-07-21",
+   "repos": 5,
+   "datasets": 0,
+   "models": 0,
+   "total": 5
+  },
+  {
+   "date": "2026-07-22",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2026-07-23",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2026-07-24",
+   "repos": 9,
+   "datasets": 0,
+   "models": 0,
+   "total": 9
+  },
+  {
+   "date": "2026-07-25",
+   "repos": 8,
+   "datasets": 0,
+   "models": 0,
+   "total": 8
+  },
+  {
+   "date": "2026-07-26",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-07-27",
+   "repos": 4,
+   "datasets": 1,
+   "models": 0,
+   "total": 5
+  },
+  {
+   "date": "2026-07-28",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2026-07-30",
+   "repos": 9,
+   "datasets": 0,
+   "models": 0,
+   "total": 9
+  },
+  {
+   "date": "2026-08-02",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-08-03",
+   "repos": 2,
+   "datasets": 1,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2026-08-04",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-08-05",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-08-08",
+   "repos": 4,
+   "datasets": 0,
+   "models": 0,
+   "total": 4
+  },
+  {
+   "date": "2026-08-09",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-08-10",
+   "repos": 9,
+   "datasets": 0,
+   "models": 0,
+   "total": 9
+  },
+  {
+   "date": "2026-08-11",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-08-12",
+   "repos": 9,
+   "datasets": 0,
+   "models": 0,
+   "total": 9
+  },
+  {
+   "date": "2026-08-14",
+   "repos": 4,
+   "datasets": 0,
+   "models": 0,
+   "total": 4
+  },
+  {
+   "date": "2026-08-16",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2026-08-17",
+   "repos": 3,
+   "datasets": 0,
+   "models": 0,
+   "total": 3
+  },
+  {
+   "date": "2026-08-19",
+   "repos": 4,
+   "datasets": 0,
+   "models": 0,
+   "total": 4
+  },
+  {
+   "date": "2026-08-20",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-08-24",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-09-01",
+   "repos": 4,
+   "datasets": 1,
+   "models": 1,
+   "total": 6
+  },
+  {
+   "date": "2026-09-04",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-09-17",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2026-09-22",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2026-10-08",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-10-14",
+   "repos": 1,
+   "datasets": 1,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2026-10-15",
+   "repos": 4,
+   "datasets": 2,
+   "models": 3,
+   "total": 9
+  },
+  {
+   "date": "2026-10-16",
+   "repos": 7,
+   "datasets": 1,
+   "models": 0,
+   "total": 8
+  },
+  {
+   "date": "2026-10-17",
+   "repos": 0,
+   "datasets": 2,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2026-10-18",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2026-10-19",
+   "repos": 12,
+   "datasets": 13,
+   "models": 0,
+   "total": 25
+  },
+  {
+   "date": "2026-10-20",
+   "repos": 4,
+   "datasets": 2,
+   "models": 0,
+   "total": 6
+  },
+  {
+   "date": "2026-10-21",
+   "repos": 10,
+   "datasets": 2,
+   "models": 4,
+   "total": 16
+  },
+  {
+   "date": "2026-10-22",
+   "repos": 8,
+   "datasets": 3,
+   "models": 0,
+   "total": 11
+  },
+  {
+   "date": "2026-10-23",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2026-10-24",
+   "repos": 3,
+   "datasets": 3,
+   "models": 2,
+   "total": 8
+  },
+  {
+   "date": "2026-10-25",
+   "repos": 5,
+   "datasets": 0,
+   "models": 0,
+   "total": 5
+  },
+  {
+   "date": "2026-10-26",
+   "repos": 0,
+   "datasets": 1,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-10-27",
+   "repos": 4,
+   "datasets": 0,
+   "models": 1,
+   "total": 5
+  },
+  {
+   "date": "2026-10-28",
+   "repos": 2,
+   "datasets": 3,
+   "models": 0,
+   "total": 5
+  },
+  {
+   "date": "2026-10-29",
+   "repos": 2,
+   "datasets": 1,
+   "models": 3,
+   "total": 6
+  },
+  {
+   "date": "2026-10-30",
+   "repos": 1,
+   "datasets": 0,
+   "models": 0,
+   "total": 1
+  },
+  {
+   "date": "2026-10-31",
+   "repos": 4,
+   "datasets": 1,
+   "models": 0,
+   "total": 5
+  },
+  {
+   "date": "2026-11-01",
+   "repos": 2,
+   "datasets": 0,
+   "models": 0,
+   "total": 2
+  },
+  {
+   "date": "2026-11-02",
+   "repos": 7,
+   "datasets": 1,
+   "models": 0,
+   "total": 8
+  },
+  {
+   "date": "2026-11-03",
+   "repos": 4,
+   "datasets": 2,
+   "models": 2,
+   "total": 8
+  }
+ ]
+}

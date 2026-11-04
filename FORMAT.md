@@ -11,9 +11,9 @@ Everything is scripted except the intro. An agent's only writing task is that on
 1. `scripts/assemble.py --from YYYY-MM-DD --to YYYY-MM-DD` lists public repos, models and datasets, groups them by creation day and writes `YYYY/MM/YYYY-MM-DD.json` with no `intro`. Names, types and descriptions come from metadata. Existing days are skipped unless `--force`. If a source fails it aborts and writes nothing.
 2. `with-secrets python3 scripts/write_intros.py` fills each missing `intro`, one call per day, through OpenRouter on `deepseek/deepseek-v4.1-flash`, and prints measured cost.
 3. `scripts/render_entry.py <json>...` validates, sorts the projects, sets the templated `summary` and writes the `.md`.
-4. `scripts/update_index.py` rebuilds the month and root indexes, each month's `wrap-up.md` (the days concatenated section by section, no AI) and `data.json`, which the blog reads at build time.
+4. `scripts/update_index.py` rebuilds the month and root indexes, each month's `wrap-up.md` (the days concatenated section by section, no AI) `data.json` and `stats.json`, which the blog reads at build time.
 
-Never edit a `.md` or `data.json` by hand. To correct an entry, edit its `.json` and rerun steps 3 and 4.
+Never edit a `.md`, `data.json` or `stats.json` by hand. To correct an entry, edit its `.json` and rerun steps 3 and 4.
 
 ## JSON schema
 
@@ -57,7 +57,8 @@ Forks, private repositories, gated Hugging Face items and this repository are le
 - Blog: `/firehose/` (with a month-by-month chart), `/firehose/YYYY/MM/`, `/firehose/YYYY/MM/wrap-up/`, `/firehose/YYYY/MM/DD/`
 - RSS: `https://blog.danielrosehill.com/firehose/rss.xml` (latest 50 days)
 - JSON Feed 1.1: `https://blog.danielrosehill.com/firehose/feed.json` (every day, projects under `_firehose`)
-- Raw: `data.json` in this repo: `metrics.totals`, `metrics.by_month`, `metrics.by_day` (counts of `repos`, `datasets`, `models`, `total`) and `entries`
+- Raw, `data.json` in this repo: `entries`, the full record of every day
+- Raw, `stats.json` in this repo: counts only, for charts and tables. `totals`, `by_month` and `by_day`, each with `repos`, `datasets`, `models` and `total`. Days with nothing created are absent from `by_day`
 
 ## Planned
 
