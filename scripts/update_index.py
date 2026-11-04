@@ -3,8 +3,9 @@
 
 Writes YYYY/MM/README.md for every month and the block between the markers in README.md.
 Each entry's list line comes from the `summary:` field in its front matter.
+Also writes entries.json, every YYYY-MM-DD.json newest first, which the blog reads at build time.
 """
-import re
+import json, re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -35,4 +36,7 @@ readme = ROOT / "README.md"
 text = readme.read_text(encoding="utf-8")
 new = text[: text.index(BEGIN) + len(BEGIN)] + "\n" + "\n".join(block) + "\n" + text[text.index(END):]
 readme.write_text(new, encoding="utf-8")
+structured = [json.loads(f.read_text(encoding="utf-8"))
+              for f in sorted(ROOT.glob("[0-9][0-9][0-9][0-9]/[0-9][0-9]/*-*-*.json"), reverse=True)]
+(ROOT / "entries.json").write_text(json.dumps(structured, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
 print(f"{len(entries)} entries, {len(months)} months")
