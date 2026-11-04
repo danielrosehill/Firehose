@@ -32,7 +32,7 @@ def intro(entry, model, key):
                                  {"Authorization": f"Bearer {key}", "Content-Type": "application/json"})
     with urllib.request.urlopen(req, timeout=120) as r:
         res = json.load(r)
-    text = re.sub(r"\s+", " ", res["choices"][0]["message"]["content"]).strip()
+    text = re.sub(r"\s+", " ", res["choices"][0]["message"]["content"] or "").strip()
     return text, res.get("usage", {}).get("cost", 0) or 0
 
 

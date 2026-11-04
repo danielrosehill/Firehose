@@ -12,6 +12,7 @@
 - [2025-12-24](2025-12-24.md): Public projects created on 24 December 2025: 2 repos.
 - [2025-12-23](2025-12-23.md): Public projects created on 23 December 2025: 1 repo.
 - [2025-12-21](2025-12-21.md): Public projects created on 21 December 2025: 2 repos.
+- [2025-12-20](2025-12-20.md): Public projects created on 20 December 2025: 2 repos.
 - [2025-12-18](2025-12-18.md): Public projects created on 18 December 2025: 3 repos and 1 dataset.
 - [2025-12-16](2025-12-16.md): Public projects created on 16 December 2025: 4 repos.
 - [2025-12-15](2025-12-15.md): Public projects created on 15 December 2025: 8 repos.

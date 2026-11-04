@@ -1,5 +1,7 @@
 {
   "date": "2025-12-20",
+  "summary": "Public projects created on 20 December 2025: 2 repos.",
+  "intro": "Two home organisation repositories: a GUI and CLI for printing QR code labels on Brother QL-700 printers, and a taxonomy for a Homebox fork.",
   "scope": "created",
   "projects": [
     {
