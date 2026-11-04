@@ -1,0 +1,32 @@
+{
+  "date": "2026-08-16",
+  "summary": "Public projects created on 16 August 2026: 3 repos.",
+  "intro": "Three Claude Code agent plugins covered shopping, vehicle diagnostics and travel: Amazon marketplace research with verified listing and delivery data, OBD-II fault diagnosis and maintenance planning, and baggage allowance calculation with packing and excess pricing.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Amazon Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Amazon-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: Amazon.com marketplace research - verified listing data, Prime-aware delivery dates checked against the ZIP they were rendered for, and Amazon's search filter grammar."
+    },
+    {
+      "name": "Claude OBD Diagnostics Plugin",
+      "url": "https://github.com/danielrosehill/Claude-OBD-Diagnostics-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: read OBD-II data from an ELM327-class adapter, normalise it to JSON, and diagnose faults and plan maintenance from it. WIP."
+    },
+    {
+      "name": "Claude Travel Packing Assistant Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Travel-Packing-Assistant-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: work out the real baggage allowance for every segment of an international itinerary, pack to the binding limit, price the excess options, and print an airport counter card"
+    }
+  ]
+}

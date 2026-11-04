@@ -1,0 +1,136 @@
+{
+  "date": "2026-03-25",
+  "summary": "Public projects created on 25 March 2026: 16 repos.",
+  "intro": "Indexes for Linux, networking, GitHub and OSINT work sit alongside Claude Code notes and workspace templates for systems administration. Smaller tools cover AMD GPU DisplayPort detection, Israeli emergency guidance, voice dictation with AI cleanup, and a software distribution pipeline.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AMD GPU DP Hotplug Fix",
+      "url": "https://github.com/danielrosehill/AMD-GPU-DP-Hotplug-Fix",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Workaround for AMDGPU DisplayPort monitors not detected at boot (Navi 32, kernel 6.14+)"
+    },
+    {
+      "name": "Claude Code Notes",
+      "url": "https://github.com/danielrosehill/Claude-Code-Notes",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Notebook (first entry) for making the most of Claude Code"
+    },
+    {
+      "name": "Claude Code Sysadmin Workspaces Index",
+      "url": "https://github.com/danielrosehill/Claude-Code-Sysadmin-Workspaces-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of Claude Code workspace templates for systems administration — servers, Proxmox, Docker, NAS, LAN management, and more"
+    },
+    {
+      "name": "Geopolitical And OSINT Index",
+      "url": "https://github.com/danielrosehill/Geopolitical-And-OSINT-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of repositories related to OSINT, geopolitical analysis, and situational awareness"
+    },
+    {
+      "name": "GitHub Management Tools Index",
+      "url": "https://github.com/danielrosehill/GitHub-Management-Tools-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of repositories for GitHub and repository management tools, automation, and utilities"
+    },
+    {
+      "name": "HFC Guidance Flip Book",
+      "url": "https://github.com/danielrosehill/HFC-Guidance-Flip-Book",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Pikud HaOref guidance in a visual presentation for younger audiences"
+    },
+    {
+      "name": "Israel Preparedness Index",
+      "url": "https://github.com/danielrosehill/Israel-Preparedness-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of repositories related to civilian emergency preparedness in Israel"
+    },
+    {
+      "name": "Linux Desktop Tools Index",
+      "url": "https://github.com/danielrosehill/Linux-Desktop-Tools-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of repositories for Linux desktop tools, KDE widgets, system utilities, and desktop applications"
+    },
+    {
+      "name": "My Tone Of Voice",
+      "url": "https://github.com/danielrosehill/My-Tone-Of-Voice",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Slash/technique for capturing tone of voice reference for AI agents"
+    },
+    {
+      "name": "Networking And Infrastructure Index",
+      "url": "https://github.com/danielrosehill/Networking-And-Infrastructure-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of repositories for networking, infrastructure, homelab, and server management"
+    },
+    {
+      "name": "Patches Repos Index",
+      "url": "https://github.com/danielrosehill/Patches-Repos-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of repositories containing patches, fixes, workarounds, and system administration solutions"
+    },
+    {
+      "name": "Software Pipeline",
+      "url": "https://github.com/danielrosehill/Software-Pipeline",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "WIP: Software distribution pipeline (PPA, packages, etc.)"
+    },
+    {
+      "name": "Sustainability And Impact Data Index",
+      "url": "https://github.com/danielrosehill/Sustainability-And-Impact-Data-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of repositories related to sustainability, GHG emissions, ESG, and environmental impact data"
+    },
+    {
+      "name": "Text Transformation And Cleanup Index",
+      "url": "https://github.com/danielrosehill/Text-Transformation-And-Cleanup-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of repositories for text transformation, transcription cleanup, and text processing tools"
+    },
+    {
+      "name": "VoiceBox",
+      "url": "https://github.com/danielrosehill/VoiceBox",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Idea for a spech tech solution - specced out by Claude"
+    },
+    {
+      "name": "Voxtype",
+      "url": "https://github.com/danielrosehill/Voxtype",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Voice dictation with multimodal AI cleanup — speak naturally, get polished text"
+    }
+  ]
+}

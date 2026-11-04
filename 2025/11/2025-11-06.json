@@ -1,0 +1,48 @@
+{
+  "date": "2025-11-06",
+  "summary": "Public projects created on 6 November 2025: 1 repo and 4 models.",
+  "intro": "A pattern for AI assisted development from a single long prompt joined four fine-tuned image models on Hugging Face: two for realistic Israeli street scenes, plus character LoRAs of a plush sloth in a dinosaur costume and a handmade donkey.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Spec Starter",
+      "url": "https://github.com/danielrosehill/Claude-Spec-Starter",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Pattern for AI assisted development starting from one (long) user prompt"
+    },
+    {
+      "name": "Dinosaur Sloth",
+      "url": "https://huggingface.co/danielrosehill/Dinosaur-Sloth",
+      "network": "Hugging Face",
+      "section": "models",
+      "type": "Fine-tuned model",
+      "description": "LORA for Flux created from photos of a cute sloth plushie wearing a dinosaur costume!"
+    },
+    {
+      "name": "Herman Poppleberry",
+      "url": "https://huggingface.co/danielrosehill/Herman-Poppleberry",
+      "network": "Hugging Face",
+      "section": "models",
+      "type": "Fine-tuned model",
+      "description": "Character LORA created from photos of a cute donkey plushie (handcrafted in Storrs, CT!)"
+    },
+    {
+      "name": "Jerusalem Images",
+      "url": "https://huggingface.co/danielrosehill/Jerusalem-Images",
+      "network": "Hugging Face",
+      "section": "models",
+      "type": "Fine-tuned model",
+      "description": "A Flux LORA for generating realistic images of Jerusalem, Israel trained on a dataset of streetscape images taken around West Jerusalem during the summer of 2025 (images: Daniel Rosehill)."
+    },
+    {
+      "name": "Tel Aviv Street Style",
+      "url": "https://huggingface.co/danielrosehill/Tel-Aviv-Street-Style",
+      "network": "Hugging Face",
+      "section": "models",
+      "type": "Fine-tuned model",
+      "description": "You should use TLVSCENE to trigger the image generation."
+    }
+  ]
+}

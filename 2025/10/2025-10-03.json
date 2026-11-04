@@ -1,0 +1,32 @@
+{
+  "date": "2025-10-03",
+  "summary": "Public projects created on 3 October 2025: 3 repos.",
+  "intro": "Three repositories cover agent tooling and audio interfaces: a set of non-development uses for Claude Code, a pattern for building agents that explore specific issues in depth, and a demo UI that parses and runs audio prompts.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Non Code Claude Code",
+      "url": "https://github.com/danielrosehill/Non-Code-Claude-Code",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Small collection of non-development related uses for Claude Code"
+    },
+    {
+      "name": "Personal Context AI Agent Pattern Model",
+      "url": "https://github.com/danielrosehill/Personal-Context-AI-Agent-Pattern-Model",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Description of a pattern I've used to build AI agents for in-depth exploration of specific issues"
+    },
+    {
+      "name": "Voice Prompt Runner",
+      "url": "https://github.com/danielrosehill/Voice-Prompt-Runner",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Demo UI which parses and then runs audio prompts"
+    }
+  ]
+}

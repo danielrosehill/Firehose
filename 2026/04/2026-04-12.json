@@ -1,0 +1,48 @@
+{
+  "date": "2026-04-12",
+  "summary": "Public projects created on 12 April 2026: 5 repos.",
+  "intro": "Several repositories cover AI tooling: an archive of structured ideation sessions, a list of memory resources, and a multi-model deliberation app with peer review. Others address infrastructure and media, including an HTTP file staging service for MCP servers and a desktop app that syncs podcast episodes to a micro SD card.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Ideation Runs",
+      "url": "https://github.com/danielrosehill/AI-Ideation-Runs",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Public archive of structured AI ideation sessions run using Claude Code"
+    },
+    {
+      "name": "AI Memory Layers",
+      "url": "https://github.com/danielrosehill/AI-Memory-Layers",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "List of AI memory resources"
+    },
+    {
+      "name": "LLM Council Grounded",
+      "url": "https://github.com/danielrosehill/LLM-Council-Grounded",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "LLM Council app - grounded multi-model deliberation with peer review and synthesis"
+    },
+    {
+      "name": "MCP File Staging Service",
+      "url": "https://github.com/danielrosehill/mcp-file-staging-service",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "Lightweight HTTP file staging service for MCP servers on remote machines — bridges the binary transfer gap in MCP protocol"
+    },
+    {
+      "name": "Podcast To SD Card",
+      "url": "https://github.com/danielrosehill/Podcast-To-SD-Card",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "A desktop GUI app (PyQt6) that syncs podcast episodes from an RSS feed to a micro SD card."
+    }
+  ]
+}

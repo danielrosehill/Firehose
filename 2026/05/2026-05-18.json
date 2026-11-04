@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-18",
+  "summary": "Public projects created on 18 May 2026: 3 repos.",
+  "intro": "Google Fonts tooling covers Linux installers, libraries and AI skills. Label printing work gathers open-source drivers and bridges for Brother, Niimbot, Dymo and Zebra printers, plus a GUI for the Brother P-Touch Cube on Ubuntu and KDE.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Google Fonts Tools Index",
+      "url": "https://github.com/danielrosehill/Google-Fonts-Tools-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "An index of utilities for installing and using Google Fonts, with a focus on Linux installers (CLI + GUI), libraries, and AI skills."
+    },
+    {
+      "name": "Label Printing Resources",
+      "url": "https://github.com/danielrosehill/Label-Printing-Resources",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of open-source utilities, drivers, and bridges for label printers (Brother, Niimbot, Dymo, Zebra, etc.) — Linux-focused."
+    },
+    {
+      "name": "PT P710BT Label GUI",
+      "url": "https://github.com/danielrosehill/PT-P710BT-Label-GUI",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "GUI for printing labels on the Brother P-Touch Cube (PT-P710BT) — Ubuntu/KDE, wraps ptouch-print"
+    }
+  ]
+}

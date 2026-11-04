@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-18",
+  "summary": "Public projects created on 18 April 2026: 4 repos.",
+  "intro": "Agent plugins for development bug tracking and MQTT broker observation sit alongside a tool that tests hypotheses across three models. A planning workspace for home media setup rounds out the repositories.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Dev Debugger Plugin",
+      "url": "https://github.com/danielrosehill/dev-debugger-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Bug-ticket workflow for development repos. Capture bugs into the repo itself, dispatch specialist remediation agents, document fixes privately, and ship releases — all through Claude Code."
+    },
+    {
+      "name": "Home Media Planner",
+      "url": "https://github.com/danielrosehill/Home-Media-Planner",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Planning workspace for home media setup — idea parking and specs"
+    },
+    {
+      "name": "Hypothesis Council",
+      "url": "https://github.com/danielrosehill/Hypothesis-Council",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Hypothesis-testing variant of the LLM council pattern — 3 diverse models (Sonnet, Grok, MiniMax) via OpenRouter, Sonar grounding, Typst report"
+    },
+    {
+      "name": "Mqtt Observability Plugin",
+      "url": "https://github.com/danielrosehill/mqtt-observability-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Observe and interact with an MQTT broker from inside Claude Code — monitor all traffic, watch a specific topic, or publish a payload. Credentials are collected once and reused across invocations."
+    }
+  ]
+}

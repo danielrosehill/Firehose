@@ -1,0 +1,112 @@
+{
+  "date": "2026-04-29",
+  "summary": "Public projects created on 29 April 2026: 13 repos.",
+  "intro": "Agent plugins for Claude Code cover newsletter management, GitHub gist publishing, session hopping on Linux, Pipewire audio control, and medication lookup in Israel. Other repositories hold changelog notes, temporary hacks, style prompts, a prompt context separator, scraping resources, and design sketches for agent-to-agent meeting and booking.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Buttondown Mgmt Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Buttondown-Mgmt-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Manage one or more Buttondown newsletters from Claude Code."
+    },
+    {
+      "name": "Claude Code Changelog Notes",
+      "url": "https://github.com/danielrosehill/Claude-Code-Changelog-Notes",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Personal, ad-hoc breakdowns of selected entries from the upstream Claude Code CHANGELOG — for closer reading, not a comprehensive mirror. No commitment to staying up to date."
+    },
+    {
+      "name": "Claude Code Hacks",
+      "url": "https://github.com/danielrosehill/Claude-Code-Hacks",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Small tricks and temporary workarounds for Claude Code — every hack timestamped, since the harness usually fills gaps quickly."
+    },
+    {
+      "name": "Claude Gist Writer Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Gist-Writer-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Publish content to GitHub gists with clear AI authorship and a PII pre-flight scrub for public publishes."
+    },
+    {
+      "name": "Claude Hopper",
+      "url": "https://github.com/danielrosehill/Claude-Hopper",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Skills for hopping between Claude Code sessions on Linux: spawn, handover, resume."
+    },
+    {
+      "name": "Claude MD Tester",
+      "url": "https://github.com/danielrosehill/Claude-MD-Tester",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Joke / parody / character-heavy Claude Code configs — kept separate from the serious style toolkit."
+    },
+    {
+      "name": "Claude Pipewire Skills Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Pipewire-Skills-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code skills for taming Pipewire / Wireplumber audio on Linux."
+    },
+    {
+      "name": "Claude Style Switcher",
+      "url": "https://github.com/danielrosehill/Claude-Style-Switcher",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Prompts and snippets that shape Claude's behaviour — tone, output style, response shape. Drop-in fragments for CLAUDE.md or output-style files."
+    },
+    {
+      "name": "Israel Medication Research Skills",
+      "url": "https://github.com/danielrosehill/Israel-Medication-Research-Skills",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Development workspace for agent skills specific to looking up availability of medication in Israel intended primarily for patients / non medical professionals and for eventual folding into Israel..."
+    },
+    {
+      "name": "Meet Me",
+      "url": "https://github.com/danielrosehill/Meet-Me",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Idea (part 1/2) for an agent to agent calendar-booking system using agent skills and a sandboxed A2A environment"
+    },
+    {
+      "name": "Prompt Context Separator",
+      "url": "https://github.com/danielrosehill/Prompt-Context-Separator",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Reproducible system prompt for use in agentic AI pipelines for preprocessing prompts to deconstruct them into prompt(s) and contextual data subelements"
+    },
+    {
+      "name": "Scraping And Data Extraction Resources",
+      "url": "https://github.com/danielrosehill/Scraping-And-Data-Extraction-Resources",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Curated index of scraping and data extraction tools, with a focus on packaging web data for AI agents"
+    },
+    {
+      "name": "The Lobby",
+      "url": "https://github.com/danielrosehill/The-Lobby",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Design sketch for a neutral, authenticated venue where two AI agents can meet, prove identity, and execute tools against one another with an audit trail."
+    }
+  ]
+}

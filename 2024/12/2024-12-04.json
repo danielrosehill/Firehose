@@ -1,0 +1,24 @@
+{
+  "date": "2024-12-04",
+  "summary": "Public projects created on 4 December 2024: 2 repos.",
+  "intro": "Two tools for company emissions analysis: a Streamlit visualisation of correlations between greenhouse gas emissions and profitability, and a calculator for monetised emissions based on disclosure data.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "GHG EBITDA Correlations",
+      "url": "https://github.com/danielrosehill/GHG-EBITDA-Correlations",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Streamlit data visualisation examining correlation between emissions & profitability"
+    },
+    {
+      "name": "Monetised GHG Emissions",
+      "url": "https://github.com/danielrosehill/Monetised-GHG-Emissions",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Calculating monetised GHG emissions for various companies based upon disclosure data"
+    }
+  ]
+}

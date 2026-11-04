@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-24",
+  "summary": "Public projects created on 24 April 2026: 4 repos.",
+  "intro": "Four repositories cover AI evaluation and agent tooling: skills for testing models against real workloads, a collection of evaluation frameworks, a plugin for building curated resource lists, and a snapshot of DeepSeek V4 pricing and availability.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Eval",
+      "url": "https://github.com/danielrosehill/AI-Eval",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Agent skills for evaluating AI models for a real job: define the workload, draw candidates from OpenRouter, run wide and shallow, publish findings."
+    },
+    {
+      "name": "Awesome AI Evaluations Tools",
+      "url": "https://github.com/danielrosehill/Awesome-AI-Evaluations-Tools",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "Collection of frameworks and tools for AI evalations, including tool-use, agentic AI, MCP, and multimodal"
+    },
+    {
+      "name": "Claude Resource List Builder Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Resource-List-Builder-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: build, maintain, and audit curated GitHub resource lists with AI-driven categorisation."
+    },
+    {
+      "name": "Deepseek 4 Pricing 240426",
+      "url": "https://github.com/danielrosehill/Deepseek-4-Pricing-240426",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A point-in-time, incomplete synopsis of DeepSeek V4 model availability and pricing as observed on 24 April 2026."
+    }
+  ]
+}

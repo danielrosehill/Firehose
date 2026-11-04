@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-22",
+  "summary": "Public projects created on 22 October 2026: 8 repos and 3 datasets.",
+  "intro": "Agent plugins for Claude Code covered microphone tuning, music video generation, planning documents, spending limits, Ubuntu hotkeys and vendor bug reporting. Election work included a 2026 Knesset model and reference datasets on the outgoing Knesset, candidate lists and polls. A voice-clone conversation and its alignment data rounded out the repositories.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "ASR Mic Tuner",
+      "url": "https://github.com/danielrosehill/ASR-Mic-Tuner",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "ASR Mic Tuner: tune your microphone for speech recognition on KDE Plasma — true analog gain, level, clipping, noise and voice analysis, tray"
+    },
+    {
+      "name": "Claude AVP Music Video Plugin",
+      "url": "https://github.com/danielrosehill/Claude-AVP-Music-Video-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: turn audio (e.g. Suno songs) into branded music videos with audio-visualizer-python (avp) — templates, brand kit, karaoke lyrics, AV1 encode"
+    },
+    {
+      "name": "Claude Planning Docs Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Planning-Docs-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: keep a repo's decision log and plans lean — record numbered decisions, compact old decisions and plans in place."
+    },
+    {
+      "name": "Claude Spend Approval Limit",
+      "url": "https://github.com/danielrosehill/Claude-Spend-Approval-Limit",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "CLAUDE.md snippet: a spending approval limit for AI agents — autonomous below it, estimate-and-ask above it"
+    },
+    {
+      "name": "Claude Ubuntu Hotkey Builder",
+      "url": "https://github.com/danielrosehill/Claude-Ubuntu-Hotkey-Builder",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude plugin: find free keys and build working shortcuts, macros and text-injection hotkeys on Ubuntu (X11/Wayland, KDE/GNOME)"
+    },
+    {
+      "name": "Israeli Elections 2026",
+      "url": "https://github.com/danielrosehill/Israeli-Elections-2026",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Modelling the 2026 Israeli Knesset election"
+    },
+    {
+      "name": "Me And My Voice Clone",
+      "url": "https://github.com/danielrosehill/Me-And-My-Voice-Clone",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A ten-minute conversation between me and a TTS clone of my own voice (Meorav v2.0, Qwen3-TTS fine-tune): original video, audio, per-line clips, alignment data and splice pipeline"
+    },
+    {
+      "name": "Vendor Liaison",
+      "url": "https://github.com/danielrosehill/Vendor-Liaison",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Report bugs, request features and disclose security issues to software vendors: structured channel data per vendor, routing rules, and your own preferred channels and contacts. Agent skills."
+    },
+    {
+      "name": "Israel Election 2026 Candidate Lists",
+      "url": "https://huggingface.co/datasets/danielrosehill/Israel-Election-2026-Candidate-Lists",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "This dataset contains every candidate list for the election to the 26th Knesset, held on 27 October 2026."
+    },
+    {
+      "name": "Israel Election 2026 Polls",
+      "url": "https://huggingface.co/datasets/danielrosehill/Israel-Election-2026-Polls",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "This dataset contains every published seat-projection poll for the 27 October 2026 Knesset election, from 23 December 2022 to 22 October 2026."
+    },
+    {
+      "name": "Israel Knesset 25 Members",
+      "url": "https://huggingface.co/datasets/danielrosehill/Israel-Knesset-25-Members",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "This dataset covers the outgoing 25th Knesset, elected on 1 November 2022, at the end of its term ahead of the 27 October 2026 election."
+    }
+  ]
+}

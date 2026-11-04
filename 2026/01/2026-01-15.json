@@ -1,0 +1,16 @@
+{
+  "date": "2026-01-15",
+  "summary": "Public projects created on 15 January 2026: 1 repo.",
+  "intro": "A Claude Code template for version controlled containers for legal files.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Case File",
+      "url": "https://github.com/danielrosehill/Claude-Case-File",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Claude Code template for creating version controlled containers for legal files"
+    }
+  ]
+}

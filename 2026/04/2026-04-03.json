@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-03",
+  "summary": "Public projects created on 3 April 2026: 6 repos.",
+  "intro": "A Claude Code slash command template for routing MCP server installs across MetaMCP instances, plus deployment stacks and compose files, and documentation for smart homes and shelter internet setups. A desktop tool cleans whiteboard photos through the Nano Banana 2 API.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Meta MCP Slash",
+      "url": "https://github.com/danielrosehill/Claude-Meta-MCP-Slash",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "A template Claude Code slash command that intelligently routes MCP server installations across multiple MetaMCP instances based on a tiered preference system."
+    },
+    {
+      "name": "Deployments Index",
+      "url": "https://github.com/danielrosehill/Deployments-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Stacks and deployment documentation and compose files"
+    },
+    {
+      "name": "Nano Banana Tech Diagram Maker",
+      "url": "https://github.com/danielrosehill/Nano-Banana-Tech-Diagram-Maker",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Desktop GUI tool that cleans up whiteboard photos using Nano Banana 2 (Via Fal API)"
+    },
+    {
+      "name": "Open Claw Stack",
+      "url": "https://github.com/danielrosehill/Open-Claw-Stack",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Deployment stack bundling Open Claw with components"
+    },
+    {
+      "name": "Our Smart Home",
+      "url": "https://github.com/danielrosehill/Our-Smart-Home",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Aggregated docs system for smart homes"
+    },
+    {
+      "name": "Public Shelter Internet Setup",
+      "url": "https://github.com/danielrosehill/Public-Shelter-Internet-Setup",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Makeshift DIY guide for getting internet into protected shelters in Israel"
+    }
+  ]
+}

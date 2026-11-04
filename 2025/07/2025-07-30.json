@@ -1,0 +1,24 @@
+{
+  "date": "2025-07-30",
+  "summary": "Public projects created on 30 July 2025: 2 repos.",
+  "intro": "Two agent configurations cover open-source intelligence on missile launches and text redaction for voice-note workflows.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "OSINT Missile Intelligence Agent",
+      "url": "https://github.com/danielrosehill/OSINT-Missile-Intelligence-Agent",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Snap reports about causes and quantitiative info about hostile missile launches"
+    },
+    {
+      "name": "Voice Note Redaction Agent",
+      "url": "https://github.com/danielrosehill/Voice-Note-Redaction-Agent",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Config for a text redaction agent for voicenote -> * workflows"
+    }
+  ]
+}

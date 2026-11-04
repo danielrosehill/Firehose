@@ -1,0 +1,16 @@
+{
+  "date": "2025-08-03",
+  "summary": "Public projects created on 3 August 2025: 1 dataset.",
+  "intro": "A training dataset exports a system prompt library as it stood on August 3rd, 2025.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "System Prompt Library 030825",
+      "url": "https://huggingface.co/datasets/danielrosehill/System-Prompt-Library-030825",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Training dataset",
+      "description": "Point-in-time export from Daniel Rosehill's system prompt library as of August 3rd, 2025"
+    }
+  ]
+}

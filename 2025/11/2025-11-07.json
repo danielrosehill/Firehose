@@ -1,0 +1,16 @@
+{
+  "date": "2025-11-07",
+  "summary": "Public projects created on 7 November 2025: 1 repo.",
+  "intro": "A research notebook on ADHD drug access, built in Claude.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude ADHD Research Workspace",
+      "url": "https://github.com/danielrosehill/Claude-ADHD-Research-Workspace",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Claude research notebook into ADHD drug access - an important topic!"
+    }
+  ]
+}

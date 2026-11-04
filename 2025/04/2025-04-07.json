@@ -1,0 +1,32 @@
+{
+  "date": "2025-04-07",
+  "summary": "Public projects created on 7 April 2025: 3 repos.",
+  "intro": "Three prompt collections cover privacy screening for shared prompt libraries, system prompts for refining speech-to-text output, and a utility for combining text transformation prompts.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Prompt Library Privacy Screener",
+      "url": "https://github.com/danielrosehill/Prompt-Library-Privacy-Screener",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Model for a PII screen (using Ollama) for open sourcing prompt libraries safely"
+    },
+    {
+      "name": "Speech To Text System Prompt Library",
+      "url": "https://github.com/danielrosehill/Speech-To-Text-System-Prompt-Library",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "An updated skeleton library of system prompts for using LLMs to refine STT output"
+    },
+    {
+      "name": "Text Transformation Prompt Combiner",
+      "url": "https://github.com/danielrosehill/Text-Transformation-Prompt-Combiner",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Basic implementation of a prompt concatenation utility for text transformation system prompts for converting transcribed text"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2025-04-25",
+  "summary": "Public projects created on 25 April 2025: 1 repo.",
+  "intro": "A collection of system prompts for a fictional bot, made for fun with the absurdity of the AI world.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Pseudobot System Prompts",
+      "url": "https://github.com/danielrosehill/Pseudobot-System-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "For having a bit of fun with the absurdity of the AI world we now live in"
+    }
+  ]
+}

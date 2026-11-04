@@ -1,0 +1,40 @@
+{
+  "date": "2026-08-14",
+  "summary": "Public projects created on 14 August 2026: 4 repos.",
+  "intro": "Four repositories cover personal mental health work with Claude Code, including a template index, a persistent context plugin, and a workspace for one bounded issue. A fourth documents routing a foot pedal to several dictation engines on KDE Wayland.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Mental Health Templates Index",
+      "url": "https://github.com/danielrosehill/Claude-Mental-Health-Templates-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Index of Claude Code templates, plugins and workspaces for mental health work a person does on their own material — issue-bounded workspaces, therapy tracking, appointment preparation, and the..."
+    },
+    {
+      "name": "Claude Personal Context Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Personal-Context-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: builds and maintains a persistent, portable background context layer — intake interview, ingestion of existing material, gap analysis, scoped retrieval, maintenance, export."
+    },
+    {
+      "name": "Claude Therapy Workspace Template",
+      "url": "https://github.com/danielrosehill/Claude-Therapy-Workspace-Template",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "GitHub template for working through one bounded personal issue with Claude Code — sessions, threads, timelines and a handover for a real appointment."
+    },
+    {
+      "name": "Foot Pedal Dictation Routing KDE Wayland",
+      "url": "https://github.com/danielrosehill/Foot-Pedal-Dictation-Routing-KDE-Wayland",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Routing one foot pedal to several dictation engines on KDE Wayland: why key collisions are deterministic not racy, and the xremap config that fixes them"
+    }
+  ]
+}

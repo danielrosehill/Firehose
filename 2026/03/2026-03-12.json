@@ -1,0 +1,40 @@
+{
+  "date": "2026-03-12",
+  "summary": "Public projects created on 12 March 2026: 4 repos.",
+  "intro": "Claude Code as an Ansible stand-in for environment setup and supervision sits alongside a work-in-progress KDE runner plan. For Israel, there are readiness SOPs for wartime and a real-time dashboard for Pikud HaOref alerts with multi-map Leaflet views and polygon overlays.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude OS Playbook",
+      "url": "https://github.com/danielrosehill/Claude-OS-Playbook",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Template: use Claude Code as an Ansible stand-in for repetitive environment setup and supervision"
+    },
+    {
+      "name": "Israel Preparedness SOPs",
+      "url": "https://github.com/danielrosehill/Israel-Preparedness-SOPs",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Readiness SOPs for wartime in Israel (my own)"
+    },
+    {
+      "name": "KDE Claude Runner",
+      "url": "https://github.com/danielrosehill/KDE-Claude-Runner",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "WIP/Plan"
+    },
+    {
+      "name": "Red Alert Geodash",
+      "url": "https://github.com/danielrosehill/Red-Alert-Geodash",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Real-time dashboard for Israel's Pikud HaOref rocket/situation alerts with multi-map Leaflet views and polygon overlays"
+    }
+  ]
+}

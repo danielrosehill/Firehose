@@ -1,0 +1,24 @@
+{
+  "date": "2025-08-26",
+  "summary": "Public projects created on 26 August 2025: 1 repo and 1 dataset.",
+  "intro": "Agent tooling work covered a script that clones the main agent development kits for testing and experimentation. On Hugging Face, a training dataset of Zapier integrations was published without a description.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Agent SDK Env Setup",
+      "url": "https://github.com/danielrosehill/Agent-SDK-Env-Setup",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Script to clone a few of the main ADKs (agent development kids) for testing/experimentation"
+    },
+    {
+      "name": "Zapier Integrations 260825",
+      "url": "https://huggingface.co/datasets/danielrosehill/Zapier-Integrations-260825",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Training dataset",
+      "description": "No description published."
+    }
+  ]
+}

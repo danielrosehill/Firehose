@@ -1,0 +1,16 @@
+{
+  "date": "2025-01-05",
+  "summary": "Public projects created on 5 January 2025: 1 repo.",
+  "intro": "Documentation for getting a cheap USB HID foot mouse to work on Linux.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "USB Foot Mouse Linux",
+      "url": "https://github.com/danielrosehill/USB-Foot-Mouse-Linux",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Documentation for getting a cheap USB HID foot mouse to work on Linux"
+    }
+  ]
+}

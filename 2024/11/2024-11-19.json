@@ -1,0 +1,48 @@
+{
+  "date": "2024-11-19",
+  "summary": "Public projects created on 19 November 2024: 5 repos.",
+  "intro": "Documentation work covered archived material gathered from various sources, short versioned tech notes, a derivative database of global value factors, and source data for corporate sustainability disclosures. A general purpose wiki for hosting notes and how-tos rounded out the repositories.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Docs Archive",
+      "url": "https://github.com/danielrosehill/Docs-Archive",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "archived documentation gathered from different sources and centralized on this repository."
+    },
+    {
+      "name": "Gists",
+      "url": "https://github.com/danielrosehill/Gists",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Short tech notes (as in Github Gists, but versioned in a repo to sync them to a doc site)"
+    },
+    {
+      "name": "GVFD Derivative Docs",
+      "url": "https://github.com/danielrosehill/GVFD-Derivative-Docs",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Documentation for derivative database of IFVI Global Value Factors Database (GVFD)"
+    },
+    {
+      "name": "Sustainability Reports Source",
+      "url": "https://github.com/danielrosehill/Sustainability-Reports-Source",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Source data and documentation for corporat sustainability disclosures/reporting"
+    },
+    {
+      "name": "Wiki",
+      "url": "https://github.com/danielrosehill/Wiki",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "General purpose wiki for hosting Gists, how-tos, etc."
+    }
+  ]
+}

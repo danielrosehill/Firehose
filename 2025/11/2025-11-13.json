@@ -1,0 +1,32 @@
+{
+  "date": "2025-11-13",
+  "summary": "Public projects created on 13 November 2025: 3 repos.",
+  "intro": "Three repositories cover AI-assisted debate templates, a slash command for telling colleagues about website updates, and a single-shot speech recognition benchmark for long audio.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Change My View",
+      "url": "https://github.com/danielrosehill/Claude-Change-My-View",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "CMV with AI (pattern/template)"
+    },
+    {
+      "name": "Claude Website Update Sender",
+      "url": "https://github.com/danielrosehill/Claude-Website-Update-Sender",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Website",
+      "description": "Slash command for notifying colleagues of website updates"
+    },
+    {
+      "name": "Long Form Audio Eval",
+      "url": "https://github.com/danielrosehill/Long-Form-Audio-Eval",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "Single shot STT benchmark for long from audio"
+    }
+  ]
+}

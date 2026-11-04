@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-15",
+  "summary": "Public projects created on 15 October 2026: 4 repos, 2 datasets and 3 models.",
+  "intro": "Indexes of English-Hebrew code-switching work and of Hugging Face releases, plus a directory of AI activity in Jerusalem, sit alongside an agent plugin for planning custom small models. New datasets cover household inventory specification lines and voice-note transcripts, and fine-tuned models classify Hebrew words in Latin letters, voice-note intent, and inventory specification attributes.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Custom Model Planning Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Custom-Model-Planning-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Plan custom small models and fine-tunes: Hub exists-check, prior-art research, approach ladder and build spec in a private planning repo."
+    },
+    {
+      "name": "English Hebrew Code Switching Index",
+      "url": "https://github.com/danielrosehill/English-Hebrew-Code-Switching-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of my English-Hebrew code-switching work: ASR fine-tunes, datasets, a Hebrew-in-Latin token classifier, Spaces and companion repos"
+    },
+    {
+      "name": "Hugging Face Releases Index",
+      "url": "https://github.com/danielrosehill/Hugging-Face-Releases-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Thematic index of my Hugging Face releases — models, datasets, Spaces, blogs — linked to their GitHub repos"
+    },
+    {
+      "name": "Jerusalem AI",
+      "url": "https://github.com/danielrosehill/Jerusalem-AI",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of AI in Jerusalem, Israel — research labs, companies, communities, events, people, municipal initiatives, and AI projects and datasets about the city"
+    },
+    {
+      "name": "Inventory Spec Lines",
+      "url": "https://huggingface.co/datasets/danielrosehill/inventory-spec-lines",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Training dataset",
+      "description": "14,426 product-specification lines from a real household inventory (cables, adapters, tools, electronics, household goods), each labelled with spans for a fixed set of 25 attributes (vocabulary v2):..."
+    },
+    {
+      "name": "Voice Notes",
+      "url": "https://huggingface.co/datasets/danielrosehill/Voice-Notes",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Evaluation dataset",
+      "description": "Real voice-note transcripts from one person's Voicenotes export (April 2026), filtered for privacy, for evaluating Voice-Note-Intent-Classifier."
+    },
+    {
+      "name": "Hebrew Latin Token Classifier",
+      "url": "https://huggingface.co/danielrosehill/hebrew-latin-token-classifier",
+      "network": "Hugging Face",
+      "section": "models",
+      "type": "Fine-tuned model",
+      "description": "Finds Hebrew words written in Latin letters inside English text."
+    },
+    {
+      "name": "Inventory Spec Extractor",
+      "url": "https://huggingface.co/danielrosehill/inventory-spec-extractor",
+      "network": "Hugging Face",
+      "section": "models",
+      "type": "Fine-tuned model",
+      "description": "A small model (33M parameters, int8 ONNX, about 34 MB) that finds structured attributes in one line of a free-text product specification:"
+    },
+    {
+      "name": "Voice Note Intent Classifier",
+      "url": "https://huggingface.co/danielrosehill/Voice-Note-Intent-Classifier",
+      "network": "Hugging Face",
+      "section": "models",
+      "type": "Fine-tuned model",
+      "description": "A small multi-label classifier that reads a voice-note transcript and predicts its intent (shopping list, to-do, calendar event, email draft, AI prompt and so on), so that an agent system can route..."
+    }
+  ]
+}

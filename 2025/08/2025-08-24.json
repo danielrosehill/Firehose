@@ -1,0 +1,24 @@
+{
+  "date": "2025-08-24",
+  "summary": "Public projects created on 24 August 2025: 2 repos.",
+  "intro": "Two Gemini CLI projects covered agent guidance and Ubuntu maintenance: home-folder rules for non-repository execution, and documentation for a maintenance agent.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Gemini CLI Home Guidance",
+      "url": "https://github.com/danielrosehill/Gemini-CLI-Home-Guidance",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Gemini.md (\"rules\") for the home folder / non repo constrained execution for Gemini CLI (model)"
+    },
+    {
+      "name": "Gemini Ubuntu Maintenance Agent",
+      "url": "https://github.com/danielrosehill/Gemini-Ubuntu-Maintenance-Agent",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "No description published."
+    }
+  ]
+}

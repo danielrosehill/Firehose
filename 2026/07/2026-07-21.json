@@ -1,0 +1,48 @@
+{
+  "date": "2026-07-21",
+  "summary": "Public projects created on 21 July 2026: 5 repos.",
+  "intro": "Agent-native development protocols, infrared control codes for a ducted air conditioner, and a print bridge for a networked label printer are among the tooling. Documentation covers the Eurobox crate standard and a calculator for industrial storage containers.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Agent Native Dev Protocols 0726",
+      "url": "https://github.com/danielrosehill/Agent-Native-Dev-Protocols-0726",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Research: is anyone building an agent-native protocol for the SDLC (specs, task graphs, progress state) — or is it still markdown all the way down? (July 2026)"
+    },
+    {
+      "name": "Electra Central Ac Ir Codes",
+      "url": "https://github.com/danielrosehill/electra-central-ac-ir-codes",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Broadlink IR codes + reverse-engineering methodology for a central (ducted) Electra/Tadiran air conditioner"
+    },
+    {
+      "name": "Eurobox Standard",
+      "url": "https://github.com/danielrosehill/eurobox-standard",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "The Eurobox (600x400 crate) standard: VDA 4500 source document, human-readable summary, and parametric 3D-printing skeletons for the 60x40x23 and 60x40x31 variants"
+    },
+    {
+      "name": "Ptouch Cube Print Bridge",
+      "url": "https://github.com/danielrosehill/ptouch-cube-print-bridge",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Turn a Brother PT-P710BT (P-Touch Cube Plus) into a networked label printer: USB print bridge on a home server + web-app integration snippets"
+    },
+    {
+      "name": "Storage Container Calculator",
+      "url": "https://github.com/danielrosehill/storage-container-calculator",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A single-page calculator for two families of industrial storage container — Euro stacking containers (Euroboxes) and attached-lid containers (ALCs) — that answers both halves of a purchasing question."
+    }
+  ]
+}

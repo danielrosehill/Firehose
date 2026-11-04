@@ -1,0 +1,16 @@
+{
+  "date": "2025-02-11",
+  "summary": "Public projects created on 11 February 2025: 1 repo.",
+  "intro": "A pipeline gathers useful API and SDK documentation for ingestion into a retrieval-augmented generation system.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "RAG API SDK Docs Pipeline",
+      "url": "https://github.com/danielrosehill/RAG-API-SDK-Docs-Pipeline",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Pipeline for gathering useful API and SDK docs for ingestion into a RAG pipeline (for grounding)"
+    }
+  ]
+}

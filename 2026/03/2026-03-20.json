@@ -1,0 +1,32 @@
+{
+  "date": "2026-03-20",
+  "summary": "Public projects created on 20 March 2026: 3 repos.",
+  "intro": "Civilian readiness material for Israel covered checklists, SOPs and peacetime preparation guides, plus extracted guidelines for AI agents. A separate repository demonstrated a pattern for a home CLAUDE.md file optimised for context handling.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Israel Civilian Readiness Guide",
+      "url": "https://github.com/danielrosehill/Israel-Civilian-Readiness-Guide",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "A consolidated series of readiness checklists, SOPs, and peacetime prep guides. Intended for civilian use in Israel. Non-official, but based on gov resources."
+    },
+    {
+      "name": "Pikud Haoref Guidelines 0326",
+      "url": "https://github.com/danielrosehill/Pikud-Haoref-Guidelines-0326",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Extracted guidelines for use as a ground truth for AI agents"
+    },
+    {
+      "name": "Split Claude MD Pattern",
+      "url": "https://github.com/danielrosehill/Split-Claude-MD-Pattern",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Demo/pattern for creating a home CLAUDE.md optimised for context handling"
+    }
+  ]
+}

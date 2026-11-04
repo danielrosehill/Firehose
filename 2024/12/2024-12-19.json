@@ -1,0 +1,16 @@
+{
+  "date": "2024-12-19",
+  "summary": "Public projects created on 19 December 2024: 1 repo.",
+  "intro": "A calculator that converts company emissions into monetary figures using proposed social cost of carbon values.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Emissions Monetisation Calculator",
+      "url": "https://github.com/danielrosehill/Emissions-Monetisation-Calculator",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Calculation tool for \"monetising\" companies' emissions at various proposed social cost of carbon values"
+    }
+  ]
+}

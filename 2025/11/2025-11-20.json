@@ -1,0 +1,24 @@
+{
+  "date": "2025-11-20",
+  "summary": "Public projects created on 20 November 2025: 2 repos.",
+  "intro": "A prompt collection for reading long reports with NotebookLM and documentation for fine-tuning Whisper speech recognition are the new repositories.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "NotebookLM Custom Prompts",
+      "url": "https://github.com/danielrosehill/NotebookLM-Custom-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "AI config / system prompt for reading long reports"
+    },
+    {
+      "name": "Whisiper Fine Tuning Resources",
+      "url": "https://github.com/danielrosehill/Whisiper-Fine-Tuning-Resources",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Some resources for those looking to fine-tune Whisper ASR"
+    }
+  ]
+}

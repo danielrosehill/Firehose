@@ -1,0 +1,16 @@
+{
+  "date": "2025-02-08",
+  "summary": "Public projects created on 8 February 2025: 1 repo.",
+  "intro": "A plot of how the maximum output token length of major language models has grown, as of February 2025.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "LLM Max Token Length 0225",
+      "url": "https://github.com/danielrosehill/LLM-Max-Token-Length-0225",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "A plot showing the evolution of the max output token length by major LLMs, Feb 2025"
+    }
+  ]
+}

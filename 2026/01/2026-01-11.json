@@ -1,0 +1,16 @@
+{
+  "date": "2026-01-11",
+  "summary": "Public projects created on 11 January 2026: 1 repo.",
+  "intro": "A utility for switching microphone sources on Ubuntu.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Ubuntu Mic Selector",
+      "url": "https://github.com/danielrosehill/Ubuntu-Mic-Selector",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Utility for switching microphone sources"
+    }
+  ]
+}

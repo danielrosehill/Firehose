@@ -1,0 +1,16 @@
+{
+  "date": "2025-10-06",
+  "summary": "Public projects created on 6 October 2025: 1 dataset.",
+  "intro": "A small image dataset of Jerusalem streetscapes, photographed by day and by night, documents the city's rapidly changing urban landscape.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Jerusalem Streetscapes",
+      "url": "https://huggingface.co/datasets/danielrosehill/Jerusalem-Streetscapes",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "A small image dataset containing photos of the rapidly changing urban landscape of Jerusalem, Israel, captured by day and by night."
+    }
+  ]
+}

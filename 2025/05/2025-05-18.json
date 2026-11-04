@@ -1,0 +1,24 @@
+{
+  "date": "2025-05-18",
+  "summary": "Public projects created on 18 May 2025: 2 repos.",
+  "intro": "An N8N agent workflow that recommends system prompt fixes from structured form inputs, alongside documentation of a tech stack and recommendations.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "System Prompt Tuning Agent N8N",
+      "url": "https://github.com/danielrosehill/System-Prompt-Tuning-Agent-N8N",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "N8N agent workflow for an agent that recommends fixes to system prompts based on structured user inputs provided by form"
+    },
+    {
+      "name": "Tech Stack",
+      "url": "https://github.com/danielrosehill/Tech-Stack",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Tech stack and recommendations"
+    }
+  ]
+}

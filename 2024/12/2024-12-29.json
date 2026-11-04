@@ -1,0 +1,16 @@
+{
+  "date": "2024-12-29",
+  "summary": "Public projects created on 29 December 2024: 1 repo.",
+  "intro": "A repository documenting how security is handled in practice.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Perplexity Security 1224",
+      "url": "https://github.com/danielrosehill/Perplexity-Security-1224",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Repository to demonstrate the \"security through security\" being currently implemented"
+    }
+  ]
+}

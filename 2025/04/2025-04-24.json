@@ -1,0 +1,24 @@
+{
+  "date": "2025-04-24",
+  "summary": "Public projects created on 24 April 2025: 2 repos.",
+  "intro": "A Home Assistant air quality monitoring dashboard and a system prompt for cleaning up AI voice transcripts are the new work. The repositories cover home environmental monitoring and speech-to-text post-processing.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "HA Air Quality Dashboard",
+      "url": "https://github.com/danielrosehill/HA-Air-Quality-Dashboard",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Air quality monitoring dashboard for Home Assistant"
+    },
+    {
+      "name": "STT Basic Cleanup System Prompt",
+      "url": "https://github.com/danielrosehill/STT-Basic-Cleanup-System-Prompt",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Basic foundational system prompt for cleaning up AI voice transcripts"
+    }
+  ]
+}

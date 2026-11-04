@@ -1,0 +1,48 @@
+{
+  "date": "2025-10-22",
+  "summary": "Public projects created on 22 October 2025: 4 repos and 1 dataset.",
+  "intro": "Claude tooling appears in a sync agent, a slash command for seeding CLAUDE.md files, and a voice to prompt pipeline. A multimodal AI taxonomy spans a mapping tool and an audio dataset.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude OS Sync Agent",
+      "url": "https://github.com/danielrosehill/Claude-OS-Sync-Agent",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Idea - using Claude Code in place of Ansible for cross-device updating/sync"
+    },
+    {
+      "name": "Multimodal AI Taxonomy",
+      "url": "https://github.com/danielrosehill/Multimodal-AI-Taxonomy",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Attempting to map out the various input/output permutations for multimodal AI"
+    },
+    {
+      "name": "Private And Public Claude MD",
+      "url": "https://github.com/danielrosehill/Private-And-Public-Claude-MD",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Slash command to seed private and public CLAUDE.md files"
+    },
+    {
+      "name": "Voice To Prompt Pipeline",
+      "url": "https://github.com/danielrosehill/Voice-To-Prompt-Pipeline",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "A conceptual voice to prompt pipeline that attempts to separate instructions from provided context for better results"
+    },
+    {
+      "name": "Multimodal AI Taxonomy",
+      "url": "https://huggingface.co/datasets/danielrosehill/multimodal-ai-taxonomy",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "A comprehensive, structured taxonomy for mapping multimodal AI model capabilities across input and output modalities."
+    }
+  ]
+}

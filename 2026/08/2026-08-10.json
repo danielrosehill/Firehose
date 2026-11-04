@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-10",
+  "summary": "Public projects created on 10 August 2026: 9 repos.",
+  "intro": "Agent tooling and workflow documentation dominate: an index of end-to-end agentic workflows, a staged purchase evaluation pipeline, a shopping assistant demo, and traffic shaping for concurrent coding sessions. Policy and civic work appears through AI policymaking repositories and a fictional Jerusalem mayoral manifesto, alongside a documented case of ADHD medication access in Israel. Two utilities round it out: a virtual macropad and a zoxide alias bridge.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Agent Reference Workflows",
+      "url": "https://github.com/danielrosehill/Agent-Reference-Workflows",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Index of repositories that each demonstrate one agentic workflow end to end — kept as working context for designing plugins: what the workflow is, where it worked, and where it broke."
+    },
+    {
+      "name": "Agentic Purchase Pipeline",
+      "url": "https://github.com/danielrosehill/Agentic-Purchase-Pipeline",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A staged, agent-supported process for evaluating any purchase over ~$50: capture the spec, find the requirement no vendor publishes, revise the spec as research lands, and decide on landed cost."
+    },
+    {
+      "name": "AI Assisted Policymaking Index",
+      "url": "https://github.com/danielrosehill/AI-Assisted-Policymaking-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of repositories that use AI to formulate and explore public policy — manifestos, policy papers, multi-lens deliberation runs, and the research workspaces behind them."
+    },
+    {
+      "name": "Claude Fleet Traffic Shaper",
+      "url": "https://github.com/danielrosehill/Claude-Fleet-Traffic-Shaper",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Priority-aware traffic shaping for a fleet of concurrent Claude Code sessions — spec and prior-art research"
+    },
+    {
+      "name": "Claude For Mayor",
+      "url": "https://github.com/danielrosehill/Claude-For-Mayor",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "An AI-assisted municipal platform for a candidate who doesn't exist — a Jerusalem mayoral manifesto built properly: testimony, evidence, comparator cities, costed proposals, and a rule that nothing..."
+    },
+    {
+      "name": "Claude Shopping Eval Demo",
+      "url": "https://github.com/danielrosehill/Claude-Shopping-Eval-Demo",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "A demo of using Claude Code as a consumer purchasing assistant — spec + retailer catalogue screenshots in, ranked recommendations as a typeset PDF out."
+    },
+    {
+      "name": "Israel ADHD Medication Access",
+      "url": "https://github.com/danielrosehill/Israel-ADHD-Medication-Access",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A documented, redacted case record of trying to obtain prescribed ADHD medication in Israel — the published rules, the referral loop, and the regulation nobody mentioned"
+    },
+    {
+      "name": "Virtual Macropad",
+      "url": "https://github.com/danielrosehill/Virtual-Macropad",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "A software macropad for laptop users: press a leader key, a grid appears, press one more key, the macro fires."
+    },
+    {
+      "name": "Zalias",
+      "url": "https://github.com/danielrosehill/zalias",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Bridge shell aliases and zoxide: name a directory whatever you actually call it, and let z find it. Aliases become real zoxide entries, so fuzzy matching and frecency apply to them too."
+    }
+  ]
+}

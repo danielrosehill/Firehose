@@ -1,0 +1,40 @@
+{
+  "date": "2026-05-02",
+  "summary": "Public projects created on 2 May 2026: 4 repos.",
+  "intro": "Browser userscripts and agent plugins for AliExpress shopping took up most of the work: tools to hide combo deals, drive purchases through Claude in Chrome, and an index of the scripts. A plugin for developing and publishing Tampermonkey userscripts from inside Claude Code rounded out the repositories.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AliExpress No Combo Deals",
+      "url": "https://github.com/danielrosehill/AliExpress-No-Combo-Deals",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Userscript to hide combo deals (bundles, multi-buy promos) from AliExpress search and product pages"
+    },
+    {
+      "name": "Aliexpress Shopper",
+      "url": "https://github.com/danielrosehill/Aliexpress-Shopper",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for browser-driven AliExpress shopping via Claude in Chrome — search, read listings, compare tabs, apply filters, find similar, plus bundled userscripts (Find Similar, Hide Combo..."
+    },
+    {
+      "name": "Browser Scripts Index",
+      "url": "https://github.com/danielrosehill/Browser-Scripts-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of Daniel Rosehill's browser userscripts (Tampermonkey / Violentmonkey / Greasemonkey)"
+    },
+    {
+      "name": "Claude Userscript Development Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Userscript-Development-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Develop, test, and publish Tampermonkey (and Greasemonkey-compatible) userscripts from inside Claude Code — scaffolding, in-browser validation via Claude in Chrome, README generation, semver-aware..."
+    }
+  ]
+}

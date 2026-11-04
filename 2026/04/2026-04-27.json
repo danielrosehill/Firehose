@@ -1,0 +1,96 @@
+{
+  "date": "2026-04-27",
+  "summary": "Public projects created on 27 April 2026: 10 repos and 1 dataset.",
+  "intro": "Agent plugins for Claude Code covered data annotation, digital printing, KDE plasmoid development, programmatic document generation, Linux packaging, and social discourse research. Other repositories included Hebrew fonts, a KDE Plasma time widget, and notes on prompt categorisation. A training dataset decomposed voice-typed podcast prompts into asks, context chunks, and host notes.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Awesome Hebrew Fonts",
+      "url": "https://github.com/danielrosehill/Awesome-Hebrew-Fonts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Collection of Hebrew fonts, installer for Google Font distributed versions, and some resources"
+    },
+    {
+      "name": "Claude Data Annotation Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Data-Annotation-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "End-to-end toolkit for turning raw data into an annotated dataset and publishing it to Hugging Face."
+    },
+    {
+      "name": "Claude Digital Printing Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Digital-Printing-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "A Claude Code plugin with skills for preparing PDFs and documents for digital printing."
+    },
+    {
+      "name": "Claude KDE Plasmoid Dev Plugin",
+      "url": "https://github.com/danielrosehill/Claude-KDE-Plasmoid-Dev-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "A Claude Code plugin that adds a skill for developing KDE Plasma plasmoids — desktop and panel widgets built in QML and packaged for the Plasma shell."
+    },
+    {
+      "name": "Claude MD Experiments",
+      "url": "https://github.com/danielrosehill/Claude-MD-Experiments",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "No description published."
+    },
+    {
+      "name": "Claude Programmatic Doc Generation Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Programmatic-Doc-Generation-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "A Claude Code plugin for building programmatic document generation pipelines."
+    },
+    {
+      "name": "KDE Time Blocks Widget",
+      "url": "https://github.com/danielrosehill/KDE-Time-Blocks-Widget",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Modular KDE Plasma 6 desktop widget — local time, UTC, Gregorian date, and optional Hebrew calendar as reorderable cards"
+    },
+    {
+      "name": "Linux Packaging Plugin",
+      "url": "https://github.com/danielrosehill/Linux-Packaging-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Skills for Linux packaging and release workflows — Debian/.deb builds, npm publishing, GitHub release creation, agent deploy scripts, and local debugging."
+    },
+    {
+      "name": "Prompt Categorizer Notes",
+      "url": "https://github.com/danielrosehill/Prompt-Categorizer-Notes",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Notes for a small classifier that splits prompts into prompt/context/host-instruction tracks for agentic pipelines"
+    },
+    {
+      "name": "Social Feedback Plugin",
+      "url": "https://github.com/danielrosehill/Social-Feedback-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Check what people are actually saying about a topic, product, or provider by searching curated social-discourse sources."
+    },
+    {
+      "name": "Prompt Separation",
+      "url": "https://huggingface.co/datasets/danielrosehill/Prompt-Separation",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Training dataset",
+      "description": "Voice-typed podcast prompt transcripts decomposed into structured fields: discrete prompts (asks), a list of context chunks, and free-form host_notes."
+    }
+  ]
+}

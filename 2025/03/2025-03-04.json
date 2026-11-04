@@ -1,0 +1,24 @@
+{
+  "date": "2025-03-04",
+  "summary": "Public projects created on 4 March 2025: 2 repos.",
+  "intro": "A profile README and a small Python GUI for reviewing batches of markdown files make up the repositories, covering personal documentation and a tool for sorting training data.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "About Me",
+      "url": "https://github.com/danielrosehill/About-Me",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Because behind every Github profile is (hopefully) a human being!"
+    },
+    {
+      "name": "Markdown Keep Or Delete",
+      "url": "https://github.com/danielrosehill/Markdown-Keep-Or-Delete",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Incredibly simple Python GUI Intended to help those who are reviewing large batches of markdown files for a specific purpose, such as reviewing training data."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2025-12-01",
+  "summary": "Public projects created on 1 December 2025: 1 repo.",
+  "intro": "Configurations for AI agent virtual panels explore simulated voting bodies and thinking groups, with sets of panels for testing a frontier application of AI personas.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Agent Virtual Panel Configs",
+      "url": "https://github.com/danielrosehill/AI-Agent-Virtual-Panel-Configs",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Sets of \"panels\" for testing Rally (AskRally.com) exploring various \"frontier\" applications for the concept of AI personas and simulated voting bodies and thinking groups"
+    }
+  ]
+}

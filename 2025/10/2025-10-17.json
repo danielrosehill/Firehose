@@ -1,0 +1,56 @@
+{
+  "date": "2025-10-17",
+  "summary": "Public projects created on 17 October 2025: 5 repos and 1 dataset.",
+  "intro": "A batch of repositories covers disclosure and setup: a footer badge for AI friendliness, notes on backing up cloud services, pipx install scripts for Ubuntu, a notice for vibe coded projects, and a tool that turns voice recordings into blog posts. A Tel Aviv photo dataset rounds out the work.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Friendly Badge",
+      "url": "https://github.com/danielrosehill/AI-Friendly-Badge",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Website footer badge signalling AI \"friendliness\""
+    },
+    {
+      "name": "Back Up Your SaaS",
+      "url": "https://github.com/danielrosehill/Back-Up-Your-SaaS",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Notes for fellow cautious trusters of \"the cloud\""
+    },
+    {
+      "name": "Ubuntu Pipx Toolbox",
+      "url": "https://github.com/danielrosehill/Ubuntu-Pipx-Toolbox",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Bash scripts for installing a few useful tool groups on Ubuntu with pipx"
+    },
+    {
+      "name": "Vibe Coded Disclosure",
+      "url": "https://github.com/danielrosehill/Vibe-Coded-Disclosure",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Quick utility for adding FYI type notices to repos that they were vibe coded"
+    },
+    {
+      "name": "Voice Blog Creator",
+      "url": "https://github.com/danielrosehill/Voice-Blog-Creator",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Website",
+      "description": "Create a blog (or other doc) from a voice recording"
+    },
+    {
+      "name": "Tel Aviv Pics",
+      "url": "https://huggingface.co/datasets/danielrosehill/Tel-Aviv-Pics",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Training dataset",
+      "description": "This dataset contains 53 high-quality photographs of Tel Aviv's urban environment, captured to serve as reference material for game development, 3D world creation, and digital environment design."
+    }
+  ]
+}

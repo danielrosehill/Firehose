@@ -1,0 +1,16 @@
+{
+  "date": "2026-01-14",
+  "summary": "Public projects created on 14 January 2026: 1 repo.",
+  "intro": "Claude generated tips for home network migration, covering planning for a home network move.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Network In A Box Planning",
+      "url": "https://github.com/danielrosehill/Network-In-A-Box-Planning",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Claude generated tips for home network migration"
+    }
+  ]
+}

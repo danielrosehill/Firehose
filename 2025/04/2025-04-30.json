@@ -1,0 +1,32 @@
+{
+  "date": "2025-04-30",
+  "summary": "Public projects created on 30 April 2025: 3 repos.",
+  "intro": "Three repositories cover World Air Quality Index data: an OpenAPI description of the WAQI API, a pull script for feeding readings into Grafana, and a static snapshot of reporting stations in Israel.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "WAQI API OpenAPI",
+      "url": "https://github.com/danielrosehill/WAQI-API-OpenAPI",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "OpenAPI version (non-official, made by Actions GPT) for WAQI API"
+    },
+    {
+      "name": "WAQI Prometheus Pull",
+      "url": "https://github.com/danielrosehill/WAQI-Prometheus-Pull",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Simple pull script for World Air Quality Index (WAQI) data for integrating with Grafana"
+    },
+    {
+      "name": "WAQI Stations Israel",
+      "url": "https://github.com/danielrosehill/WAQI-Stations-Israel",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "List of some WAQI reporting points in Israel (static snapshot)"
+    }
+  ]
+}

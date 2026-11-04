@@ -1,0 +1,16 @@
+{
+  "date": "2026-03-18",
+  "summary": "Public projects created on 18 March 2026: 1 repo.",
+  "intro": "An AI agent for the JLM Shelter app and project.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "JLM Shelter Agent",
+      "url": "https://github.com/danielrosehill/JLM-Shelter-Agent",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "AI agent for JLM Shelter app/project"
+    }
+  ]
+}

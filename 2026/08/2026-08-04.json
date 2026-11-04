@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-04",
+  "summary": "Public projects created on 4 August 2026: 1 repo.",
+  "intro": "A reference dataset on Israeli mobile network operators and MVNOs, with hierarchical JSON, schema, spectrum holdings, PLMN codes and sourced confidence levels.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Israel MNOs Ref",
+      "url": "https://github.com/danielrosehill/Israel-MNOs-Ref",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Reference dataset on Israeli mobile network operators (MNOs) and MVNOs — hierarchical JSON with schema, spectrum holdings, PLMN codes and sourced confidence levels"
+    }
+  ]
+}

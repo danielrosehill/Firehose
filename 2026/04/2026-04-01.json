@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-01",
+  "summary": "Public projects created on 1 April 2026: 2 repos.",
+  "intro": "Two documentation repositories cover military and language topics. One gathers links about Operation Epic Fury and the Israel-US-Iran war, while the other catalogues Hebrew AI models spanning language models, speech recognition and synthesis, NLP, embeddings, and translation.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Epic Fury Projects",
+      "url": "https://github.com/danielrosehill/Epic-Fury-Projects",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Links to projects about Operation Epic Fury / Israel-US-Iran War 2026"
+    },
+    {
+      "name": "Hebrew AI Models",
+      "url": "https://github.com/danielrosehill/Hebrew-AI-Models",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A catalog of AI models for the Hebrew language — LLMs, STT, TTS, NLP, embeddings, translation, and more"
+    }
+  ]
+}

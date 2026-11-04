@@ -1,0 +1,24 @@
+{
+  "date": "2026-01-28",
+  "summary": "Public projects created on 28 January 2026: 2 repos.",
+  "intro": "A documentation set on tools for collecting digital evidence and a utility that unpacks, organises and transcribes WhatsApp chat exports covered digital forensics and messaging data.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Digital Evidence Toolkit",
+      "url": "https://github.com/danielrosehill/Digital-Evidence-Toolkit",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Notes on highly useful tools for digital evidence collection"
+    },
+    {
+      "name": "WhatsApp Export Unpacker",
+      "url": "https://github.com/danielrosehill/WhatsApp-Export-Unpacker",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Utility for unpacking, organising, and transcribing a WhatsApp chat export"
+    }
+  ]
+}

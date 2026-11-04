@@ -11,12 +11,17 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SYSTEM = """You write the lead paragraph for a dated log of public software projects.
-Write two or three plain sentences, 60 words at most, saying what was created and across which areas.
-Group the projects by subject; do not list every name. Use only what the project list says.
+If there is one project, write a single sentence saying what it is. If there are several, write two or three plain sentences, 60 words at most, grouping them by subject.
+Use only what the project list says. Do not list every name. With more than ten projects, name the main themes only, with no long lists: the 60-word limit is strict.
+Open with the subject matter in your own words, never a stock phrase or the word "led", and say "repositories" only when there are several.
+Never add a closing remark about what area the work sits in or what it centred on: stop when the projects are described.
 No hype, no emojis, no dashes as punctuation. Do not mention the date or a person. Output only the paragraph.
 
-Example of the style:
-New repositories covered agent tooling and home network security, with three agent plugins and a playbook for keeping cheap IP cameras local-only. On Hugging Face, the new work was speech-recognition training material: a small model that writes read-aloud sentences, its training data, and a mixed English-Hebrew sentence dataset."""
+Example with several projects:
+Three agent plugins and a playbook for keeping cheap IP cameras local-only covered agent tooling and home network security. On Hugging Face, the new work was speech-recognition training material: a small model that writes read-aloud sentences, its training data, and a mixed English-Hebrew sentence dataset.
+
+Example with one project:
+A plot of how the maximum output token length of major language models has grown, as of February 2025."""
 
 
 def intro(entry, model, key):

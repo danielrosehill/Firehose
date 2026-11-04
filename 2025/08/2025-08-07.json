@@ -1,0 +1,16 @@
+{
+  "date": "2025-08-07",
+  "summary": "Public projects created on 7 August 2025: 1 repo.",
+  "intro": "An expense processing backend workflow with an AI agent for document analysis.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "N8N Expense Processing Workflow",
+      "url": "https://github.com/danielrosehill/N8N-Expense-Processing-Workflow",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Expense processing backend workflow with AI agent for doc analysis"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-05",
+  "summary": "Public projects created on 5 August 2026: 1 repo.",
+  "intro": "A Typst template for formal Hebrew letters, handling right-to-left layout, the David Libre typeface, and dual Hebrew and Gregorian dates.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Typst Hebrew Letter",
+      "url": "https://github.com/danielrosehill/Typst-Hebrew-Letter",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Typst template for formal letters in Hebrew — RTL, David Libre, dual Hebrew/Gregorian dating"
+    }
+  ]
+}

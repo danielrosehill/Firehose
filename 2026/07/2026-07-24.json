@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-24",
+  "summary": "Public projects created on 24 July 2026: 9 repos.",
+  "intro": "Shared 3D character models and a browser game about a race through Jerusalem cover the playful side. Elsewhere there are Linux tools for locking a keyboard, redacting images and monitoring porch noise, plus an ecommerce cart format, a WiFi rules reference and a storage system for renters.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "3D Models",
+      "url": "https://github.com/danielrosehill/3D-Models",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Shared 3D character models (Corn, Herman) for My Weird Prompts games and projects"
+    },
+    {
+      "name": "Claude Background Hook Planner",
+      "url": "https://github.com/danielrosehill/Claude-Background-Hook-Planner",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Placeholder — planning repo for a Claude Code background hook planner"
+    },
+    {
+      "name": "Dot Cart",
+      "url": "https://github.com/danielrosehill/Dot-Cart",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "An open, interoperable file format (.cart) for ecommerce shopping carts, designed for agentic AI"
+    },
+    {
+      "name": "Esp32 Porch Decibel Monitor",
+      "url": "https://github.com/danielrosehill/esp32-porch-decibel-monitor",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Planning repo for a weatherproofed porch sensor documenting a nearby construction site (excavation phase, ~2 months to completion), reporting to Home Assistant."
+    },
+    {
+      "name": "Hands Off",
+      "url": "https://github.com/danielrosehill/hands-off",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Toddler-proof keyboard & mouse lock for Linux (evdev, works on X11 & Wayland)"
+    },
+    {
+      "name": "Image Sanitiser",
+      "url": "https://github.com/danielrosehill/image-sanitiser",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Detection-assisted image redaction studio for Linux — find QR codes, faces and PII in photos, obfuscate them, and verify they're gone."
+    },
+    {
+      "name": "Israel Wifi Regulations",
+      "url": "https://github.com/danielrosehill/israel-wifi-regulations",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Community reference: WiFi/RLAN spectrum rules in Israel (2.4/5/6 GHz) to help configure APs legally. Unofficial, dated snapshot — official authority is the Ministry of Communications."
+    },
+    {
+      "name": "Race To The Shuk",
+      "url": "https://github.com/danielrosehill/race-to-the-shuk",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "🫓 Corn the Sloth vs Herman Poppleberry race through Jerusalem dodging giant falafel to grab the last pita in the shuk. Ridiculous 3D browser game."
+    },
+    {
+      "name": "Warehouse Apartment",
+      "url": "https://github.com/danielrosehill/warehouse-apartment",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Field manual for a home storage & moving system built on industrial logistics standards (Euroboxes, pallets, picking bins) — born of Israel's tenancy-at-will rental market."
+    }
+  ]
+}

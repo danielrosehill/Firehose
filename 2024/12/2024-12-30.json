@@ -1,0 +1,16 @@
+{
+  "date": "2024-12-30",
+  "summary": "Public projects created on 30 December 2024: 1 repo.",
+  "intro": "A set of Gmail search strings for finding messages in crowded inboxes, published as documentation.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Gmail Search Strings",
+      "url": "https://github.com/danielrosehill/Gmail-Search-Strings",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Just a few search strings for finding stuff in overcrowded Gmail inboxes!"
+    }
+  ]
+}

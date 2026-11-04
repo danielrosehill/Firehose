@@ -1,0 +1,32 @@
+{
+  "date": "2025-11-25",
+  "summary": "Public projects created on 25 November 2025: 3 repos.",
+  "intro": "Documentation covers planning notes for an AI workspace and an analysis of Deepgram text input, while a validated Whisper fine-tuning script for Modal handles speech model training.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Workspace Planning Notes",
+      "url": "https://github.com/danielrosehill/Ai-Workspace-Planning-Notes",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Spec/notes for an AI workspace I have been planning for some time (incl consolidating previous notes)"
+    },
+    {
+      "name": "Deepgram Text Input",
+      "url": "https://github.com/danielrosehill/Deepgram-Text-Input",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Analysis of Deepgram text input"
+    },
+    {
+      "name": "Modal ACFT Finetune Script",
+      "url": "https://github.com/danielrosehill/Modal-ACFT-Finetune-Script",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Validated Whisper fine-tuning script on Modal for FUTO"
+    }
+  ]
+}

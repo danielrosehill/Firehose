@@ -1,0 +1,40 @@
+{
+  "date": "2025-04-21",
+  "summary": "Public projects created on 21 April 2025: 3 repos and 1 dataset.",
+  "intro": "Documentation repositories cover news monitoring dashboards for Israeli and Middle East coverage and system prompts for rewriting text in Shakespearean English. A prompt collection and reference dataset hold speech-to-text transformation prompts and what may be the largest set of Shakespearean rewriting prompts.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Grafana News Monitoring Dashboards",
+      "url": "https://github.com/danielrosehill/Grafana-News-Monitoring-Dashboards",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "News monitoring dashboards focused on Israeli & ME News"
+    },
+    {
+      "name": "Shakespearean Text Generators",
+      "url": "https://github.com/danielrosehill/Shakespearean-Text-Generators",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "System prompts for rewriting text in Shakespearan English"
+    },
+    {
+      "name": "Text Transformation Prompt Collection 2",
+      "url": "https://github.com/danielrosehill/Text-Transformation-Prompt-Collection-2",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "An abbreviated collection of STT transformation prompts"
+    },
+    {
+      "name": "Shakespearean Text Transformation Prompts",
+      "url": "https://huggingface.co/datasets/danielrosehill/Shakespearean-Text-Transformation-Prompts",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "Welcome to what might be the internet's largest collection of prompts for rewriting text in Shakespearean English!"
+    }
+  ]
+}

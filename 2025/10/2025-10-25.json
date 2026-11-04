@@ -1,0 +1,48 @@
+{
+  "date": "2025-10-25",
+  "summary": "Public projects created on 25 October 2025: 5 repos.",
+  "intro": "Claude agent tooling covers bash alias management, repository-level CLAUDE.md files, and a plugin for device security audits, alongside a seeder for Linux desktop filesystems. Separate notes document what helps with sensitivity to sound.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Bash Alias Manager Claude",
+      "url": "https://github.com/danielrosehill/Bash-Alias-Manager-Claude",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Claude agent directory for managing bash aliases"
+    },
+    {
+      "name": "Claude Code Repo Managers ClaudeMD",
+      "url": "https://github.com/danielrosehill/Claude-Code-Repo-Managers-ClaudeMD",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "CLAUDE.md files for repo base levels for bulk mgmt"
+    },
+    {
+      "name": "Claude Security Auditor Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Security-Auditor-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Pattern/model for using CC for conducting device level security audits"
+    },
+    {
+      "name": "Linux Desktop ClaudeMD Seeder",
+      "url": "https://github.com/danielrosehill/Linux-Desktop-ClaudeMD-Seeder",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Seeds Claude.md files at common places in Linux Desktop filesystems"
+    },
+    {
+      "name": "Sound Sensitivity Notes",
+      "url": "https://github.com/danielrosehill/Sound-Sensitivity-Notes",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Just a few notes for others who experience sensitivity to sound based on things I've found helpful and mildly life-changing"
+    }
+  ]
+}

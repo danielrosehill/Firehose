@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-12",
+  "summary": "Public projects created on 12 August 2026: 9 repos.",
+  "intro": "Nine repositories cover Claude Code tooling and workflow. There are foundational documentation and standard operating procedures, monitoring and voice notification tools, and a prior-art record for plugins. Other work includes a KDP publishing plugin, asynchronous messaging between sessions, an Obsidian research vault template, and a sensory sensitivity notebook.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Foundations",
+      "url": "https://github.com/danielrosehill/Claude-Foundations",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "The foundational layer of a Claude Code setup, indexed as one system: five slots — entrypoint, reference context, standing directives, procedures, capability — the repos that own each, and the order..."
+    },
+    {
+      "name": "Claude Monitor Research",
+      "url": "https://github.com/danielrosehill/Claude-Monitor-Research",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "What a multi-pane Claude Code workflow actually needs from a display, measured in text cells rather than inches"
+    },
+    {
+      "name": "Claude SOPs",
+      "url": "https://github.com/danielrosehill/Claude-SOPs",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Keep your own standard operating procedures as a private, versioned markdown library that Claude Code reads on demand — one CLAUDE.md pointer, one index, one procedure per run."
+    },
+    {
+      "name": "Claude Tooling Prior Art",
+      "url": "https://github.com/danielrosehill/Claude-Tooling-Prior-Art",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Public record of prior-art scans for Claude Code tooling — does a plugin/MCP/skill already exist for this, or is it blue sky? Dated verdicts, with the searches that produced them."
+    },
+    {
+      "name": "Claude Voice Notifier",
+      "url": "https://github.com/danielrosehill/Claude-Voice-Notifier",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Planning repo: Claude places an outbound phone call to deliver a one-time, task-specific spoken notification on your behalf. Twilio + per-call agent instructions."
+    },
+    {
+      "name": "KDP Publishing Plugin",
+      "url": "https://github.com/danielrosehill/KDP-Publishing-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: typeset a print-ready Amazon KDP paperback with Typst."
+    },
+    {
+      "name": "Multisession",
+      "url": "https://github.com/danielrosehill/Multisession",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Asynchronous agent-to-agent messages between Claude Code sessions in different repos: a markdown mailbox in each repo's a2a/ folder, a SessionStart hook, reminders and living messages. No server."
+    },
+    {
+      "name": "Obsidian Research Vault Template",
+      "url": "https://github.com/danielrosehill/Obsidian-Research-Vault-Template",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "GitHub template for AI-assisted research that produces a working Obsidian vault, not a folder of markdown."
+    },
+    {
+      "name": "Sensory Notebook",
+      "url": "https://github.com/danielrosehill/Sensory-Notebook",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "An open notebook on sensory sensitivity — research Q&A with sourced answers, alongside my own sensory profile, story and the recommendations that actually worked. Not medical advice."
+    }
+  ]
+}

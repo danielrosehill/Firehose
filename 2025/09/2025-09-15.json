@@ -1,0 +1,24 @@
+{
+  "date": "2025-09-15",
+  "summary": "Public projects created on 15 September 2025: 1 repo and 1 dataset.",
+  "intro": "A Hebrew date and zmanim dashboard for daily productivity sits alongside a reference dataset of specialised AI agents for code generation, development workflows, and project management. The repositories cover personal scheduling and agent tooling.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Hebrew Dash",
+      "url": "https://github.com/danielrosehill/Hebrew-Dash",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Daily productivity dashboard/wall panel with Hebrew date and zmanim"
+    },
+    {
+      "name": "Code Gen Agents 0925",
+      "url": "https://huggingface.co/datasets/danielrosehill/Code-Gen-Agents-0925",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "A comprehensive collection of specialized AI agents for code generation, development workflows, and project management."
+    }
+  ]
+}

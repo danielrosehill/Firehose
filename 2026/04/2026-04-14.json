@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-14",
+  "summary": "Public projects created on 14 April 2026: 4 repos.",
+  "intro": "Tools for Claude Code that cut down on approval prompts and handle messy dictated input, plus bug reports for an offline speech-to-text app and research into live voice typing.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Calls The Shots",
+      "url": "https://github.com/danielrosehill/Claude-Calls-The-Shots",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Tell Claude Code to stop asking for approval and just do the work."
+    },
+    {
+      "name": "Handy Bugs And Ideas",
+      "url": "https://github.com/danielrosehill/Handy-Bugs-And-Ideas",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Bugs, regressions, and feature ideas for the Handy offline STT app — observed on Ubuntu/KDE/Wayland"
+    },
+    {
+      "name": "Live Typing UX Research",
+      "url": "https://github.com/danielrosehill/Live-Typing-UX-Research",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Claude-assisted technical research into live voice typing implementation approaches, focusing on inference, patterns, etc."
+    },
+    {
+      "name": "The User Voice Types",
+      "url": "https://github.com/danielrosehill/The-User-Voice-Types",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Drop-in snippets and slash commands for Claude Code users who dictate or type messily. They tell Claude to silently infer around transcription errors and erratic keystrokes instead of stopping to ask."
+    }
+  ]
+}

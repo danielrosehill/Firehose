@@ -1,0 +1,32 @@
+{
+  "date": "2026-08-17",
+  "summary": "Public projects created on 17 August 2026: 3 repos.",
+  "intro": "Three repositories cover durable goods and industrial purchasing: a directory of long lasting product recommendations with supporting evidence, a Claude Code plugin for researching industrial supplies on Grainger, and a notebook mapping consumer categories to industrial equivalents and whether the swap is worthwhile.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "BIFL Recs",
+      "url": "https://github.com/danielrosehill/BIFL-Recs",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Directory of durable-goods recommendations mined from r/BuyItForLife and adjacent sources, with evidence attached to every record"
+    },
+    {
+      "name": "Claude Grainger Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Grainger-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for product research on Grainger.com (US industrial MRO) — mapped API surface, facet grammar, branch stock, and HTTP-200 block classification"
+    },
+    {
+      "name": "Industrial Equivalents",
+      "url": "https://github.com/danielrosehill/Industrial-Equivalents",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "A public notebook mapping consumer product categories onto their industrial equivalents — and whether the swap is worth making at home"
+    }
+  ]
+}

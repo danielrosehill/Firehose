@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-04",
+  "summary": "Public projects created on 4 April 2026: 4 repos.",
+  "intro": "Indexes of AI browser tools and agent harnesses, plus API and service pricing snapshots, sit alongside local hardware benchmarks for Gemma 4.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Browser Tools",
+      "url": "https://github.com/danielrosehill/AI-Browser-Tools",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of AI browser tools — automation frameworks, AI-native browsers, MCP servers, extensions, and commercial products"
+    },
+    {
+      "name": "AI Harnesses",
+      "url": "https://github.com/danielrosehill/AI-Harnesses",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Point-in-time snapshot of projects describing themselves as AI agent harnesses (April 2026)"
+    },
+    {
+      "name": "Gemma 4 Benchmarks 0426",
+      "url": "https://github.com/danielrosehill/Gemma-4-Benchmarks-0426",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "Benchmarks for Gemma 4 on local hardware (i7-12700F, 64GB RAM, CPU-only)"
+    },
+    {
+      "name": "Price Research Index",
+      "url": "https://github.com/danielrosehill/Price-Research-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of point-in-time API and service pricing snapshots and cost comparisons"
+    }
+  ]
+}

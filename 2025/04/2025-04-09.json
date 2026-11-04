@@ -1,0 +1,24 @@
+{
+  "date": "2025-04-09",
+  "summary": "Public projects created on 9 April 2025: 2 repos.",
+  "intro": "Two repositories cover AI tooling for Jewish users: system prompts for AI assistants and a news brief workflow built with Perplexity's API and N8N.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Israel Morning News Briefs N8N Perplexity Sonar",
+      "url": "https://github.com/danielrosehill/Israel-Morning-News-Briefs-N8N-Perplexity-Sonar",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Using Perplexity API structured prompting and N8N to deliver a tailored news brief"
+    },
+    {
+      "name": "Jewish AI Assistant System Prompts",
+      "url": "https://github.com/danielrosehill/Jewish-AI-Assistant-System-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "System prompts for AI tools which may be useful for Jewish users"
+    }
+  ]
+}

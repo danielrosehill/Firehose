@@ -1,0 +1,24 @@
+{
+  "date": "2025-01-27",
+  "summary": "Public projects created on 27 January 2025: 2 repos.",
+  "intro": "Two repositories cover AI assistant configuration: a template for version controlling assistant setups and their context data, and an assistant that improves the configuration texts themselves.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Assistant Template",
+      "url": "https://github.com/danielrosehill/AI-Assistant-Template",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Template repository for version controlling AI assistant configurations (and associated elements like context data)"
+    },
+    {
+      "name": "Assistant Configuration Improver",
+      "url": "https://github.com/danielrosehill/Assistant-Configuration-Improver",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Assistant which improves the configuration of assistant configuration texts"
+    }
+  ]
+}

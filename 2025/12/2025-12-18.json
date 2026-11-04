@@ -1,0 +1,40 @@
+{
+  "date": "2025-12-18",
+  "summary": "Public projects created on 18 December 2025: 3 repos and 1 dataset.",
+  "intro": "Fine-tuning material and prompt notes for cleaning up transcribed text, plus research on voice control platforms that run on Linux. A curated audio dataset for training speech-to-text cleanup models rounds out the repositories.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Text Cleanup Fine Tuning Set",
+      "url": "https://github.com/danielrosehill/Text-Cleanup-Fine-Tuning-Set",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Fine-tuning dataset/plans for text cleanup audio multimodal"
+    },
+    {
+      "name": "Text Transformation Prompt Stack",
+      "url": "https://github.com/danielrosehill/Text-Transformation-Prompt-Stack",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Documentation/notes for a \"prompt stack\" for audio multimodal text processing"
+    },
+    {
+      "name": "Voice Control Linux",
+      "url": "https://github.com/danielrosehill/Voice-Control-Linux",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Claude-enhanced research for voice control platforms with Linux support"
+    },
+    {
+      "name": "Transcription Cleanup Trainer",
+      "url": "https://huggingface.co/datasets/danielrosehill/Transcription-Cleanup-Trainer",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "A curated dataset for training speech-to-text cleanup models to achieve optimal transcript refinement."
+    }
+  ]
+}

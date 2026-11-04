@@ -1,0 +1,24 @@
+{
+  "date": "2025-10-29",
+  "summary": "Public projects created on 29 October 2025: 2 repos.",
+  "intro": "Two repository templates for AI-assisted development were updated: one for a general dev repo with a swappable CLI, and one for an iterative deep research model with a voice pipeline.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Dev Repo Template Oct 2025",
+      "url": "https://github.com/danielrosehill/AI-Dev-Repo-Template-Oct-2025",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Updated AI assisted dev repo template (swap preferred CLI!)"
+    },
+    {
+      "name": "Claude Deep Research Model",
+      "url": "https://github.com/danielrosehill/Claude-Deep-Research-Model",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Repo model for an iterative deep research model with voice pipeline"
+    }
+  ]
+}

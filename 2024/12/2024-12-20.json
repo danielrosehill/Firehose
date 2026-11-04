@@ -1,0 +1,32 @@
+{
+  "date": "2024-12-20",
+  "summary": "Public projects created on 20 December 2024: 2 repos and 1 dataset.",
+  "intro": "A documentation dataset for global value factors and a greenhouse gas emissions processing pipeline cover sustainability and financial analysis data. A separate tool generates synthetic personally identifiable information for testing.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Global Value Factors Explorer Dataset",
+      "url": "https://github.com/danielrosehill/Global-Value-Factors-Explorer-Dataset",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Derivative database of IFVI Global Value Factors for data analysis and visualization use cases."
+    },
+    {
+      "name": "Mock PII Data",
+      "url": "https://github.com/danielrosehill/Mock-PII-Data",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Synthetic data containing personally identifiable information"
+    },
+    {
+      "name": "GHG Emissions Data",
+      "url": "https://huggingface.co/datasets/danielrosehill/GHG-Emissions-Data",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "This repository contains a comprehensive pipeline for processing and analyzing greenhouse gas (GHG) emissions data."
+    }
+  ]
+}

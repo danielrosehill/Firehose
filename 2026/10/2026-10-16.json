@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-16",
+  "summary": "Public projects created on 16 October 2026: 7 repos and 1 dataset.",
+  "intro": "Agent tooling covers a per-turn context router, ChatGPT plugins, and skills for Israeli research and right-to-left work. Text classifiers sort voice-note transcripts into tasks and separate genuine stranger email from pseudo-personalised outreach. A dictation cleanup model and its evaluation dataset are planned.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Agent Context Harness",
+      "url": "https://github.com/danielrosehill/Agent-Context-Harness",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Per-turn router that sends each agent message to the current task, an existing parallel worker, or a new parallel session - context hygiene without compaction. Idea + prior-art scan."
+    },
+    {
+      "name": "ASR Post Processor Model",
+      "url": "https://github.com/danielrosehill/ASR-Post-Processor-Model",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Light-touch text-in/text-out model that cleans raw Parakeet v2 dictation: disfluencies, contractions, paragraphs. Planning stage."
+    },
+    {
+      "name": "ChatGPT Plugins",
+      "url": "https://github.com/danielrosehill/ChatGPT-Plugins",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Daniel Rosehill's public plugins for ChatGPT (adapted from his Claude Code marketplace) as an importable plugin marketplace catalogue"
+    },
+    {
+      "name": "Israel Research Skills",
+      "url": "https://github.com/danielrosehill/Israel-Research-Skills",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Israel-specific research skills for Claude and ChatGPT: Kol Zchut rights, Home Front Command guidelines, NSC travel warnings, medicines, offices, phone numbers, opening hours, salaries and shopping."
+    },
+    {
+      "name": "Pseudo Personalised Spam Classifier",
+      "url": "https://github.com/danielrosehill/Pseudo-Personalised-Spam-Classifier",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Small classifier separating genuine stranger email from AI-era pseudo-personalised mass outreach that evades spam filters. Public, pseudonymised dataset."
+    },
+    {
+      "name": "RTL Skills",
+      "url": "https://github.com/danielrosehill/RTL-Skills",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Right-to-left skills for AI agents: Hebrew and RTL email, Typst PDFs, letters, HTML newsletters, Google Workspace and generated files"
+    },
+    {
+      "name": "Voice Note Task Classifier",
+      "url": "https://github.com/danielrosehill/Voice-Note-Task-Classifier",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Small multi-label classifier that routes voice-note transcripts to task-specific subagents (email, calendar, to-do, spec...). Public successor of v0.1.0."
+    },
+    {
+      "name": "Parakeet Dictation Cleanup Eval",
+      "url": "https://huggingface.co/datasets/danielrosehill/Parakeet-Dictation-Cleanup-Eval",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Evaluation dataset",
+      "description": "Status (2026-10-16): placeholder. No clips recorded yet."
+    }
+  ]
+}

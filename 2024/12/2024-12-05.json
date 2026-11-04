@@ -1,0 +1,24 @@
+{
+  "date": "2024-12-05",
+  "summary": "Public projects created on 5 December 2024: 1 repo and 1 dataset.",
+  "intro": "A Streamlit app visualises the Global Value Factors Database released by the IFVI. A reference dataset of IFVI value factors has been refactored and superseded by a later version.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Value Factors Data Vis",
+      "url": "https://github.com/danielrosehill/Value-Factors-Data-Vis",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Streamlit app containing visualisations of the Global Value Factors Database (GVFD) released by the IFVI in 2024"
+    },
+    {
+      "name": "Ifvi Valuefactors Deriv",
+      "url": "https://huggingface.co/datasets/danielrosehill/ifvi_valuefactors_deriv",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "This refactored IFVI value factor dataset has been supplanted by V2."
+    }
+  ]
+}

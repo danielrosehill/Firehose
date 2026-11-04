@@ -1,0 +1,22 @@
+{
+  "date": "2025-12-20",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Brother Label Printer GUI",
+      "url": "https://github.com/danielrosehill/Brother-Label-Printer-GUI",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Python GUI and CLI application for printing labels with QR codes on Brother QL-700 label printers"
+    },
+    {
+      "name": "Home Inventory Taxonomy",
+      "url": "https://github.com/danielrosehill/Home-Inventory-Taxonomy",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Taxonomy for Homebox fork"
+    }
+  ]
+}

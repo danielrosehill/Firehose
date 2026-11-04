@@ -1,0 +1,16 @@
+{
+  "date": "2025-01-22",
+  "summary": "Public projects created on 22 January 2025: 1 repo.",
+  "intro": "A set of AI assistants for analysing sustainability-related data makes up the environmental data work.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Environmental Data AI Assistants",
+      "url": "https://github.com/danielrosehill/Environmental-Data---AI-Assistants",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "This repository is a gathering of AI assistants that I've developed for analysing sustainability-related data"
+    }
+  ]
+}

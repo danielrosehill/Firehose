@@ -1,0 +1,168 @@
+{
+  "date": "2025-11-15",
+  "summary": "Public projects created on 15 November 2025: 20 repos.",
+  "intro": "A set of Claude Code plugins covered AI tool management, configuration, image and video production, security auditing, Conda environments, scheduling, filesystem organisation, general development, Git and GitHub, networking, learning, Linux desktops and servers, research, and writing. Documentation covered a desktop backup plan and an index of Israel-related repositories, alongside Israel-specific agent skills.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Tools Plugin",
+      "url": "https://github.com/danielrosehill/ai-tools-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for AI tool management, MCP server configuration, and AI workflow automation slash commands and agents."
+    },
+    {
+      "name": "Claude Code Plugin",
+      "url": "https://github.com/danielrosehill/claude-code-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for managing Claude Code configuration, slash commands, agents, and plugin development workflow."
+    },
+    {
+      "name": "Claude Image Production Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Image-Production-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for image processing, photo editing, batch image operations, and visual media management."
+    },
+    {
+      "name": "Claude Security Checkup Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Security-Checkup-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: security and compliance workflow — vulnerability scanning, system hardening, config audits."
+    },
+    {
+      "name": "Claude Video Editor Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Video-Editor-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for video editing, transcoding, video processing, and multimedia workflow automation."
+    },
+    {
+      "name": "Conda Management Plugin",
+      "url": "https://github.com/danielrosehill/conda-management-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for managing Conda environments, packages, and Python virtual environment workflows."
+    },
+    {
+      "name": "Desktop Backup Notes 1125",
+      "url": "https://github.com/danielrosehill/Desktop-Backup-Notes-1125",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "This repo consists of a few planning notes, with Claude, for an updated desktop backup strategy."
+    },
+    {
+      "name": "Diary Planner Plugin",
+      "url": "https://github.com/danielrosehill/diary-planner-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "A workflow planning and time management template with agent definitions and slash commands for managing daily, weekly, and monthly schedules."
+    },
+    {
+      "name": "Filesystem Org Plugin",
+      "url": "https://github.com/danielrosehill/filesystem-org-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for file system organization, folder structure optimization, and file management automation workflows."
+    },
+    {
+      "name": "General Dev Plugin",
+      "url": "https://github.com/danielrosehill/general-dev-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for software development workflows, code generation, refactoring, and general development assistance."
+    },
+    {
+      "name": "Git GitHub Plugin",
+      "url": "https://github.com/danielrosehill/git-github-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for Git version control, GitHub repository management, and collaborative development workflows."
+    },
+    {
+      "name": "Israel Projects Index",
+      "url": "https://github.com/danielrosehill/Israel-Projects-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of repositories related to Israel"
+    },
+    {
+      "name": "Israeli AI",
+      "url": "https://github.com/danielrosehill/Israeli-AI",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Israel-specific agent skills, MCPs, and builders"
+    },
+    {
+      "name": "Lan Manager Plugin",
+      "url": "https://github.com/danielrosehill/lan-manager-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "A specialized workspace for network system administration on local area networks, providing tools for LAN scanning, device discovery, device management, and network operations."
+    },
+    {
+      "name": "Learning Plugin",
+      "url": "https://github.com/danielrosehill/learning-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for learning resources, skill development, educational content creation, and knowledge management."
+    },
+    {
+      "name": "Linux Desktop Plugin",
+      "url": "https://github.com/danielrosehill/linux-desktop-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for Linux desktop environment management, KDE/Plasma configuration, and desktop system administration."
+    },
+    {
+      "name": "Linux Server Plugin",
+      "url": "https://github.com/danielrosehill/linux-server-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for Linux server administration, service management, and server infrastructure workflows."
+    },
+    {
+      "name": "Server Management Plugin",
+      "url": "https://github.com/danielrosehill/server-management-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for server infrastructure management, monitoring, deployment, and server administration workflows."
+    },
+    {
+      "name": "Tech Research Plugin",
+      "url": "https://github.com/danielrosehill/tech-research-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for technology research, competitive analysis, technical documentation retrieval, and research workflows."
+    },
+    {
+      "name": "Writing Editing Plugin",
+      "url": "https://github.com/danielrosehill/writing-editing-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for writing assistance, proofreading, style editing, and text transformation workflows."
+    }
+  ]
+}

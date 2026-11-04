@@ -1,0 +1,16 @@
+{
+  "date": "2025-01-29",
+  "summary": "Public projects created on 29 January 2025: 1 repo.",
+  "intro": "A Streamlit web interface for editing assistant configuration texts.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Assistant Config Editor",
+      "url": "https://github.com/danielrosehill/Assistant-Config-Editor",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Streamlit web UI for editing assistant configuration texts"
+    }
+  ]
+}

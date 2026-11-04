@@ -1,0 +1,24 @@
+{
+  "date": "2025-10-21",
+  "summary": "Public projects created on 21 October 2025: 2 repos.",
+  "intro": "Two repositories cover agent tooling: slash commands for Linux desktop administration with Claude Code or other agents, and a test app built in Google AI Studio that reads body language from a photo plus context.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Code Linux Desktop Slash Commands",
+      "url": "https://github.com/danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Slash commands for Linux desktop sysadmin with Claude Code (or any other agent)"
+    },
+    {
+      "name": "Gemini Body Language Analyst",
+      "url": "https://github.com/danielrosehill/Gemini-Body-Language-Analyst",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Test app \"vibe coded\" in Google AI Studio: analyse body language from photo plus context"
+    }
+  ]
+}

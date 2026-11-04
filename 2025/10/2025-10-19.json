@@ -1,0 +1,16 @@
+{
+  "date": "2025-10-19",
+  "summary": "Public projects created on 19 October 2025: 1 repo.",
+  "intro": "A tool for wallpapers of places in Israel, with an installer.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Israel Wallpapers",
+      "url": "https://github.com/danielrosehill/Israel-Wallpapers",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Wallpapers of places in Israel and installer"
+    }
+  ]
+}

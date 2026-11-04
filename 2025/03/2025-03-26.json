@@ -1,0 +1,32 @@
+{
+  "date": "2025-03-26",
+  "summary": "Public projects created on 26 March 2025: 3 repos.",
+  "intro": "Three prompt collections cover system prompts for a conversational AI agent and idea generator, for research purposes, and for using AI tools to generate and improve system prompts.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Agent Ideation Chatbot System Prompt",
+      "url": "https://github.com/danielrosehill/AI-Agent-Ideation-Chatbot-System-Prompt",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "System prompt (03/25) for a conversational AI agent and assistant idea generator"
+    },
+    {
+      "name": "Research System Prompts",
+      "url": "https://github.com/danielrosehill/Research-System-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "System prompts for research purposes"
+    },
+    {
+      "name": "System Prompt Generation Configurations",
+      "url": "https://github.com/danielrosehill/System-Prompt-Generation-Configurations",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "System prompts for using AI tools to generate and improve system prompts"
+    }
+  ]
+}

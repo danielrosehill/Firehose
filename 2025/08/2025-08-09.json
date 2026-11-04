@@ -1,0 +1,48 @@
+{
+  "date": "2025-08-09",
+  "summary": "Public projects created on 9 August 2025: 5 repos.",
+  "intro": "Documentation for storing prompt runs and an index of AI projects sat alongside MCP work: an index of MCP projects and a server for basic data operations on a self-hosted NocoDB instance. A KDE widget for controlling an air conditioner rounded out the repositories.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Output Storage Backend Data Models",
+      "url": "https://github.com/danielrosehill/AI-Output-Storage-Backend-Data-Models",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Some simple data tables for populating a backend for storing prompt runs"
+    },
+    {
+      "name": "AI Projects Index",
+      "url": "https://github.com/danielrosehill/AI-Projects-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of AI project related indices (master index)"
+    },
+    {
+      "name": "KDE AC Controller Widget",
+      "url": "https://github.com/danielrosehill/KDE-AC-Controller-Widget",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Controller for AC"
+    },
+    {
+      "name": "MCP Projects Index",
+      "url": "https://github.com/danielrosehill/MCP-Projects-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "Various MCP related projects I'm either working on (or have worked on)"
+    },
+    {
+      "name": "NocoDB Data MCP",
+      "url": "https://github.com/danielrosehill/NocoDB-Data-MCP",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "MCP for performing basic data ops on a self-hosted NocoDB with Cloudflare Tunnnel auth"
+    }
+  ]
+}

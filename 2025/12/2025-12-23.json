@@ -1,0 +1,16 @@
+{
+  "date": "2025-12-23",
+  "summary": "Public projects created on 23 December 2025: 1 repo.",
+  "intro": "A Claude app optimiser with a system prompt, slash command and agent.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude App Optimiser",
+      "url": "https://github.com/danielrosehill/Claude-App-Optimiser",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Application",
+      "description": "System prompt, slash command, agent"
+    }
+  ]
+}

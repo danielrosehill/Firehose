@@ -1,0 +1,280 @@
+{
+  "date": "2026-04-19",
+  "summary": "Public projects created on 19 April 2026: 34 repos.",
+  "intro": "A large set of Claude Code plugins covers agent workflows for audio, budgeting, career planning, debugging, documentation, legal work, media, shopping, smart home, sysadmin and transcription. Other repositories hold geopolitical forecasting and OSINT tooling, plus documentation on AI tooling and public documents.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Stack 0426",
+      "url": "https://github.com/danielrosehill/AI-Stack-0426",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "A ~60 minute voice note walking through my current AI tooling, workflows, what's working, what isn't, and where the gaps are."
+    },
+    {
+      "name": "Arch And Interiors Index",
+      "url": "https://github.com/danielrosehill/Arch-And-Interiors-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Resource list for sharing with my favorite architect (my wife) — tools, repos, and mad dabblings."
+    },
+    {
+      "name": "Audio Voice Id Plugin",
+      "url": "https://github.com/danielrosehill/audio-voice-id-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for speaker diarization, voice enrollment, and identification"
+    },
+    {
+      "name": "Claude AI Engineering Plugin",
+      "url": "https://github.com/danielrosehill/Claude-AI-Engineering-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: prompt engineering workflow — craft, eval, catalog, version, search prompts, with library/factory variants."
+    },
+    {
+      "name": "Claude Audio Production Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Audio-Production-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: audio production workflow — normalize, VAD, transcribe, diarize, podcast assembly, with engineering/podcast/transcript variants."
+    },
+    {
+      "name": "Claude Budgeting Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Budgeting-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: personal budgeting workflow — log transactions, categorize, forecast, track goals, monthly reports."
+    },
+    {
+      "name": "Claude Career Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Career-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: career planning workflow — /log-role, /compare-offer, /track-application, /salary-benchmark primitives, with planning/job-search/salary variants."
+    },
+    {
+      "name": "Claude Content Writing Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Content-Writing-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: content writing workflow — draft, proofread, version, publish, style guides, with writing/blog/opinion/document variants."
+    },
+    {
+      "name": "Claude Debugging Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Debugging-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: debugging workflow — capture logs, isolate issue, diagnose error, track bugs, with code/system/issue variants."
+    },
+    {
+      "name": "Claude Desktop Manager Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Desktop-Manager-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: Linux desktop management workflow — check system, install packages, apply config, troubleshoot hardware, review logs, update system."
+    },
+    {
+      "name": "Claude Dev Tools Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Dev-Tools-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: dev tools workflow — scaffold-repo, audit-code, retrofit-claude, code-review, templatize, handover, with repo-scaffold/retrofitting/code-review/templatization/session-continuity..."
+    },
+    {
+      "name": "Claude Filesystem Organiser Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Filesystem-Organiser-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: filesystem organisation workflow — scan, dedupe, cleanup, rename, sort for local directories and Google Drive, with local/gdrive variants."
+    },
+    {
+      "name": "Claude Friction Points",
+      "url": "https://github.com/danielrosehill/Claude-Friction-Points",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A running, public notebook of friction points I run into while using Claude — Claude Code, the desktop/web apps, and the API."
+    },
+    {
+      "name": "Claude Ideation Planning Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Ideation-Planning-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: ideation and planning workflow — capture, evaluate, rank, simulate, and plan ideas, with..."
+    },
+    {
+      "name": "Claude Knowledge Documentation Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Knowledge-Documentation-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: knowledge documentation workflow — index-topic, cross-link, build-taxonomy, version-doc primitives, with wiki/resource-library/process-docs/experiment-report variants."
+    },
+    {
+      "name": "Claude Legal Investigative Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Legal-Investigative-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: legal and investigative workflow — log-evidence, analyze-document, redact-content, generate-brief, with legal-research/evidence/osint/document-analysis variants."
+    },
+    {
+      "name": "Claude Media Library Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Media-Library-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: media library workflow — catalog, tag, search, sort, dedupe assets."
+    },
+    {
+      "name": "Claude Personal Planning Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Personal-Planning-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: personal life planning workflow — log-entry/review-progress/set-goal primitives, with diary/health/family/house-search/preparedness/therapy/personal-dev variants."
+    },
+    {
+      "name": "Claude PR Media Work Plugin",
+      "url": "https://github.com/danielrosehill/Claude-PR-Media-Work-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: PR and media monitoring workflow — scan coverage, summarize press, draft responses, comms strategy, with monitoring/response/strategy variants."
+    },
+    {
+      "name": "Claude Repo To Content Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Repo-To-Content-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Convert a GitHub repository's content (README, docs/, planning/, diagrams, images) into polished, publishable documents via Typst. Supports multiple output formats and publishing targets."
+    },
+    {
+      "name": "Claude Research Space Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Research-Space-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: research workflow — source-log/summarize-sources/deep-dive primitives with deep-research/technical/osint/georeaction/stack/ecosystem/competitor variants."
+    },
+    {
+      "name": "Claude Rudder",
+      "url": "https://github.com/danielrosehill/Claude-Rudder",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: meta-tooling workflow — context-break evaluation, CLAUDE.md chunking, MCP command generation, primitive selection, and claude-code feedback filing, with..."
+    },
+    {
+      "name": "Claude Shopping Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Shopping-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: consumer shopping workflow — find product, compare vendors, check availability, with Israel and generic region variants."
+    },
+    {
+      "name": "Claude Smart Home Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Smart-Home-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: smart home workflow — Home Assistant, Snapcast multi-room audio, Plex media server ops, with HA/audio/media-server variants."
+    },
+    {
+      "name": "Claude Sysadmin Homelab Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Sysadmin-Homelab-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: sysadmin and homelab workflow — diagnose, status, config, services, logs, alias, hardware-probe, with linux/docker/conda/proxmox/nas/adb/sbc/remote-admin variants."
+    },
+    {
+      "name": "Claude Technical Docs Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Technical-Docs-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: technical documentation workflow — README authoring, reference docs, changelogs, tech-stack capture, markdown conversion, fix-note archival, with..."
+    },
+    {
+      "name": "Claude Transcription Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Transcription-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: audio transcription workflow — denoise, VAD, transcribe (Gemini/AssemblyAI/Whisper), clean, structure, export, with cloud and local engine backends."
+    },
+    {
+      "name": "Claude Workspace Foundational Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Workspace-Foundational-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: workspace foundational workflow — generic workspace scaffolds, context/memory maintenance, report parsing, inventory analysis, web analytics, and template discovery primitives,..."
+    },
+    {
+      "name": "Claude Workspace Reshaping 190426",
+      "url": "https://github.com/danielrosehill/Claude-Workspace-Reshaping-190426",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "No description published."
+    },
+    {
+      "name": "Geopol Forecast Council",
+      "url": "https://github.com/danielrosehill/Geopol-Forecast-Council",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Lean geopolitical forecasting council: 5-model panel, grounded SITREP, structured predictions per horizon, deterministic Typst report"
+    },
+    {
+      "name": "Iran Israel Grounding Package",
+      "url": "https://github.com/danielrosehill/Iran-Israel-Grounding-Package",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Multiagent grounding pipeline designed for geopolitical intelligence/OSINT projects and pipelines"
+    },
+    {
+      "name": "Israel OSINT Planner",
+      "url": "https://github.com/danielrosehill/Israel-OSINT-Planner",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "A public Claude Code research workspace for planning open-source intelligence (OSINT) investigations focused on Israel."
+    },
+    {
+      "name": "Procurement Tools Plugin",
+      "url": "https://github.com/danielrosehill/procurement-tools-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Product research and procurement skills for Claude Code, with a particular focus on technical specification conformance — spec-as-code, datasheet retrieval, cross-region part-number equivalence,..."
+    },
+    {
+      "name": "Public Docs",
+      "url": "https://github.com/danielrosehill/Public-Docs",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Centralised repository of public-facing formatted documents, chronologically indexed"
+    }
+  ]
+}

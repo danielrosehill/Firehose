@@ -1,0 +1,16 @@
+{
+  "date": "2024-12-10",
+  "summary": "Public projects created on 10 December 2024: 1 repo.",
+  "intro": "An experiment tests how well code-generation models produce one long continuous output.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "LLM Long Codegen Test",
+      "url": "https://github.com/danielrosehill/LLM-Long-Codegen-Test",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Experiment to evaluate the ability of code-gen LLMs to generate a long continuous (single) output"
+    }
+  ]
+}

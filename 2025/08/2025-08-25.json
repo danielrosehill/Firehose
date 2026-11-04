@@ -1,0 +1,24 @@
+{
+  "date": "2025-08-25",
+  "summary": "Public projects created on 25 August 2025: 2 repos.",
+  "intro": "Two repositories cover AI tooling and documentation: a system prompt for a blunt assistant that gets to the point, and a structured version of a tech stack that includes AI tools.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "No BS AI System Prompt",
+      "url": "https://github.com/danielrosehill/No-BS-AI-System-Prompt",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "System prompt for a blunt AI assistant / LLM that gets to the point"
+    },
+    {
+      "name": "Tech Stack Structured",
+      "url": "https://github.com/danielrosehill/Tech-Stack-Structured",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Structured version of tech stack, including AI tools"
+    }
+  ]
+}

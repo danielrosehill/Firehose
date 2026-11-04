@@ -1,0 +1,16 @@
+{
+  "date": "2024-11-29",
+  "summary": "Public projects created on 29 November 2024: 1 repo.",
+  "intro": "An index to documentation projects hosted on GitHub and elsewhere.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Docs And Notes Index",
+      "url": "https://github.com/danielrosehill/Docs-And-Notes-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "An index to my various documentation projects, both on Github and elsewhere"
+    }
+  ]
+}

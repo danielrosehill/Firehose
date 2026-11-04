@@ -1,0 +1,16 @@
+{
+  "date": "2025-06-29",
+  "summary": "Public projects created on 29 June 2025: 1 repo.",
+  "intro": "Configuration for an AI agent specialised in interpreting satellite imagery.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "SATINT Agent",
+      "url": "https://github.com/danielrosehill/SATINT-agent",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Configuration for an AI agent specialised in interpreting satellite imagery"
+    }
+  ]
+}

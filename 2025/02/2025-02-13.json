@@ -1,0 +1,16 @@
+{
+  "date": "2025-02-13",
+  "summary": "Public projects created on 13 February 2025: 1 repo.",
+  "intro": "A tool listing subreddits that discuss AI related topics.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Awesome AI Subreddits",
+      "url": "https://github.com/danielrosehill/Awesome-AI-Subreddits",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Subreddits discussing AI related things!"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "date": "2026-04-26",
+  "summary": "Public projects created on 26 April 2026: 8 repos.",
+  "intro": "Agent plugins for media production covered audio, image and video editing tools, plus a workspace template and an end-to-end video producer. Other repositories indexed domain-finding tools and a vault system for activating plugins and MCP servers per project.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Audio Editing Tools",
+      "url": "https://github.com/danielrosehill/AI-Audio-Editing-Tools",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Curated index of AI audio-editing tools for agents — skills, CLIs, MCPs, podcast pipelines"
+    },
+    {
+      "name": "AI Image Editing Tools",
+      "url": "https://github.com/danielrosehill/AI-Image-Editing-Tools",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Collection of AI image-editing tools for agents — skills, CLIs, MCPs"
+    },
+    {
+      "name": "AI Video Production Template",
+      "url": "https://github.com/danielrosehill/AI-Video-Production-Template",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Per-project workspace skeleton for AI-generated video. Pairs with the ai-video-production-lifecycle plugin."
+    },
+    {
+      "name": "AI Video Tools",
+      "url": "https://github.com/danielrosehill/AI-Video-Tools",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Collection of AI video production tools — ComfyUI, MCPs, agent skills, and agentic video frameworks"
+    },
+    {
+      "name": "Claude AI Video Producer Plugin",
+      "url": "https://github.com/danielrosehill/Claude-AI-Video-Producer-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Drive an AI-generated video project end-to-end: brief, models, characters, script, storyboard, pipelines, assembly, export."
+    },
+    {
+      "name": "Claude Vault",
+      "url": "https://github.com/danielrosehill/Claude-Vault",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Production Claude Vault meta-plugin: per-project activation of dormant plugins and MCP servers. See Claude-Vault-Idea for design."
+    },
+    {
+      "name": "Claude Vault Idea",
+      "url": "https://github.com/danielrosehill/Claude-Vault-Idea",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Idea capture: a meta-plugin holding a personal vault of plugins and MCP servers, activated selectively per project, to mitigate the eager plugin description loading problem at user level."
+    },
+    {
+      "name": "Domain Finding Tools",
+      "url": "https://github.com/danielrosehill/Domain-Finding-Tools",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Point-in-time collection of open-source domain-finding tools, with a focus on AI agent skills, Claude Code skills, and MCP servers (compiled April 2026, may not be maintained)"
+    }
+  ]
+}

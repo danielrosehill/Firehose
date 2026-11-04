@@ -1,0 +1,24 @@
+{
+  "date": "2025-11-01",
+  "summary": "Public projects created on 1 November 2025: 2 repos.",
+  "intro": "Two repositories cover image editing with generative models: a loose collection of image to image prompts for common transformations, and a starter for a Nano Banana inpainting utility and image editor built on the Gemini API.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Image To Image Prompts",
+      "url": "https://github.com/danielrosehill/Image-To-Image-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Loose collection of image to image prompts for common transformations"
+    },
+    {
+      "name": "Nano Banana Desktop",
+      "url": "https://github.com/danielrosehill/Nano-Banana-Desktop",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Vibe coded starter for a Nano Banana inpainting utility / image editor (Gemini API)"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2025-02-07",
+  "summary": "Public projects created on 7 February 2025: 1 repo.",
+  "intro": "A tool that quickly opens a GitHub repository on your computer from the command line.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Open That Repo",
+      "url": "https://github.com/danielrosehill/Open-That-Repo",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Utility for quickly opening a Github repo on your computer"
+    }
+  ]
+}

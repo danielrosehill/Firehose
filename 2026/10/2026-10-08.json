@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-08",
+  "summary": "Public projects created on 8 October 2026: 1 repo.",
+  "intro": "A Claude Code plugin for kaizen, the incremental improvement of mature codebases one atomic commit at a time.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Kaizen",
+      "url": "https://github.com/danielrosehill/Claude-Kaizen",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for kaizen: incremental improvement of mature codebases, one atomic commit at a time"
+    }
+  ]
+}

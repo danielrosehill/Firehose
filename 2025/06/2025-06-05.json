@@ -1,0 +1,16 @@
+{
+  "date": "2025-06-05",
+  "summary": "Public projects created on 5 June 2025: 1 repo.",
+  "intro": "An interactive command line tool for cloning GitHub repositories.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "To Clone Or Not To Clone",
+      "url": "https://github.com/danielrosehill/To-Clone-Or-Not-To-Clone",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Interactive CLI for cloning your Github repos"
+    }
+  ]
+}

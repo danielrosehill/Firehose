@@ -1,0 +1,16 @@
+{
+  "date": "2026-05-20",
+  "summary": "Public projects created on 20 May 2026: 1 repo.",
+  "intro": "A tool for running DaVinci Resolve Studio on Ubuntu 25.10 with an AMD RX 7000 GPU, covering distrobox, ROCm OpenCL and Wayland workarounds.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "DaVinci Resolve Linux Setup",
+      "url": "https://github.com/danielrosehill/DaVinci-Resolve-Linux-Setup",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Getting DaVinci Resolve Studio working on Ubuntu 25.10 with an AMD RX 7000 GPU — distrobox + ROCm OpenCL + Wayland workarounds."
+    }
+  ]
+}

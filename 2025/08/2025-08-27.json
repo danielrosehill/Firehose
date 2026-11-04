@@ -1,0 +1,16 @@
+{
+  "date": "2025-08-27",
+  "summary": "Public projects created on 27 August 2025: 1 repo.",
+  "intro": "A resource list for voice technology on Linux, covering speech-to-text, speech recognition and development frameworks.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Linux Voice Tech",
+      "url": "https://github.com/danielrosehill/Linux-Voice-Tech",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "List of resources for voice technology with support for Linux, encompassing STT, ASR primarily as well as dev frameworks."
+    }
+  ]
+}

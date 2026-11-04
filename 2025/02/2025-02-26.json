@@ -1,0 +1,24 @@
+{
+  "date": "2025-02-26",
+  "summary": "Public projects created on 26 February 2025: 2 repos.",
+  "intro": "Two personal repositories document a bash alias library and timestamped API price points for speech to text providers.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "My Bash Aliases",
+      "url": "https://github.com/danielrosehill/My-Bash-Aliases",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Personal bash alias library, public"
+    },
+    {
+      "name": "STT Price Points 260225",
+      "url": "https://github.com/danielrosehill/STT-Price-Points-260225",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Some timestampped API pricepoints for speech to text providers"
+    }
+  ]
+}

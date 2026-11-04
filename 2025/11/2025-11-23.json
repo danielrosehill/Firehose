@@ -1,0 +1,24 @@
+{
+  "date": "2025-11-23",
+  "summary": "Public projects created on 23 November 2025: 2 repos.",
+  "intro": "Two repositories cover speech recognition tooling: a GUI for collecting audio and text into organised training datasets, and a validated script for fine-tuning Whisper on Modal GPUs with preformatted audio data.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "ASR Training Data Collector",
+      "url": "https://github.com/danielrosehill/ASR-Training-Data-Collector",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "GUI to facilitate gathering training data for ASR/STT apps in organised datasets with audio capture, text capture, and JSONL metadata construction. Supports LLM-generated text and user-provided."
+    },
+    {
+      "name": "Modal Whisper Finetune Script",
+      "url": "https://github.com/danielrosehill/Modal-Whisper-Finetune-Script",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Validated fine-tuning script for fine-tuning Whisper on Modal GPU with a preformatted audio dataset"
+    }
+  ]
+}

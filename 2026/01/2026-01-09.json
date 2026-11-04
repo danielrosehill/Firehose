@@ -1,0 +1,32 @@
+{
+  "date": "2026-01-09",
+  "summary": "Public projects created on 9 January 2026: 3 repos.",
+  "intro": "Agent tooling covers a prompt and model for making agent-specific variants of Bash scripts, a LAN management GUI, and a holding repository for turning screencasts into editing instructions for an AI agent.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Agent Deploy",
+      "url": "https://github.com/danielrosehill/Agent-Deploy",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Prompt and model for creating agent-specific variants of Bash scripts"
+    },
+    {
+      "name": "Claude LAN Manager 0126",
+      "url": "https://github.com/danielrosehill/Claude-LAN-Manager-0126",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "LAN management GUI"
+    },
+    {
+      "name": "Video Edit Instructions",
+      "url": "https://github.com/danielrosehill/Video-Edit-Instructions",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Holding repo. Idea: screencast -> editing instructions -> AI agent."
+    }
+  ]
+}

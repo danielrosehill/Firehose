@@ -1,0 +1,16 @@
+{
+  "date": "2025-03-20",
+  "summary": "Public projects created on 20 March 2025: 1 repo.",
+  "intro": "An index of models released on the Open Web UI Community, gathered into a single public tool.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Open Web UI Model Index Public",
+      "url": "https://github.com/danielrosehill/Open-Web-UI-Model-Index-Public",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "An index of models that I have open-sourced on Open Web UI Community"
+    }
+  ]
+}

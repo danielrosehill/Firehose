@@ -1,0 +1,32 @@
+{
+  "date": "2025-02-05",
+  "summary": "Public projects created on 5 February 2025: 3 repos.",
+  "intro": "A Google Drive folder scaffolding builder and an accounting document router cover Drive automation, while a Streamlit utility converts Israeli salaries to rest-of-world figures.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Google Drive Folder Scaffolding Builder",
+      "url": "https://github.com/danielrosehill/Google-Drive-Folder-Scaffolding-Builder",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Builds date/year folder scaffolding in Drive folders (with App Scripts)"
+    },
+    {
+      "name": "Israel To ROW Salary Converter V2",
+      "url": "https://github.com/danielrosehill/Israel-To-ROW-Salary-Converter-V2",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "V2 of Israel to ROW salary conversion utility (Streamlit)"
+    },
+    {
+      "name": "Israeli Google Drive Accounting Doc Router",
+      "url": "https://github.com/danielrosehill/Israeli-Google-Drive-Accounting-Doc-Router",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Routes accounting documents through Google Drive"
+    }
+  ]
+}

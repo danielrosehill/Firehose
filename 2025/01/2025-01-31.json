@@ -1,0 +1,24 @@
+{
+  "date": "2025-01-31",
+  "summary": "Public projects created on 31 January 2025: 2 repos.",
+  "intro": "Two documentation repositories cover home automation and AI roleplay. One holds Home Assistant dashboards built around Israel-specific entities, the other collects configurations for offbeat AI roleplay characters.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Home Assistant Israel Dashboards",
+      "url": "https://github.com/danielrosehill/Home-Assistant-Israel-Dashboards",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "HA dashboards with Israel-specifc entities"
+    },
+    {
+      "name": "Weird AI Bots",
+      "url": "https://github.com/danielrosehill/Weird-AI-Bots",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Some configurations for offbeat AI roleplay characters just for fun"
+    }
+  ]
+}

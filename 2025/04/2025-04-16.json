@@ -1,0 +1,16 @@
+{
+  "date": "2025-04-16",
+  "summary": "Public projects created on 16 April 2025: 1 repo.",
+  "intro": "A periodically updated spec sheet for workstations and desktops.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Workstation Specs",
+      "url": "https://github.com/danielrosehill/Workstation-Specs",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Periodically updated spec-sheet for workstation/desktop"
+    }
+  ]
+}

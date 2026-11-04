@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-24",
+  "summary": "Public projects created on 24 August 2026: 1 repo.",
+  "intro": "A Claude Code plugin imports ChatGPT conversations through the browser, saving them as Markdown, JSON or PDF with turns marked, artifacts extracted and metadata recorded.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude ChatGPT Importer Plugin",
+      "url": "https://github.com/danielrosehill/Claude-ChatGPT-Importer-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: import ChatGPT conversations via the browser into Markdown, JSON or PDF with turns marked, artifacts extracted and metadata recorded"
+    }
+  ]
+}

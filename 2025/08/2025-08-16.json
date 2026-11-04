@@ -1,0 +1,16 @@
+{
+  "date": "2025-08-16",
+  "summary": "Public projects created on 16 August 2025: 1 dataset.",
+  "intro": "A reference dataset refactor for a global value factor database, published on Hugging Face with accompanying texts.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Global Value Factor Database Refactor V2",
+      "url": "https://huggingface.co/datasets/danielrosehill/Global-Value-Factor-Database-Refactor-V2",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "Refactor and HF dataset (including texts): Daniel Rosehill"
+    }
+  ]
+}

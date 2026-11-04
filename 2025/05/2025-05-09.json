@@ -1,0 +1,24 @@
+{
+  "date": "2025-05-09",
+  "summary": "Public projects created on 9 May 2025: 1 repo and 1 dataset.",
+  "intro": "An MQTT notification agent for Linux desktops that receives Red Alert pushes from Home Assistant, alongside a reference dataset of Israeli Home Front Command emergency alerting zones.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Red Alert MQTT Desktop Notifier Public",
+      "url": "https://github.com/danielrosehill/Red-Alert-MQTT-Desktop-Notifier-Public",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "MQTT notification agent for Linux desktop to receive Red Alert MQTT topic pushes from HA"
+    },
+    {
+      "name": "Israel Alerting Zones",
+      "url": "https://huggingface.co/datasets/danielrosehill/Israel-Alerting-Zones",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "This repository contains a comprehensive list of emergency alerting zones used in Israel by the Home Front Command (Pikud HaOref), compiled on May 9th, 2025."
+    }
+  ]
+}

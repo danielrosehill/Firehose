@@ -1,0 +1,16 @@
+{
+  "date": "2024-11-24",
+  "summary": "Public projects created on 24 November 2024: 1 repo.",
+  "intro": "Markdown badges for attributing LLM generated or co-generated content, built with Shields.io, make up the documentation work.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "LLM Attribution Badges",
+      "url": "https://github.com/danielrosehill/LLM-Attribution-Badges",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Markdown badges for attributing LLM generated (or co-generated) content (using Shields.io)"
+    }
+  ]
+}

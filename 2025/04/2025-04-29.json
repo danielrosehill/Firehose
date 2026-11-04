@@ -1,0 +1,16 @@
+{
+  "date": "2025-04-29",
+  "summary": "Public projects created on 29 April 2025: 1 repo.",
+  "intro": "A prompt collection for configuring ChatGPT's behaviour through simple stylistic system prompts.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "ChatGPT Stylistic System Prompts",
+      "url": "https://github.com/danielrosehill/ChatGPT-Stylistic-System-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Some boilerplate responses to \"how do you want ChatGPT to behave\"? to play around with creating different chat experiences through simple configs"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-26",
+  "summary": "Public projects created on 26 March 2026: 5 repos and 1 dataset.",
+  "intro": "Audio understanding work covers an evaluation voice recording and a structured test set for multimodal models. Home Assistant gets a white noise card for media player speakers. Documentation repositories index speech-to-text and dictation apps, track work in progress, and hold notes on a GitHub explorer.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Gemini 31 Lite Audio Understanding Eval",
+      "url": "https://github.com/danielrosehill/Gemini-31-Lite-Audio-Understanding-Eval",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "One voice recording for testing with TTS/cloning"
+    },
+    {
+      "name": "GitHub Explorer",
+      "url": "https://github.com/danielrosehill/Github-Explorer",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "WIP/Notes"
+    },
+    {
+      "name": "HA White Noise Component",
+      "url": "https://github.com/danielrosehill/HA-White-Noise-Component",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "A custom Home Assistant Lovelace card that turns any media_player speaker into a white noise machine."
+    },
+    {
+      "name": "Voice Apps Index",
+      "url": "https://github.com/danielrosehill/Voice-Apps-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index for STT and ditation apps and WIPs"
+    },
+    {
+      "name": "WIP Index",
+      "url": "https://github.com/danielrosehill/WIP-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Work in progress index / parking lot for development when time presents itself!"
+    },
+    {
+      "name": "Audio Understanding Test Set",
+      "url": "https://huggingface.co/datasets/danielrosehill/Audio-Understanding-Test-Set",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "A structured dataset for evaluating audio understanding capabilities of multimodal AI models."
+    }
+  ]
+}

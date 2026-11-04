@@ -1,0 +1,64 @@
+{
+  "date": "2026-04-17",
+  "summary": "Public projects created on 17 April 2026: 6 repos and 1 dataset.",
+  "intro": "Audio transcription accuracy under MP3 bitrate compression is the subject of a new evaluation and its accompanying audio dataset. Agent tooling for Linux desktop management covers a debugging plugin, a local-first SQLite ops workspace, and planning notes. A benchmark index and a prompt-based episode suggester round out the work.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Audio Understanding Bitrate Eval 0426",
+      "url": "https://github.com/danielrosehill/Audio-Understanding-Bitrate-Eval-0426",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "Empirical eval: how MP3 bitrate affects transcription accuracy across every audio-input LLM on OpenRouter (Gemini, GPT-Audio, Voxtral, MiMo). April 2026."
+    },
+    {
+      "name": "Claude Linux Desktop Manager Notes 0426",
+      "url": "https://github.com/danielrosehill/Claude-Linux-Desktop-Manager-Notes-0426",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Planning repo for how Claude Code (or any agentic CLI) can be used to manage a Linux desktop / server: capturing Daniel's raw notes, refining them, and layering in analysis so a workflow emerges over..."
+    },
+    {
+      "name": "Desktop Ops Workspace Template",
+      "url": "https://github.com/danielrosehill/desktop-ops-workspace-template",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Per-machine SQLite ops log workspace paired with linux-desktop-plugin. Local-first memory for Claude-driven Linux desktop management."
+    },
+    {
+      "name": "Linux Debugging Plugin",
+      "url": "https://github.com/danielrosehill/Linux-Debugging-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "A Claude Code plugin for debugging Linux desktops — targeted journal/boot/log inspection skills, plus an idempotent installer that instruments the system with the proactive logging tools needed to..."
+    },
+    {
+      "name": "My Benchmarks",
+      "url": "https://github.com/danielrosehill/My-Benchmarks",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "Index of benchmarks authored by Daniel Rosehill: ASR, audio understanding, image generation and local inference"
+    },
+    {
+      "name": "Weird Prompts Episode Suggester",
+      "url": "https://github.com/danielrosehill/Weird-Prompts-Episode-Suggester",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Episode suggestion generator for My Weird Prompts."
+    },
+    {
+      "name": "Audio Understanding Bitrate Eval 0426",
+      "url": "https://huggingface.co/datasets/danielrosehill/Audio-Understanding-Bitrate-Eval-0426",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "Empirical eval measuring how MP3 compression bitrate affects transcription accuracy across every audio-input LLM available on OpenRouter."
+    }
+  ]
+}

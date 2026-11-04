@@ -1,0 +1,24 @@
+{
+  "date": "2025-07-20",
+  "summary": "Public projects created on 20 July 2025: 2 repos.",
+  "intro": "Two repositories cover automation and local storage: code snippets for building and integrating automation, and a script that lists NFS and SMB shares on a local NAS.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Automation Code Snippets",
+      "url": "https://github.com/danielrosehill/Automation-Code-Snippets",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Code snippets for automation building and integration (that might be of interest)"
+    },
+    {
+      "name": "NFS SMB Share Lister",
+      "url": "https://github.com/danielrosehill/NFS-SMB-Share-Lister",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Script for listing NFS and SMB shares on a local NAS"
+    }
+  ]
+}

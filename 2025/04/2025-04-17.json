@@ -1,0 +1,40 @@
+{
+  "date": "2025-04-17",
+  "summary": "Public projects created on 17 April 2025: 4 repos.",
+  "intro": "A CLI for on-demand Btrfs snapshots and a keyboard shortcut reference manager covered system tooling. Documentation work included custom instructions for ChatGPT and an index of Hebrew language models on Hugging Face.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Better Safe",
+      "url": "https://github.com/danielrosehill/Better-Safe",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "CLI for taking on-demand Snapper snapshots (BTRFS)"
+    },
+    {
+      "name": "ChatGPT Custom Instructions",
+      "url": "https://github.com/danielrosehill/ChatGPT-Custom-Instructions",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Custom instructions for ChatGPT"
+    },
+    {
+      "name": "Hebrew LLMs",
+      "url": "https://github.com/danielrosehill/Hebrew-LLMs",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A pathfinder repo (index) to some Hebrew language LLMs on Hugging Face"
+    },
+    {
+      "name": "Keyboard Shortcuts Ref",
+      "url": "https://github.com/danielrosehill/Keyboard-Shortcuts-Ref",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Because of all the tech products that have been invented, a keyboard shortcuts ref manager isn't one of them (yet!)"
+    }
+  ]
+}

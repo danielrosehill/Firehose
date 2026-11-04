@@ -1,0 +1,32 @@
+{
+  "date": "2025-12-11",
+  "summary": "Public projects created on 11 December 2025: 3 repos.",
+  "intro": "Home monitoring setup notes, an evaluation of text to image models on Hebrew text, and a set of shop recommendations mostly in Israel make up the repositories.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "DIY Baby Monitoring Notes",
+      "url": "https://github.com/danielrosehill/DIY-Baby-Monitoring-Notes",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Some notes from setting up monitoring systems at home"
+    },
+    {
+      "name": "Hebrew Image Generation Eval",
+      "url": "https://github.com/danielrosehill/Hebrew-Image-Generation-Eval",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "Snap evaluation to assess the ability of various text to image models to produce generations with correct Hebrew text (pass/fail)"
+    },
+    {
+      "name": "Retailer Recommendations",
+      "url": "https://github.com/danielrosehill/Retailer-Recommendations",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Small collection of various recs for places, mostly shops in Israel"
+    }
+  ]
+}

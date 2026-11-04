@@ -1,0 +1,32 @@
+{
+  "date": "2025-10-27",
+  "summary": "Public projects created on 27 October 2025: 3 repos.",
+  "intro": "Three repositories cover AI reference material and evaluation work: a model stack and budget document, a method for loading project context as a single markdown file, and an index of repositories on AI evaluations and experiments.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Stack Oct 2025",
+      "url": "https://github.com/danielrosehill/AI-Stack-Oct-2025",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Model AI stack and budget (Oct 2025) - for ref, FAQs, etc"
+    },
+    {
+      "name": "CONTEXT.md",
+      "url": "https://github.com/danielrosehill/CONTEXT.md",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Notes, loader for project context as a single markdown file (method)"
+    },
+    {
+      "name": "Experiments And Evaluations Index",
+      "url": "https://github.com/danielrosehill/Experiments-And-Evaluations-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "Index of repositories concerning AI evaluations and experiments"
+    }
+  ]
+}

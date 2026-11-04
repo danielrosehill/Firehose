@@ -1,0 +1,24 @@
+{
+  "date": "2025-05-04",
+  "summary": "Public projects created on 4 May 2025: 2 repos.",
+  "intro": "Two small developer utilities appeared: a script for backing up GitHub Gists and early plans for MCP servers.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "GitHub Gists Backup Public",
+      "url": "https://github.com/danielrosehill/Github-Gists-Backup-Public",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Backup script for backing up Github Gists"
+    },
+    {
+      "name": "MCP Server Ideas",
+      "url": "https://github.com/danielrosehill/MCP-Server-Ideas",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "Plans/WIP for MCP servers"
+    }
+  ]
+}

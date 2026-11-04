@@ -1,0 +1,32 @@
+{
+  "date": "2026-01-01",
+  "summary": "Public projects created on 1 January 2026: 3 repos.",
+  "intro": "A conference experiment with a panel and text-to-speech, a system prompt for dividing repositories cleanly during agentic development, and notes on running Home Assistant headless make up the repositories.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude AI Conference",
+      "url": "https://github.com/danielrosehill/Claude-AI-Conference",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "AI experiment: panel + TTS, mini conference/symposium"
+    },
+    {
+      "name": "Claude Repo Jumper",
+      "url": "https://github.com/danielrosehill/Claude-Repo-Jumper",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Notes - System prompt / skill for clean repo division with agentic development"
+    },
+    {
+      "name": "Headless Home Assistant",
+      "url": "https://github.com/danielrosehill/Headless-Home-Assistant",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A couple of resources and .. nomenclature"
+    }
+  ]
+}

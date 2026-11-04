@@ -1,0 +1,24 @@
+{
+  "date": "2025-07-29",
+  "summary": "Public projects created on 29 July 2025: 2 repos.",
+  "intro": "Two documentation repositories cover API reference material and AI workflow tooling: an unofficial snapshot of Nuclino API docs, and reusable JSON schemas for structured assistant and agent outputs.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Nuclino API Docs Unofficial 0725",
+      "url": "https://github.com/danielrosehill/Nuclino-API-Docs-Unofficial-0725",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Unofficial point in time collection of Nuclino API documentation"
+    },
+    {
+      "name": "Structured Output Schemas",
+      "url": "https://github.com/danielrosehill/Structured-Output-Schemas",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Reuseable JSON schemas for structured Ai assistant/agent workflows"
+    }
+  ]
+}

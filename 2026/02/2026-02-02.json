@@ -1,0 +1,24 @@
+{
+  "date": "2026-02-02",
+  "summary": "Public projects created on 2 February 2026: 1 repo and 1 dataset.",
+  "intro": "An AI assistant configuration for building computers and finding accessories from Ivory, an Israeli chain, alongside a training dataset snapshot of hardware pricing from Ivory.co.il.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Ivory Parts Finder",
+      "url": "https://github.com/danielrosehill/Ivory-Parts-Finder",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "AI assistant config for building computers and finding accesories from Ivory (Israeli computer chain)"
+    },
+    {
+      "name": "Ivory Catalog 020226",
+      "url": "https://huggingface.co/datasets/danielrosehill/Ivory-Catalog-020226",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Training dataset",
+      "description": "A snapshot of computer hardware pricing from Ivory.co.il, one of Israel's largest electronics retailers, captured on February 2, 2026."
+    }
+  ]
+}

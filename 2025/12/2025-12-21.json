@@ -1,0 +1,24 @@
+{
+  "date": "2025-12-21",
+  "summary": "Public projects created on 21 December 2025: 2 repos.",
+  "intro": "Two documentation repositories cover AI model behaviour: a prompt that asks Claude to identify itself and its variant at the start of each conversation, and a test of how sample intonation affects single shot voice cloning.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Model Identifier",
+      "url": "https://github.com/danielrosehill/Claude-Model-Identifier",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Prompt to request Claude to proactive identify itself and model variant before every new conversation"
+    },
+    {
+      "name": "Voice Cloning Difference Test",
+      "url": "https://github.com/danielrosehill/Voice-Cloning-Difference-Test",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Quick test to see how much of a difference sample intonation makes in single shot voice cloning!"
+    }
+  ]
+}

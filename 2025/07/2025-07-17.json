@@ -1,0 +1,16 @@
+{
+  "date": "2025-07-17",
+  "summary": "Public projects created on 17 July 2025: 1 repo.",
+  "intro": "A system prompt for directing an AI agent to begin every output with a summary of the user's prompt.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Prompt And Output System Prompt",
+      "url": "https://github.com/danielrosehill/Prompt-And-Output-System-Prompt",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "System prompt for directing an AI agent to begin every output with a sumary of the user's prompt"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2025-01-30",
+  "summary": "Public projects created on 30 January 2025: 2 repos.",
+  "intro": "Two Home Assistant repositories cover a Shabbat and Yom Tov times dashboard and a set of YAML snippets for dashboard elements.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "HA Shabbat Dashboard 0125",
+      "url": "https://github.com/danielrosehill/HA-Shabbat-Dashboard-0125",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Simple designed Home Assistant dashboard for Shabbat / Yom Tov times"
+    },
+    {
+      "name": "Home Assistant YAML Snippets",
+      "url": "https://github.com/danielrosehill/Home-Assistant-YAML-Snippets",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Code snippets for Home Assistant dashboard elements"
+    }
+  ]
+}

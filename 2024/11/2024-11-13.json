@@ -1,0 +1,16 @@
+{
+  "date": "2024-11-13",
+  "summary": "Public projects created on 13 November 2024: 1 repo.",
+  "intro": "Experiments in evaluating prompting strategies and general large language model performance are documented in a notebook.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "LLM Experiment Notebook",
+      "url": "https://github.com/danielrosehill/LLM-Experiment-Notebook",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Experiments in evaluating various prompting strategies and LLM performance generally"
+    }
+  ]
+}

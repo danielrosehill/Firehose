@@ -1,0 +1,24 @@
+{
+  "date": "2026-02-03",
+  "summary": "Public projects created on 3 February 2026: 2 repos.",
+  "intro": "Two repositories cover local tooling: an MCP server for K3B disc operations and a file import utility for the Sony UX570 digital voice recorder.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "K3B MCP",
+      "url": "https://github.com/danielrosehill/K3B-MCP",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "MCP for K3B operations (intended for local use)"
+    },
+    {
+      "name": "UX570 Importer",
+      "url": "https://github.com/danielrosehill/UX570-Importer",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "File import utility for Sony UX570 digital voice recorder (DVR)"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "date": "2025-04-10",
+  "summary": "Public projects created on 10 April 2025: 5 repos and 8 datasets.",
+  "intro": "Linux tools and AI prompt experiments filled the repositories: a Home Front Command wrapper, a list of MCP clients for Linux, and single-prompt book generation. Datasets covered system prompts for speech-to-text, careers, geopolitics, data work, email, prompt engineering, and general use.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "HFC Wrapper Linux",
+      "url": "https://github.com/danielrosehill/HFC-Wrapper-Linux",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Home Front Command Wrapper - non-official, zero warranty offered!"
+    },
+    {
+      "name": "Linux MCP Clients",
+      "url": "https://github.com/danielrosehill/Linux-MCP-Clients",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "A very small list of MCP clients that are available to Linux users, GUIs + CLIs"
+    },
+    {
+      "name": "One Prompt AI Book",
+      "url": "https://github.com/danielrosehill/One-Prompt-AI-Book",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Experiment - generating a book using a single prompt"
+    },
+    {
+      "name": "The Bot Has A Question",
+      "url": "https://github.com/danielrosehill/The-Bot-Has-A-Question",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Weird AI experiment #342"
+    },
+    {
+      "name": "The Jerusalem Odyssey Text",
+      "url": "https://github.com/danielrosehill/The-Jerusalem-Odyssey-Text",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "A 100 page book manuscript generated from a single prompt using Sonnet 3.7"
+    },
+    {
+      "name": "Career Related System Prompts",
+      "url": "https://huggingface.co/datasets/danielrosehill/Career-Related-System-Prompts",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "A collection of system prompts for AI assistants focused on career guidance and job search assistance."
+    },
+    {
+      "name": "Data Utils System Prompts",
+      "url": "https://huggingface.co/datasets/danielrosehill/Data-Utils-System-Prompts",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "This repository contains a collection of system prompts for configuring AI assistance in data-related tasks."
+    },
+    {
+      "name": "Email Management System Prompts",
+      "url": "https://huggingface.co/datasets/danielrosehill/Email-Management-System-Prompts",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "A collection of system prompts designed to enhance email productivity, communication, and management. These prompts can be used with various AI assistants to automate and improve email-related tasks."
+    },
+    {
+      "name": "General Purpose System Prompts",
+      "url": "https://huggingface.co/datasets/danielrosehill/General-Purpose-System-Prompts",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "Here is a quandary that those who work with LLMs via API through self-hosted chat interfaces (etc) are familiar with:"
+    },
+    {
+      "name": "Geopolitical System Prompts",
+      "url": "https://huggingface.co/datasets/danielrosehill/Geopolitical-System-Prompts",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "A collection of system prompts for AI assistants specialized in geopolitical analysis."
+    },
+    {
+      "name": "Prompt Eng System Prompts",
+      "url": "https://huggingface.co/datasets/danielrosehill/Prompt-Eng-System-Prompts",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "A curated collection of system prompts designed to assist with prompt engineering activities across various AI platforms and use cases."
+    },
+    {
+      "name": "Single Prompt Book",
+      "url": "https://huggingface.co/datasets/danielrosehill/Single-Prompt-Book",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "The pace of development in AI these days is so fast that it's hard to keep on top of all the latest developments."
+    },
+    {
+      "name": "Speech To Text System Prompts 2",
+      "url": "https://huggingface.co/datasets/danielrosehill/Speech-To-Text-System-Prompts-2",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "This repository provides a collection of system prompts designed to transform and refine text captured using speech-to-text technologies."
+    }
+  ]
+}

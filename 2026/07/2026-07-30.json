@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-30",
+  "summary": "Public projects created on 30 July 2026: 9 repos.",
+  "intro": "Agent plugins for Claude Code covered Israeli business opening hours, vendor support contacts, freight volume arithmetic, Brother P-touch label printing, and Israeli subscription cancellations. Documentation work described an orchestration agent briefing model and a curated index of open-source logistics and supply chain projects, alongside Android driving checklists.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Agent Briefing Gateway",
+      "url": "https://github.com/danielrosehill/Agent-Briefing-Gateway",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Design model for an orchestration agent that buffers a human from a batch of working sub-agents — one consolidated brief per cycle, a budgeted override channel, and resumable approval gates"
+    },
+    {
+      "name": "Claude Israel Opening Hours Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Israel-Opening-Hours-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: check opening hours for Israeli businesses, including hours stated relative to Shabbat — combines Google Business and easy.co.il with Hebcal candle-lighting/havdalah times."
+    },
+    {
+      "name": "Contact Support Plugin",
+      "url": "https://github.com/danielrosehill/contact-support-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: contact vendor support desks from a registry of verified, dated contact routes — ticket URLs, abuse addresses, plan SLAs, escalation ladders, and the routes that look right and..."
+    },
+    {
+      "name": "Driving Checklists",
+      "url": "https://github.com/danielrosehill/Driving-Checklists",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Aviation-style pre- and post-drive checklists for Android, with a vehicle quick-reference and an Android Auto surface"
+    },
+    {
+      "name": "Freight Vol Calculator",
+      "url": "https://github.com/danielrosehill/Freight-Vol-Calculator",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: freight volume arithmetic - pallet quantity across 11 standards, container loads palletised or floor-loaded, master-carton permutations, and freight cost per unit from your own..."
+    },
+    {
+      "name": "Label Printer Plugin",
+      "url": "https://github.com/danielrosehill/label-printer-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Print labels on a Brother P-touch from Claude Code: MCP server + plugin. Single labels, N copies, batch runs, QR-coded asset and storage templates for inventory."
+    },
+    {
+      "name": "Logistics And Supply Chain Resources",
+      "url": "https://github.com/danielrosehill/Logistics-And-Supply-Chain-Resources",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Curated index of open-source logistics, supply chain, warehousing and procurement projects"
+    },
+    {
+      "name": "Netek Disconnect Plugin",
+      "url": "https://github.com/danielrosehill/netek-disconnect-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: cancel Israeli service subscriptions (ניתוק) via netek.co.il — mobile, internet, landline, TV, water bars, newspapers, credit cards. Unofficial API."
+    },
+    {
+      "name": "Stack Evaluator Plugin",
+      "url": "https://github.com/danielrosehill/stack-evaluator-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: component-level technology stack review — inventory, EOL/currency, architectural gaps (caching, backups, queues), fitness, and a sequenced revision proposal with an execution..."
+    }
+  ]
+}

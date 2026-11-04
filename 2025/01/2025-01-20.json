@@ -1,0 +1,16 @@
+{
+  "date": "2025-01-20",
+  "summary": "Public projects created on 20 January 2025: 1 repo.",
+  "intro": "Updated documentation for Home Assistant automations covering Shabbat and Yom Tov observance.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Home Assistant YomTov Shabbat 0125",
+      "url": "https://github.com/danielrosehill/Home-Assistant-YomTov-Shabbat-0125",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Updated documentation for Home Assistant automations for Shabbat & Yom Tov observance"
+    }
+  ]
+}

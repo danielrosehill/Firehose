@@ -1,0 +1,64 @@
+{
+  "date": "2026-04-16",
+  "summary": "Public projects created on 16 April 2026: 7 repos.",
+  "intro": "Agent plugins for Claude Code covered purchase research, persistent user memory, GitHub discovery, skill authoring, and Typst document templates. Two repositories held bug reports and feature requests for Claude Code and research notes on skill creation. A separate tool remapped a generic USB button to F13 on Linux and Wayland.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Agent Assisted Purchase Research Index",
+      "url": "https://github.com/danielrosehill/Agent-Assisted-Purchase-Research-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Index of templates, agent skills, and demos for the pattern of using AI agents to drive consumer purchase research — spec-first, then product matching, then availability checks"
+    },
+    {
+      "name": "Claude Code Bugs And FRs",
+      "url": "https://github.com/danielrosehill/Claude-Code-Bugs-And-FRs",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Staging area for Claude Code bug reports and feature requests before filing upstream at anthropics/claude-code"
+    },
+    {
+      "name": "Claude User Memory Plugin",
+      "url": "https://github.com/danielrosehill/Claude-User-Memory-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: user memory and personalization workflow — recall, save, and inject persistent facts across sessions."
+    },
+    {
+      "name": "GitHub Research Plugin",
+      "url": "https://github.com/danielrosehill/github-research-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Explore existing GitHub repositories before building something yourself. This plugin is focused exclusively on research and discovery — it does not perform any GitHub write operations."
+    },
+    {
+      "name": "Skill Creation Research",
+      "url": "https://github.com/danielrosehill/Skill-Creation-Research",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Open research workspace for Claude Code skill creation — patterns, best practices, skill authoring experiments"
+    },
+    {
+      "name": "Typst Document Generator Plugin",
+      "url": "https://github.com/danielrosehill/typst-document-generator-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Typst document templates as agent skills: generic built-in formats (docs, briefings, screenplay) plus a private overlay for your own"
+    },
+    {
+      "name": "USB Button Remap",
+      "url": "https://github.com/danielrosehill/USB-Button-Remap",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Remap a generic USB HID button (vendor 5131:2019) to F13 on Linux/Wayland using keyd"
+    }
+  ]
+}

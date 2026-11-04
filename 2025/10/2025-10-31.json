@@ -1,0 +1,24 @@
+{
+  "date": "2025-10-31",
+  "summary": "Public projects created on 31 October 2025: 2 repos.",
+  "intro": "Two documentation repositories for AI agent workflows cover attribution, with a slash command for noting who did what, and subagent selection, addressing the problem of too many subagents.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Human Attribution Adder",
+      "url": "https://github.com/danielrosehill/AI-Human-Attribution-Adder",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Slash command for AI agents to note who did what!"
+    },
+    {
+      "name": "Claude Agent Picker Pattern",
+      "url": "https://github.com/danielrosehill/Claude-Agent-Picker-Pattern",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Pattern/idea for the \"too many subagents\" problem"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2026-05-13",
+  "summary": "Public projects created on 13 May 2026: 1 repo.",
+  "intro": "A documentation repository describes a depersonalised pattern for organising user-level Claude Code context, with a lean CLAUDE.md routing to topical context files.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude User Context Pattern",
+      "url": "https://github.com/danielrosehill/Claude-User-Context-Pattern",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A depersonalised reference pattern for organising user-level (~/.claude/) context for Claude Code: a lean CLAUDE.md that routes to topical context/*.md files."
+    }
+  ]
+}

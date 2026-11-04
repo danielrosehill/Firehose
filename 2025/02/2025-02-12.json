@@ -1,0 +1,16 @@
+{
+  "date": "2025-02-12",
+  "summary": "Public projects created on 12 February 2025: 1 repo.",
+  "intro": "AI workflows for building personal RAG pipelines with interviewing agents are documented in a repository.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Personal RAG Agent Workflow",
+      "url": "https://github.com/danielrosehill/Personal-RAG-Agent-Workflow",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "AI workflows for building personal RAG pipelines with interviewing agents"
+    }
+  ]
+}

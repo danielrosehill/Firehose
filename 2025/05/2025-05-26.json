@@ -1,0 +1,24 @@
+{
+  "date": "2025-05-26",
+  "summary": "Public projects created on 26 May 2025: 2 repos.",
+  "intro": "Two sets of planning notes appeared: timestamped, unofficial notes on the Green Invoice API and webhooks, and notes for an AI agent experiment called Llama OS Doctor.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Green Invoice API My Notes",
+      "url": "https://github.com/danielrosehill/Green-Invoice-API-My-Notes",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Timestampped notes (non-official!) for Green Invoice API & Webhooks"
+    },
+    {
+      "name": "Llama OS Doctor Idea",
+      "url": "https://github.com/danielrosehill/Llama-OS-Doctor-Idea",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Planning notes for an AI agent / experiment"
+    }
+  ]
+}

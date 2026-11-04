@@ -1,0 +1,24 @@
+{
+  "date": "2025-02-03",
+  "summary": "Public projects created on 3 February 2025: 2 repos.",
+  "intro": "Two repositories cover agent tooling and desktop messaging. One demonstrates a chained LLM agent workflow for generating personal contextual data for personalised LLM experiences and personal RAG development. The other is a dual WhatsApp client for the Linux desktop.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Agentic Context Development Interview Demo",
+      "url": "https://github.com/danielrosehill/Agentic-Context-Development-Interview-Demo",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Demonstration modelling how a chained LLM agent workflow could be used to expedite the generation of personal contextual data for personalised LLM experiences and personal RAG development"
+    },
+    {
+      "name": "Dual WhatsApp Linux Desktop",
+      "url": "https://github.com/danielrosehill/Dual-WhatsApp-Linux-Desktop",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Dual WA client for the Linux desktop (AI generated)"
+    }
+  ]
+}

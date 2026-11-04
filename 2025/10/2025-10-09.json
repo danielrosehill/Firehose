@@ -1,0 +1,24 @@
+{
+  "date": "2025-10-09",
+  "summary": "Public projects created on 9 October 2025: 2 repos.",
+  "intro": "Two repositories cover AI agents: an experimental model of a political body run by representative AI agents, and feature requests about context handling in Claude Code.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Agent UN",
+      "url": "https://github.com/danielrosehill/AI-Agent-UN",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Experimentary implementation of a model real life political body populated by representative AI agents"
+    },
+    {
+      "name": "Claude Code Context Feature Requests",
+      "url": "https://github.com/danielrosehill/Claude-Code-Context-Feature-Requests",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A couple of feature requests (including my own) discussing context handling in Claude code"
+    }
+  ]
+}

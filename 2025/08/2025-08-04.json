@@ -1,0 +1,16 @@
+{
+  "date": "2025-08-04",
+  "summary": "Public projects created on 4 August 2025: 1 repo.",
+  "intro": "A repository of prompt snippets offers building blocks for system prompts.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Prompt Snippet Library",
+      "url": "https://github.com/danielrosehill/Prompt-Snippet-Library",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Snippets/building blocks for system prompts"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-04",
+  "summary": "Public projects created on 4 September 2026: 1 repo.",
+  "intro": "A Home Assistant blueprint for three-phase circadian lighting, moving from full white by day to the warmest Kelvin after sunset and true RGB red until dawn, for lights supporting both colour temperature and colour.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "HA Circadian Red Shift",
+      "url": "https://github.com/danielrosehill/HA-Circadian-Red-Shift",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Home Assistant blueprint: three-phase circadian lighting — full white by day, warmest Kelvin after sunset, then true RGB red until dawn. For lights that support both colour temperature and colour."
+    }
+  ]
+}

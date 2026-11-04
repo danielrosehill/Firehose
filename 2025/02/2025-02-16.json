@@ -1,0 +1,16 @@
+{
+  "date": "2025-02-16",
+  "summary": "Public projects created on 16 February 2025: 1 repo.",
+  "intro": "Custom mode-setting system prompts for Roo Code are collected in a repository.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "RooCode Mode Prompts",
+      "url": "https://github.com/danielrosehill/RooCode-Mode-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Some custom mode-setting system prompts for Roo Code"
+    }
+  ]
+}

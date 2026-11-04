@@ -1,0 +1,32 @@
+{
+  "date": "2025-07-22",
+  "summary": "Public projects created on 22 July 2025: 3 repos.",
+  "intro": "Three agent configurations covered an index of AI agent setups, a sanitiser for personal details in N8N workflow exports, and an email workflow answering parenting questions with Google Drive uploads.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Agents Index",
+      "url": "https://github.com/danielrosehill/Agents-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Periodically updated index of AI agent configurations that I'm working on (or have created)"
+    },
+    {
+      "name": "N8N Workflow Sanitiser Agent",
+      "url": "https://github.com/danielrosehill/N8N-Workflow-Sanitiser-Agent",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Configuration for an AI agent for sanitising (redacting personal details) in N8N workflow exports"
+    },
+    {
+      "name": "Parenting Questions AI Agent Workflow",
+      "url": "https://github.com/danielrosehill/Parenting-Questions-AI-Agent-Workflow",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Workflow for an agent that answers parenting questions by email with upload to Google Drive"
+    }
+  ]
+}

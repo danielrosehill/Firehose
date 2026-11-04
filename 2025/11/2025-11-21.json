@@ -1,0 +1,16 @@
+{
+  "date": "2025-11-21",
+  "summary": "Public projects created on 21 November 2025: 1 repo.",
+  "intro": "A notebook of prompts, outputs and notes on speech-to-text, automatic speech recognition and fine-tuning.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "ASR And STT AI Notebook",
+      "url": "https://github.com/danielrosehill/ASR-And-STT-AI-Notebook",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Propmts and outputs (and some notes) on STT + ASR + fine-tuning. LLM: Claude"
+    }
+  ]
+}

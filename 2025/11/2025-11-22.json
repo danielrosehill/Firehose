@@ -1,0 +1,16 @@
+{
+  "date": "2025-11-22",
+  "summary": "Public projects created on 22 November 2025: 1 dataset.",
+  "intro": "A speech dataset for fine-tuning automatic speech recognition models on technical and developer vocabulary.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Tech Sentences For ASR Training",
+      "url": "https://huggingface.co/datasets/danielrosehill/Tech-Sentences-For-ASR-Training",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "A specialized speech dataset for fine-tuning Automatic Speech Recognition (ASR) models on technical and developer vocabulary."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "date": "2026-04-06",
+  "summary": "Public projects created on 6 April 2026: 9 repos.",
+  "intro": "Agent tooling dominates: skills repositories, an index of skill collections, a vault server, and resources for running agents locally. Hebrew language work appears as a translation API list and a broader project index. Also included are home front alert ideas, a prompt library for technical diagrams, and a planning repository for agent skills.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Agent Skills",
+      "url": "https://github.com/danielrosehill/Agent-Skills",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Planning and \"production\" repo for agent skills"
+    },
+    {
+      "name": "English Hebrew Translation",
+      "url": "https://github.com/danielrosehill/English-Hebrew-Translation",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Resource list for APIs and MCP servers offering English↔Hebrew translation"
+    },
+    {
+      "name": "Hebrew Language Projects Index",
+      "url": "https://github.com/danielrosehill/Hebrew-Language-Projects-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of projects for working with Hebrew: translation, TTS, LLMs, fonts, calendar, and more"
+    },
+    {
+      "name": "Israel Home Front Ideas",
+      "url": "https://github.com/danielrosehill/Israel-Home-Front-Ideas",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "A few open source idea for the Pikud HaOref system collected over time"
+    },
+    {
+      "name": "Local AI Agent Resources",
+      "url": "https://github.com/danielrosehill/Local-AI-Agent-Resources",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Organised collection of resources for local AI agents - covering CLIs, tooling, and more."
+    },
+    {
+      "name": "MCP Vault",
+      "url": "https://github.com/danielrosehill/MCP-Vault",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "No description published."
+    },
+    {
+      "name": "Skills Repos Index",
+      "url": "https://github.com/danielrosehill/Skills-Repos-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "An index of repositories containing Claude/AI agent skills."
+    },
+    {
+      "name": "Tech Diagram Image Gen Prompts",
+      "url": "https://github.com/danielrosehill/Tech-Diagram-Image-Gen-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Reusable .prompty library of tech-diagram image-gen prompts (whiteboard cleanup, 28 styles, 33 diagram types)"
+    },
+    {
+      "name": "Useful AI Agent Skills",
+      "url": "https://github.com/danielrosehill/Useful-AI-Agent-Skills",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Personal collection of AI agent skills and skill collections I'm exploring / might find useful"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2025-08-17",
+  "summary": "Public projects created on 17 August 2025: 2 repos.",
+  "intro": "Two repositories cover agent tooling and home security documentation: a template for generating decision-making algorithms and flow-charts, and an updated Red Alert template for August 2025.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Decision Making Algorithm Agent",
+      "url": "https://github.com/danielrosehill/Decision-Making-Algorithm-Agent",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Agent template for generating decision-making algorithms/flow-charts"
+    },
+    {
+      "name": "Red Alert HA Template 0825",
+      "url": "https://github.com/danielrosehill/Red-Alert-HA-Template-0825",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Updated Red Alert template, August 2025"
+    }
+  ]
+}

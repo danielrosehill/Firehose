@@ -1,0 +1,24 @@
+{
+  "date": "2024-12-08",
+  "summary": "Public projects created on 8 December 2024: 2 repos.",
+  "intro": "Two repositories cover data tooling: an index of data apps and datasets deployed to Streamlit Community Cloud, Hugging Face and elsewhere, and a tool for extracting data-containing pages from sustainability reports.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Data Projects Index",
+      "url": "https://github.com/danielrosehill/Data-Projects-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Data apps and datasets deployed to Streamlit Community Cloud, Hugging Face, and elsewhere."
+    },
+    {
+      "name": "Sustainability Report Data Extractor",
+      "url": "https://github.com/danielrosehill/Sustainability-Report-Data-Extractor",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Tool for extracting data-containing pages from sustainability reports"
+    }
+  ]
+}

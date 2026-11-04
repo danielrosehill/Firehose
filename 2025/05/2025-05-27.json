@@ -1,0 +1,32 @@
+{
+  "date": "2025-05-27",
+  "summary": "Public projects created on 27 May 2025: 2 repos and 1 dataset.",
+  "intro": "Two prompt collections cover system prompts for AI agents and assistants and text transformation prompts, the latter turning raw speech-to-text transcripts into other formats. A reference dataset holds an up-to-date library of system prompts for AI systems and autonomous agents.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "System Prompt Library",
+      "url": "https://github.com/danielrosehill/System-Prompt-Library",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "System prompts for AI agents and assistants (automatically populated); periodic point in time exports are releases"
+    },
+    {
+      "name": "Text Transformation Prompt Library",
+      "url": "https://github.com/danielrosehill/Text-Transformation-Prompt-Library",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Updated repo of text transformation prompts (raw STT transcripts -> *). New repo for capturing via automations."
+    },
+    {
+      "name": "System Prompt Library",
+      "url": "https://huggingface.co/datasets/danielrosehill/System-Prompt-Library",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "This repository contains a comprehensive, up-to-date library of system prompts for AI systems and autonomous agents, started on May 27th, 2025."
+    }
+  ]
+}

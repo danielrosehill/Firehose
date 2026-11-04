@@ -1,0 +1,16 @@
+{
+  "date": "2026-05-05",
+  "summary": "Public projects created on 5 May 2026: 1 repo.",
+  "intro": "A notebook of notes on ChatGPT agents.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "ChatGPT Agents Notes",
+      "url": "https://github.com/danielrosehill/ChatGPT-Agents-Notes",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Notebook for ChatGPT agents"
+    }
+  ]
+}

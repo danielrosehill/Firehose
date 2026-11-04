@@ -1,0 +1,24 @@
+{
+  "date": "2025-04-13",
+  "summary": "Public projects created on 13 April 2025: 2 repos.",
+  "intro": "Two utilities for speech and prompt work appeared in repositories: a tool that splits texts by approximate reading duration for ASR training data, and a prompt collection that uses Gemini structured outputs to generate ideas for an Open Web UI prompt library.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "ASR Training Data Chunker",
+      "url": "https://github.com/danielrosehill/ASR-Training-Data-Chunker",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Breaks up texts by approximate reading duration"
+    },
+    {
+      "name": "Gemini Prompt Library Ideator",
+      "url": "https://github.com/danielrosehill/Gemini-Prompt-Library-ideator",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Using Gemini structured outputs to ideate a prompt library for Open Web UI"
+    }
+  ]
+}

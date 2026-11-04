@@ -1,0 +1,16 @@
+{
+  "date": "2025-05-17",
+  "summary": "Public projects created on 17 May 2025: 1 repo.",
+  "intro": "System prompts for home inventory and Homebox assistants, aimed at speeding up repetitive tasks, make up the documentation work.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Home Inventory AI Assistants",
+      "url": "https://github.com/danielrosehill/Home-Inventory-AI-Assistants",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "System prompts for home inventory and Homebox assistants to speed up repetitive tasks"
+    }
+  ]
+}

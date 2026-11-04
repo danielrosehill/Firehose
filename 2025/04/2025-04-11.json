@@ -1,0 +1,32 @@
+{
+  "date": "2025-04-11",
+  "summary": "Public projects created on 11 April 2025: 2 repos and 1 dataset.",
+  "intro": "Two repositories cover text-to-image testing: a set of informal prompts and a broader evaluation dataset spanning diverse parameters and use cases. A third holds reference frontend URLs for Open Web UI.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "OWUI Frontend URLs",
+      "url": "https://github.com/danielrosehill/OWUI-Frontend-URLs",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Reference - frontend URLs for Open Web UI"
+    },
+    {
+      "name": "Text To Image Test Prompts",
+      "url": "https://github.com/danielrosehill/Text-To-Image-Test-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Informal prompts for testing out text-to-image"
+    },
+    {
+      "name": "Text To Image Test Prompts",
+      "url": "https://huggingface.co/datasets/danielrosehill/Text-To-Image-Test-Prompts",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Evaluation dataset",
+      "description": "A comprehensive collection of evaluation prompts for testing text-to-image AI models across diverse parameters and use cases."
+    }
+  ]
+}

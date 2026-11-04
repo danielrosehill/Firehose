@@ -1,0 +1,16 @@
+{
+  "date": "2025-10-02",
+  "summary": "Public projects created on 2 October 2025: 1 repo.",
+  "intro": "A collection of Claude Code repositories and related resources.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Cool Claude Code Stuff",
+      "url": "https://github.com/danielrosehill/Cool-Claude-Code-Stuff",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Claude Code repos and other resources"
+    }
+  ]
+}

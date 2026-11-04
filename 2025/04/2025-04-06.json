@@ -1,0 +1,80 @@
+{
+  "date": "2025-04-06",
+  "summary": "Public projects created on 6 April 2025: 9 repos.",
+  "intro": "Collections of system prompts for AI assistants covered orchestration, careers, data, email, geopolitics, Linux and prompt engineering, alongside an index of prompt libraries. A separate documentation repository gathered links to deep research projects and agents.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Orchestration System Prompts",
+      "url": "https://github.com/danielrosehill/AI-Orchestration-System-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "System prompts for AI assistants designed to orchestrate access to other agents"
+    },
+    {
+      "name": "Careers Utilities System Prompts",
+      "url": "https://github.com/danielrosehill/Careers-Utilities-System-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "System prompts for AI assistants related to career and job matters"
+    },
+    {
+      "name": "Data Utilities System Prompts",
+      "url": "https://github.com/danielrosehill/Data-Utilities-System-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "System prompts for data-related AI assistants"
+    },
+    {
+      "name": "Deep Research Projects 0425",
+      "url": "https://github.com/danielrosehill/Deep-Research-Projects-0425",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A collection of links to a few AI \"deep research\" projects and agents, April 2025"
+    },
+    {
+      "name": "Email Management System Prompts",
+      "url": "https://github.com/danielrosehill/Email-Management-System-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Writing and email management system prompts for assistants"
+    },
+    {
+      "name": "Geopolitical Analysis System Prompts",
+      "url": "https://github.com/danielrosehill/Geopolitical-Analysis-System-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "System prompts for geopolitical related AI assistants and tools"
+    },
+    {
+      "name": "Linux Related System Prompts",
+      "url": "https://github.com/danielrosehill/Linux-Related-System-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "System prompts for AI assistants for Linux"
+    },
+    {
+      "name": "Prompt Engineering Assistants System Prompts",
+      "url": "https://github.com/danielrosehill/Prompt-Engineering-Assistants-System-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "System prompts for AI assistants designed to assist with various aspects of prompt engineering"
+    },
+    {
+      "name": "Prompt Libraries Index",
+      "url": "https://github.com/danielrosehill/Prompt-Libraries-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Index for my collections of user and system prompts on Github"
+    }
+  ]
+}

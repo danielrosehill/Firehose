@@ -1,0 +1,16 @@
+{
+  "date": "2025-08-14",
+  "summary": "Public projects created on 14 August 2025: 1 dataset.",
+  "intro": "A dataset of real-world voice recordings with transcripts and detailed annotations.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Voice Note Audio",
+      "url": "https://huggingface.co/datasets/danielrosehill/Voice-Note-Audio",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "This dataset contains real-world voice recordings with transcripts and comprehensive annotations."
+    }
+  ]
+}

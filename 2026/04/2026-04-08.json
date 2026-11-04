@@ -1,0 +1,16 @@
+{
+  "date": "2026-04-08",
+  "summary": "Public projects created on 8 April 2026: 1 repo.",
+  "intro": "Concept notes for an agent-managed wiki and logbook, part of agentic AI supervision.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Agent Journal",
+      "url": "https://github.com/danielrosehill/Agent-Journal",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Concept notes for an agent-managed wiki/logbook as part of agentic AI supervision"
+    }
+  ]
+}

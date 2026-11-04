@@ -1,0 +1,24 @@
+{
+  "date": "2026-02-20",
+  "summary": "Public projects created on 20 February 2026: 2 repos.",
+  "intro": "A community-maintained dataset of public bomb shelters in Jerusalem, with the data pipeline behind it, sits alongside desktop benchmark results from February 2026. The two repositories cover civic data and machine evaluation.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Jlm Shelters Data",
+      "url": "https://github.com/danielrosehill/jlm-shelters-data",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Community-maintained dataset of public bomb shelters in Jerusalem. Data pipeline for jlmshelters.com"
+    },
+    {
+      "name": "Workstation Benchmarks 0226",
+      "url": "https://github.com/danielrosehill/Workstation-Benchmarks-0226",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "Desktop benchmarks Feb 20, 2026"
+    }
+  ]
+}

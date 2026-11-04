@@ -1,0 +1,40 @@
+{
+  "date": "2025-12-16",
+  "summary": "Public projects created on 16 December 2025: 4 repos.",
+  "intro": "Four repositories cover AI prompting and tooling: prompts for audio transcript formatting, a slash command for rewriting technical documentation, a macropad layout for dictation, and an MCP server for comparing AI model pricing.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Audio Multimodal Formatting Prompts",
+      "url": "https://github.com/danielrosehill/Audio-Multimodal-Formatting-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "AI-ideated prompts for single pass audio multimodal transcript formatting"
+    },
+    {
+      "name": "Declaude",
+      "url": "https://github.com/danielrosehill/Declaude",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Slash command for applying text rewriting instructions to correct for user-defined grievances with AI-generated technical documentation"
+    },
+    {
+      "name": "Dictation Macropad",
+      "url": "https://github.com/danielrosehill/Dictation-Macropad",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Plan/key allocation for a macropad optimised for heavy daily dictation worklflows"
+    },
+    {
+      "name": "Model Scout MCP",
+      "url": "https://github.com/danielrosehill/Model-Scout-MCP",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "MCP for checking AI API model pricing across providers"
+    }
+  ]
+}

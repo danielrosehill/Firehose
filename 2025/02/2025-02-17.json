@@ -1,0 +1,16 @@
+{
+  "date": "2025-02-17",
+  "summary": "Public projects created on 17 February 2025: 1 repo.",
+  "intro": "A Claude agent plugin adds a simple GUI for taking on-demand Snapper snapshots.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Snap It Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Snap-It-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Simple GUI for taking on-demand Snapper snapshots"
+    }
+  ]
+}

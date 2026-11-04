@@ -1,0 +1,16 @@
+{
+  "date": "2025-12-14",
+  "summary": "Public projects created on 14 December 2025: 1 repo.",
+  "intro": "A repository documents planning for an AI model manager.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Model Manager",
+      "url": "https://github.com/danielrosehill/AI-Model-Manager",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Planning/WIP repo fro AI model manager"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "date": "2025-10-24",
+  "summary": "Public projects created on 24 October 2025: 9 repos.",
+  "intro": "Nine small Gemini tools cover practical home and work tasks such as estimating room dimensions, building timesheets from screenshots and speech, and extracting product data from stickers. Others generate SSML, analyse voice, convert speech to speech, and visualise policy approaches.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Room Dimension Estimator",
+      "url": "https://github.com/danielrosehill/AI-Room-Dimension-Estimator",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Upload pics, get ballpark dimensions"
+    },
+    {
+      "name": "AI Timesheet Creator",
+      "url": "https://github.com/danielrosehill/AI-Timesheet-Creator",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Gemini: screenshot and voice narration based timesheet creator"
+    },
+    {
+      "name": "Career Pivot AI",
+      "url": "https://github.com/danielrosehill/Career-Pivot-AI",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Career pivot ideation app (AI Studio, vibe coded starter)"
+    },
+    {
+      "name": "Home Inventory Helper",
+      "url": "https://github.com/danielrosehill/Home-Inventory-Helper",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Gemini utility for extracting product data from visual product stickers"
+    },
+    {
+      "name": "Multimodal AI Use Case Ideator",
+      "url": "https://github.com/danielrosehill/Multimodal-AI-Use-Case-Ideator",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Ideates use-cases for multimodal AI (Geminii)"
+    },
+    {
+      "name": "Policy Visualiser",
+      "url": "https://github.com/danielrosehill/Policy-Visualiser",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Visualise how different countries and systems of government approach policy challenges with Gemini identifying clusters"
+    },
+    {
+      "name": "STT To TTS",
+      "url": "https://github.com/danielrosehill/STT-To-TTS",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Gemini app which captures user speech, condenses (LLM), and then synthes"
+    },
+    {
+      "name": "Text To SSML Generator",
+      "url": "https://github.com/danielrosehill/Text-To-SSML-Generator",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Generates SSML from text by inference"
+    },
+    {
+      "name": "Voice Analyzer",
+      "url": "https://github.com/danielrosehill/Voice-Analyzer",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Analyses voice data"
+    }
+  ]
+}

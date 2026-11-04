@@ -1,0 +1,24 @@
+{
+  "date": "2025-08-31",
+  "summary": "Public projects created on 31 August 2025: 2 repos.",
+  "intro": "A Gemini app turns AI prompts into personal podcasts, and a documentation template helps build subindexes of GitHub projects.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Gemini AI Podcast Generator",
+      "url": "https://github.com/danielrosehill/Gemini-AI-Podcast-Generator",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Gemini app for creating personal podcasts from your AI prompts"
+    },
+    {
+      "name": "GitHub Subindex Template",
+      "url": "https://github.com/danielrosehill/Github-Subindex-Template",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Personal template for creating subindexes of Github projects"
+    }
+  ]
+}

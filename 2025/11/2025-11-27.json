@@ -1,0 +1,24 @@
+{
+  "date": "2025-11-27",
+  "summary": "Public projects created on 27 November 2025: 2 repos.",
+  "intro": "Two repositories cover audio and podcast work: a server for Gemini multimodal transcription with post-processing, and a production pipeline for an AI-human co-generated podcast.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Gemini Transcription MCP",
+      "url": "https://github.com/danielrosehill/Gemini-Transcription-MCP",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "MCP for Gemini multimodal audio transcription with built in post-processing"
+    },
+    {
+      "name": "My Weird Prompts Podcast",
+      "url": "https://github.com/danielrosehill/My-Weird-Prompts-Podcast",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Podcast production pipeline for an AI-human co-generated podcast"
+    }
+  ]
+}

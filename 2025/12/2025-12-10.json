@@ -1,0 +1,48 @@
+{
+  "date": "2025-12-10",
+  "summary": "Public projects created on 10 December 2025: 3 repos and 2 datasets.",
+  "intro": "Speech recognition evaluations covered an index of ASR benchmarks, a transcription cleanup comparison across cloud audio models, and a test of Whisper fine-tunes against stock Whisper on local inference. The accompanying datasets were a small speech-to-text set of 92 audio samples with ground truth transcriptions and a fine-tune evaluation set.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Speech And ASR Evaluations",
+      "url": "https://github.com/danielrosehill/Speech-And-ASR-Evaluations",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "Index repository for speech recognition and ASR evaluations"
+    },
+    {
+      "name": "Transcription Cleanup Eval 1225",
+      "url": "https://github.com/danielrosehill/Transcription-Cleanup-Eval-1225",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "Evaluating various cloud audio understanding models on the transcribe and cleanup workflow/task"
+    },
+    {
+      "name": "Whisper Fine Tune Accuracy Eval",
+      "url": "https://github.com/danielrosehill/Whisper-Fine-Tune-Accuracy-Eval",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "Comparing Whisper fine-tunes versus stock Whisper on local inference"
+    },
+    {
+      "name": "Small STT Eval Audio Dataset",
+      "url": "https://huggingface.co/datasets/danielrosehill/Small-STT-Eval-Audio-Dataset",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "A small speech-to-text evaluation dataset containing 92 audio samples with ground truth transcriptions."
+    },
+    {
+      "name": "STT Fine Tune Eval 101225",
+      "url": "https://huggingface.co/datasets/danielrosehill/STT-Fine-Tune-Eval-101225",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Evaluation dataset",
+      "description": "Evaluation Date: December 10, 2025"
+    }
+  ]
+}

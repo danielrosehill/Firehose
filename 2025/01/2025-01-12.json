@@ -1,0 +1,16 @@
+{
+  "date": "2025-01-12",
+  "summary": "Public projects created on 12 January 2025: 1 repo.",
+  "intro": "A tool that backs up a Hashnode blog, including images from the CDN.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Better Hashnode Backups",
+      "url": "https://github.com/danielrosehill/Better-Hashnode-Backups",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Backups a Hashnode blog including the images from the CDN"
+    }
+  ]
+}

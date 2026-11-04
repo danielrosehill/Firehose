@@ -1,0 +1,56 @@
+{
+  "date": "2026-07-18",
+  "summary": "Public projects created on 18 July 2026: 6 repos.",
+  "intro": "Printable reference material dominates: wall posters covering the Eurobox container system and the eleven Incoterms 2020 rules, plus an index of the print-ready set. The remaining repositories hold a Linux microphone fix for laptop voice recognition, a recency-grouped directory listing tool, and a placeholder for Home Assistant blueprints.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Dictamic",
+      "url": "https://github.com/danielrosehill/dictamic",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Fix laptop internal-mic voice recognition accuracy on Linux: PipeWire WebRTC AGC pipeline + monitor GUI (.deb)"
+    },
+    {
+      "name": "Eurobox Poster",
+      "url": "https://github.com/danielrosehill/Eurobox_Poster",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Printable wall poster of the Eurobox / Euro-container system: 600x400 module, footprints, standard heights, pallet and TEU loads. Print-ready PDFs in three sizes."
+    },
+    {
+      "name": "HA Blueprints",
+      "url": "https://github.com/danielrosehill/HA_Blueprints",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Placeholder repo for Home Assistant blueprints I use (mostly by other authors)"
+    },
+    {
+      "name": "Incoterms Poster",
+      "url": "https://github.com/danielrosehill/Incoterms_Poster",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "A printable wall poster of the 11 Incoterms® 2020 rules, organized into three responsibility groups (buyer bears most, shared, seller bears most), with a journey diagram showing where risk passes..."
+    },
+    {
+      "name": "Lsrecent",
+      "url": "https://github.com/danielrosehill/lsrecent",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Directory listing grouped by recency (today / week / month / quarter / older) with a per-directory ls override mechanism"
+    },
+    {
+      "name": "Printables Index",
+      "url": "https://github.com/danielrosehill/Printables-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of my printable reference posters — print-ready wall posters built from HTML/CSS and rendered with Vivliostyle"
+    }
+  ]
+}

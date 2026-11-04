@@ -1,0 +1,16 @@
+{
+  "date": "2025-02-24",
+  "summary": "Public projects created on 24 February 2025: 1 repo.",
+  "intro": "A Linux Electron desktop wrapper for Homebox, packaged as an AppImage, covers desktop tooling for the inventory system.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Homebox Desktop Wrapper AppImage",
+      "url": "https://github.com/danielrosehill/Homebox-Desktop-Wrapper-AppImage",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Linux Electron desktop wrapper for Homebox"
+    }
+  ]
+}

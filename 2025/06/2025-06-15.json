@@ -1,0 +1,16 @@
+{
+  "date": "2025-06-15",
+  "summary": "Public projects created on 15 June 2025: 1 repo.",
+  "intro": "A configuration guide for the Home Front Command Android app, covering its settings.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "HFC Android Config Guide",
+      "url": "https://github.com/danielrosehill/HFC-Android-Config-Guide",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Non-official! Home Front Command Android app config settings guides (06-2025)"
+    }
+  ]
+}

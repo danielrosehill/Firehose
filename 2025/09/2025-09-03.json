@@ -1,0 +1,32 @@
+{
+  "date": "2025-09-03",
+  "summary": "Public projects created on 3 September 2025: 2 repos and 1 dataset.",
+  "intro": "Two documentation repositories consolidate ISO country and currency standards for geographic financial analysis, alongside a reference dataset mapping ISO-3166 countries to ISO-4217 currencies.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "ISO3166 4217 Consolidated",
+      "url": "https://github.com/danielrosehill/ISO3166-4217-Consolidated",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Informal consolidation of ISO-3166 and ISO-4217 for geographic financial analysis"
+    },
+    {
+      "name": "Useful ISO Standards Reference",
+      "url": "https://github.com/danielrosehill/Useful-ISO-Standards-Reference",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "ISO standards that I'm frequenlty looking up gathered in one ref"
+    },
+    {
+      "name": "ISO 3166 4217 Consolidated",
+      "url": "https://huggingface.co/datasets/danielrosehill/ISO-3166-4217-Consolidated",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "This dataset contains a mapping between ISO-3166 (countries) and ISO-4217 (currencies)."
+    }
+  ]
+}

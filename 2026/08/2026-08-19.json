@@ -1,0 +1,40 @@
+{
+  "date": "2026-08-19",
+  "summary": "Public projects created on 19 August 2026: 4 repos.",
+  "intro": "Long-form writing with agent teams is the focus: a pattern spec, a Claude Code plugin for books, reports, screenplays and audiobooks, and a matching workspace template. A separate idea repo models air traffic control as a voice-first workspace for routing attention across concurrent coding sessions.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Agentic Long Form Content",
+      "url": "https://github.com/danielrosehill/Agentic-Long-Form-Content",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Pattern spec: producing long-form content with teams of agents — delegation, documents as consistency, seam review, per-type production."
+    },
+    {
+      "name": "Claude Air Traffic Control",
+      "url": "https://github.com/danielrosehill/Claude-Air-Traffic-Control",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Air traffic control as a workspace model for agentic AI: a voice-first shift manager that routes one operator's attention across many concurrent Claude Code sessions. Idea repo, no code."
+    },
+    {
+      "name": "Long Form Content Plugin",
+      "url": "https://github.com/danielrosehill/Long-Form-Content-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: books, research reports, screenplays and audiobooks with teams of subagents — parallel drafting, continuity ledger, seam review, per-type production (typeset, PDF, Fountain, TTS..."
+    },
+    {
+      "name": "Long Form Content Workspace Template",
+      "url": "https://github.com/danielrosehill/Long-Form-Content-Workspace-Template",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Workspace template for long-form content projects (book, report, screenplay, audiobook) built with the long-form-content Claude Code plugin."
+    }
+  ]
+}

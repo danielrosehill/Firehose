@@ -1,0 +1,32 @@
+{
+  "date": "2025-12-02",
+  "summary": "Public projects created on 2 December 2025: 3 repos.",
+  "intro": "A whiteboard cleanup pipeline and a work in progress server for cloud speech recognition models cover image tidying and transcription. A multiagent geopolitical simulation exploring problem solving and bridge building in the Middle East rounds out the repositories.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Fix My Messy Whiteboard",
+      "url": "https://github.com/danielrosehill/AI-Fix-My-Messy-Whiteboard",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Whiteboard cleanup pipeline and util (local implementation)"
+    },
+    {
+      "name": "Cloud ASR MCP",
+      "url": "https://github.com/danielrosehill/Cloud-ASR-MCP",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "WIP MCP for using various cloud ASR models for speech to text / transcription"
+    },
+    {
+      "name": "Peace In The Middle East",
+      "url": "https://github.com/danielrosehill/Peace-In-The-Middle-East",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "WIP - Multiagentic geopolitcal simulation ideating problem-solving and bridge-building in the Middle East"
+    }
+  ]
+}

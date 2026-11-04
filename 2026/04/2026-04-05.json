@@ -1,0 +1,104 @@
+{
+  "date": "2026-04-05",
+  "summary": "Public projects created on 5 April 2026: 12 repos.",
+  "intro": "AI decision-making, geopolitical simulation, synthetic societies and multi-perspective exploration appear across several repositories, alongside personal AI, memory and context tooling. Other work covers Hebrew calendar resources, an LLM request-for-proposal tool, MCP aggregation notes, repo starter templates and sample whiteboards for diagram cleaning.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Decision Eval Projects",
+      "url": "https://github.com/danielrosehill/AI-Decision-Eval-Projects",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "Resource list of AI projects focused on exploring AI as a tool for enhanced decision-making in personal and business contexts"
+    },
+    {
+      "name": "AI Geopol Projects",
+      "url": "https://github.com/danielrosehill/AI-Geopol-Projects",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Collection/resource list of AI projects focused on exploring the ability of AI agents to act as proxies for real-world geopolirtical actors, including simulated policy fora"
+    },
+    {
+      "name": "AI Project Spec Pattern",
+      "url": "https://github.com/danielrosehill/AI-Project-Spec-Pattern",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Pattern for creating a modular spec-definition format for AI coding agents from one initial plan ingestion"
+    },
+    {
+      "name": "AI Resource Maps",
+      "url": "https://github.com/danielrosehill/AI-Resource-Maps",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of repos mapping out (snapshots/updated) parts of the huge world of AI of particular interest to me"
+    },
+    {
+      "name": "AI Synthesised Perspectives",
+      "url": "https://github.com/danielrosehill/AI-Synthesised-Perspectives",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Collection/resource list of AI projects focused on synthesising perpsectives for multi-perspective exploration"
+    },
+    {
+      "name": "AI Synthetic Society Experiments",
+      "url": "https://github.com/danielrosehill/AI-Synthetic-Society-Experiments",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Resource list of AI projects exploring synthetic AI soceties, multi-agent socialisation, and the ability of these experiments to act as proxies for predicting or better understanding real world..."
+    },
+    {
+      "name": "Hebrew Calendar Resources",
+      "url": "https://github.com/danielrosehill/Hebrew-Calendar-Resources",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Collection of open-source tools, libraries, APIs, and integrations for working with the Hebrew calendar"
+    },
+    {
+      "name": "LLM RFP",
+      "url": "https://github.com/danielrosehill/LLM-RFP",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A tool for choosing the best LLM for your workload using a competitive \"Request for Proposal\" process — where the models themselves make the case for why they should be selected."
+    },
+    {
+      "name": "MCP Aggregation Notes",
+      "url": "https://github.com/danielrosehill/MCP-Aggregation-Notes",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "Ideating/brainstorming some frustrations with MCP aggregation, with Claude, and planning an easier approach"
+    },
+    {
+      "name": "Personal AI Resources",
+      "url": "https://github.com/danielrosehill/Personal-AI-Resources",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Collection of projects advancing personalised AI — memory, context engineering, personal assistants, second brain tools, and more"
+    },
+    {
+      "name": "Repo Starters And Templates Index",
+      "url": "https://github.com/danielrosehill/Repo-Starters-And-Templates-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Index of repo starter templates, scaffolds, and patterns for bootstrapping new projects"
+    },
+    {
+      "name": "Sample Whiteboards",
+      "url": "https://github.com/danielrosehill/Sample-Whiteboards",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "A collection of example whiteboard photos for testing AI image-to-image tools and processes for whiteboard-to-tech-diagram cleaning -- a workflow I love!"
+    }
+  ]
+}

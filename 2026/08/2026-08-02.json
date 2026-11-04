@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-02",
+  "summary": "Public projects created on 2 August 2026: 1 repo.",
+  "intro": "A hierarchical category taxonomy for household goods, intended for home inventory systems.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "HomeGoods Taxonomy",
+      "url": "https://github.com/danielrosehill/HomeGoods-Taxonomy",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "A general-purpose hierarchical category taxonomy for household goods, for home inventory systems"
+    }
+  ]
+}

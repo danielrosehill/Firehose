@@ -1,0 +1,40 @@
+{
+  "date": "2025-04-18",
+  "summary": "Public projects created on 18 April 2025: 4 repos.",
+  "intro": "A set of repositories covers open-source AI search links, Home Assistant emergency alert dashboards for Israel, and Israeli news RSS feeds. A separate Python tool batch-renames files through the OpenAI API.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "GitHub AI Searches",
+      "url": "https://github.com/danielrosehill/Github-AI-Searches",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A series of search links for those wishing to drink from the firehose of open-source AI"
+    },
+    {
+      "name": "HA Red Alert News Dash",
+      "url": "https://github.com/danielrosehill/HA-Red-Alert-News-Dash",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A Home Assistant dashboard for emergency alerts (Tzeva Adom) in Israel with and without live news"
+    },
+    {
+      "name": "Israel News RSS Feeds",
+      "url": "https://github.com/danielrosehill/Israel-News-RSS-Feeds",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Collection of RSS feeds about news in Israel"
+    },
+    {
+      "name": "OpenAI Image Renamer",
+      "url": "https://github.com/danielrosehill/OpenAI-Image-Renamer",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Simple Python script for batch file renaming operations with OpenAI API"
+    }
+  ]
+}

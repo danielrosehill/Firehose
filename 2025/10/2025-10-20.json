@@ -1,0 +1,16 @@
+{
+  "date": "2025-10-20",
+  "summary": "Public projects created on 20 October 2025: 1 repo.",
+  "intro": "A tool that generates a bespoke set of licensing terms for a project.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Custom License Creator",
+      "url": "https://github.com/danielrosehill/Custom-License-Creator",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "AI tool to create a bespoke set of licensing terms for a project"
+    }
+  ]
+}

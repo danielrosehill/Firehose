@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-21",
+  "summary": "Public projects created on 21 October 2026: 10 repos, 2 datasets and 4 models.",
+  "intro": "Claude Code plugins for Bluetooth control on Linux, temporary network overflow, spam filtering, Maccabi Online skills, and a marketplace guide. Small text models handle paragraph breaks in speech-to-text output, bolding key lines in dictated emails, and swapping identifying details for substitutes.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "ASR Paragraph Breaks",
+      "url": "https://github.com/danielrosehill/ASR-Paragraph-Breaks",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Hand-annotated paragraph breaks for flat ASR text, and a small text-in/text-out model trained on them"
+    },
+    {
+      "name": "Claude Agent Exchange",
+      "url": "https://github.com/danielrosehill/Claude-Agent-Exchange",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "A two-way file exchange between you and Claude Code: from-human / from-agent folders, a CLAUDE.md block, and a small explorer app locked to them"
+    },
+    {
+      "name": "Claude Linux BT Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Linux-BT-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: Bluetooth on Linux via bluetoothctl — scan, pair+trust+connect, manage, reset. Because the desktop dialogs don't."
+    },
+    {
+      "name": "Claude Marketplace Guide Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Marketplace-Guide-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Start here for the danielrosehill Claude Code marketplace: browse plugins by theme, get recommendations, see what's new — read live from the manifest"
+    },
+    {
+      "name": "Claude Network Tmp Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Network-Tmp-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: capped, self-cleaning network overflow for a small or tmpfs /tmp"
+    },
+    {
+      "name": "Claude Pseudospam Filter Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Pseudospam-Filter-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: a second spam filter for pseudo-personalised outreach, taught by your own Gmail labels"
+    },
+    {
+      "name": "Gemma 3 270M Email Key Line Bolding",
+      "url": "https://github.com/danielrosehill/Gemma-3-270M-Email-Key-Line-Bolding",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Gemma 3 270M fine-tune that bolds the key lines of a dictated email and changes nothing else"
+    },
+    {
+      "name": "Maccabi Online Skills",
+      "url": "https://github.com/danielrosehill/Maccabi-Online-Skills",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Unofficial Claude Code skills for Maccabi Online, the Maccabi Healthcare Services (Israel) member portal — drives your own signed-in Chrome"
+    },
+    {
+      "name": "Proximate Pseudonymizer",
+      "url": "https://github.com/danielrosehill/Proximate-Pseudonymizer",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Small text-in/text-out model that swaps identifying details for proximate, consistent substitutes"
+    },
+    {
+      "name": "To Skill Or Not To Skill",
+      "url": "https://github.com/danielrosehill/To-Skill-Or-Not-To-Skill",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Before any task, ask: should this become a skill? A user-level heuristic for AI agents, as a Claude Code plugin plus a CLAUDE.md / AGENTS.md installer."
+    },
+    {
+      "name": "ASR Paragraph Breaks",
+      "url": "https://huggingface.co/datasets/danielrosehill/ASR-Paragraph-Breaks",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Training dataset",
+      "description": "Hand-annotated paragraph breaks for flat speech-to-text output. ASR engines emit punctuated, cased text as one block."
+    },
+    {
+      "name": "Email Key Line Bolding",
+      "url": "https://huggingface.co/datasets/danielrosehill/Email-Key-Line-Bolding",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Training dataset",
+      "description": "Hand annotations of which words in a dictated email should be bold: any run of whole words within a paragraph, from a phrase to several sentences."
+    },
+    {
+      "name": "Gemma 3 270M ASR Paragraph Breaks",
+      "url": "https://huggingface.co/danielrosehill/Gemma-3-270M-ASR-Paragraph-Breaks",
+      "network": "Hugging Face",
+      "section": "models",
+      "type": "Fine-tuned model",
+      "description": "Adds paragraph breaks to flat speech-to-text output and changes nothing else."
+    },
+    {
+      "name": "Gemma 3 270M ASR Paragraph Breaks ONNX",
+      "url": "https://huggingface.co/danielrosehill/Gemma-3-270M-ASR-Paragraph-Breaks-ONNX",
+      "network": "Hugging Face",
+      "section": "models",
+      "type": "Fine-tuned model",
+      "description": "ONNX export of danielrosehill/Gemma-3-270M-ASR-Paragraph-Breaks for ONNX Runtime, so it can run on a phone on the same runtime as an ONNX speech-recognition model."
+    },
+    {
+      "name": "Gemma 3 270M Email Key Line Bolding",
+      "url": "https://huggingface.co/danielrosehill/Gemma-3-270M-Email-Key-Line-Bolding",
+      "network": "Hugging Face",
+      "section": "models",
+      "type": "Fine-tuned model",
+      "description": "Puts the key parts of a dictated email in Markdown bold, and changes nothing else."
+    },
+    {
+      "name": "Proximate Pseudonymizer 0.6B",
+      "url": "https://huggingface.co/danielrosehill/Proximate-Pseudonymizer-0.6B",
+      "network": "Hugging Face",
+      "section": "models",
+      "type": "Fine-tuned model",
+      "description": "Try it: public demo Space · Write-up: blog post (runs on CPU and shows a word-level diff of every swap, so you can spot what it missed)."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-01",
+  "summary": "Public projects created on 1 September 2026: 4 repos, 1 dataset and 1 model.",
+  "intro": "Claude Code tooling for handling email exports and Timemark camera files covered agent plugins. Jerusalem work included field photography of a postering campaign with shot coordinates, an index of city projects, and a training dataset of geotagged street photos with poster bounding boxes, plus a YOLO fine-tune that identifies poster designs.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Eml Toolkit",
+      "url": "https://github.com/danielrosehill/Claude-Eml-Toolkit",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Claude Code plugin for turning .eml email exports into artefacts you can actually use — a threaded PDF of a correspondence chain, extracted attachments, Markdown for another agent, a redacted copy..."
+    },
+    {
+      "name": "Claude Timemark Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Timemark-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Handle Timemark (Android stamp camera) exports: which route preserves pixels vs field values, and the join that recovers both"
+    },
+    {
+      "name": "Jerusalem Graffiti",
+      "url": "https://github.com/danielrosehill/Jerusalem-Graffiti",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Field photography of a messianic postering campaign in central Jerusalem, with the coordinates of every shot."
+    },
+    {
+      "name": "Jerusalem Projects Index",
+      "url": "https://github.com/danielrosehill/Jerusalem-Projects-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Projects tied to Jerusalem as a place — the city, its streets, its municipal services and specific addresses within it."
+    },
+    {
+      "name": "Jerusalem Poster Detection",
+      "url": "https://huggingface.co/datasets/danielrosehill/jerusalem-poster-detection",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Training dataset",
+      "description": "Geotagged street photographs of a messianic postering campaign in central Jerusalem, with bounding boxes around every campaign poster in frame."
+    },
+    {
+      "name": "Jerusalem Poster Detector",
+      "url": "https://huggingface.co/danielrosehill/jerusalem-poster-detector",
+      "network": "Hugging Face",
+      "section": "models",
+      "type": "Other",
+      "description": "Fine-tune of yolo11n.pt that locates specific poster designs in street photographs and names which design it found. Trained on danielrosehill/jerusalem-poster-detection."
+    }
+  ]
+}

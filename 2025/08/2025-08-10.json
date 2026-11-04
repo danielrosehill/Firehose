@@ -1,0 +1,64 @@
+{
+  "date": "2025-08-10",
+  "summary": "Public projects created on 10 August 2025: 6 repos and 1 dataset.",
+  "intro": "Index repositories for apps, backups, Home Assistant and Homebox sit alongside a guide to local agent preferences and a script for bulk updating models in n8n workflows. A reference dataset of GitHub repositories also appears.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Apps Index",
+      "url": "https://github.com/danielrosehill/Apps-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Indexing repo for apps created"
+    },
+    {
+      "name": "Backup Projects Index",
+      "url": "https://github.com/danielrosehill/Backup-Projects-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Indexing repo of backup related projects and scripts"
+    },
+    {
+      "name": "Home Assistant Index",
+      "url": "https://github.com/danielrosehill/Home-Assistant-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Indexing repo for HA projects"
+    },
+    {
+      "name": "Homebox Projects Index",
+      "url": "https://github.com/danielrosehill/Homebox-Projects-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of Homebox related projects (home inventory system)"
+    },
+    {
+      "name": "LLM Preferences Guide",
+      "url": "https://github.com/danielrosehill/LLM-Preferences-Guide",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "(Experiment) Predefined set of instructions for local agents governing LLM usage and selection"
+    },
+    {
+      "name": "N8N LLM Workflow Bulk Updater",
+      "url": "https://github.com/danielrosehill/N8N-LLM-Workflow-Bulk-Updater",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Backend script for applying bulk model updates to workflows (use-case: updating LLMs in nodes)"
+    },
+    {
+      "name": "GitHub Repos 100825",
+      "url": "https://huggingface.co/datasets/danielrosehill/github-repos-100825",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "No description published."
+    }
+  ]
+}

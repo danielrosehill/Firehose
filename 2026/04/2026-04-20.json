@@ -1,0 +1,144 @@
+{
+  "date": "2026-04-20",
+  "summary": "Public projects created on 20 April 2026: 17 repos.",
+  "intro": "A set of Claude Code plugins covered agent operations such as Android device management, backup planning, task queuing, and GitHub discovery. Other repositories held reference material and tools, among them indexes of Israeli online stores and open-source projects, data on geopolitical bodies for simulations, and a prompt builder for music.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "CAMEO Codebook",
+      "url": "https://github.com/danielrosehill/CAMEO-Codebook",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Unofficial machine-readable (JSON/YAML) extraction of the CAMEO codebook used by GDELT/ACLED"
+    },
+    {
+      "name": "Claude ADB Ops Plugin",
+      "url": "https://github.com/danielrosehill/Claude-ADB-Ops-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for Android Debug Bridge (ADB) operations — onboard a phone, save folder mappings, import media with one command, capture screenshots, and manage bloatware with a persistent,..."
+    },
+    {
+      "name": "Claude Backup Planner Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Backup-Planner-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "A Claude Code plugin that walks the user end-to-end through planning, documenting, and implementing a backup and data-protection strategy for the current project."
+    },
+    {
+      "name": "Claude FX Pair Analyst Template",
+      "url": "https://github.com/danielrosehill/Claude-FX-Pair-Analyst-Template",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code workspace for FX pair analysis — historical data, quant/econometrics, vol modelling, geopol context, Typst PDF reports. Part of New-Repo-From-Template-Plugin."
+    },
+    {
+      "name": "Claude GitHub Explorer Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Github-Explorer-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Semantic GitHub repo discovery for finding reusable open-source components."
+    },
+    {
+      "name": "Claude Green Invoice Ops Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Green-Invoice-Ops-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Green Invoice plugin providing Green Invoice/ Morning MCP and skill definitions to Claude Code"
+    },
+    {
+      "name": "Claude Israel Shopping Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Israel-Shopping-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Shopping plugin intended for Israeli residents covering domestic purchasing channels, common B2C overseas channels (Aliexperss, Amazon, iHerb), and with some data and search pattern mappings. WIP!"
+    },
+    {
+      "name": "Claude Pad",
+      "url": "https://github.com/danielrosehill/Claude-Pad",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "A dedicated macropad for driving Claude Code — approve, stop, new session, navigate transcripts — with a host-driven status LED that lights up when Claude is waiting on you."
+    },
+    {
+      "name": "Claude Task Queuer Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Task-Queuer-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Simple Claude task actuator for adding task mgmt to repositories with support for agent sorting"
+    },
+    {
+      "name": "Claude Teach This Repo Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Teach-This-Repo-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Use a real codebase in reverse for developer education."
+    },
+    {
+      "name": "Claude Test Project Ideator Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Test-Project-Ideator-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Generate specifications for practice / \"dummy\" development projects tailored to what the user wants to learn, the stack they want to use, and how proficient they already are with each piece of it."
+    },
+    {
+      "name": "Favorite Code Libraries",
+      "url": "https://github.com/danielrosehill/Favorite-Code-Libraries",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A personal index of code libraries Daniel uses and likes — curated across languages and domains, with a short note on why each one earns its place."
+    },
+    {
+      "name": "Israel Online Stores",
+      "url": "https://github.com/danielrosehill/Israel-Online-Stores",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Open data index of Israeli online retailers, intended as a data store backing online shopping agents (LLM-driven product search, price comparison, sourcing workflows, etc.)."
+    },
+    {
+      "name": "Israeli Open Source Projects",
+      "url": "https://github.com/danielrosehill/Israeli-Open-Source-Projects",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Curated index of interesting open-source Israeli projects (data sources, civic tech, finance, careers, real estate, smart home, media). Sibling to Israeli-AI-Tools-And-Ecosystem."
+    },
+    {
+      "name": "Stars Viewer",
+      "url": "https://github.com/danielrosehill/Stars-Viewer",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Export of GitHub stars organized by type"
+    },
+    {
+      "name": "Suno Prompt Builder",
+      "url": "https://github.com/danielrosehill/suno-prompt-builder",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Desktop app (Tauri + React) for building Suno music prompts — slot-based composer, BPM slider, searchable library of 317 seed prompts"
+    },
+    {
+      "name": "World Geopol Fora",
+      "url": "https://github.com/danielrosehill/World-Geopol-Fora",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Stub repo: machine-readable data about real-world geopolitical bodies for use in multi-agent AI simulations modelling political reactions"
+    }
+  ]
+}

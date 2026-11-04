@@ -1,0 +1,32 @@
+{
+  "date": "2026-03-09",
+  "summary": "Public projects created on 9 March 2026: 3 repos.",
+  "intro": "A workspace template generator and a KDE Plasma launcher covered agentic AI tooling for Claude. A data pipeline served an MCP server.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Agent Workspace Generator",
+      "url": "https://github.com/danielrosehill/Claude-Agent-Workspace-Generator",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Claude utility for creating workspace templates for agentic AI tools"
+    },
+    {
+      "name": "Claude Konsole Launcher",
+      "url": "https://github.com/danielrosehill/Claude-Konsole-Launcher",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Launch utility (WIP) for using Claude Code + Konsole in KDE Plasma"
+    },
+    {
+      "name": "Miklat MCP Data",
+      "url": "https://github.com/danielrosehill/Miklat-MCP-Data",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "Data pipeline for Miklat MCP"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2026-01-30",
+  "summary": "Public projects created on 30 January 2026: 1 repo.",
+  "intro": "A userscript that automatically hides \"Max Combo\" deal listings from AliExpress search results, with documentation.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Aliexpress Combo Hider",
+      "url": "https://github.com/danielrosehill/Aliexpress-Combo-Hider",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A userscript that automatically hides \"Max Combo\" deal listings from AliExpress search results."
+    }
+  ]
+}

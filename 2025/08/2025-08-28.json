@@ -1,0 +1,40 @@
+{
+  "date": "2025-08-28",
+  "summary": "Public projects created on 28 August 2025: 4 repos.",
+  "intro": "Business idea exploration and first-pass feedback sit alongside simple n8n agent patterns for learning or validating MCP calls. Planning material for speech-to-text fine-tuning and evaluation, plus a joke configuration for a downtrodden assistant, round out the repositories.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Business Idea Refinement Agent",
+      "url": "https://github.com/danielrosehill/Business-Idea-Refinement-Agent",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "AI agent that helps users to explore business ideas and receive first-pass feedback"
+    },
+    {
+      "name": "N8N Test Agents",
+      "url": "https://github.com/danielrosehill/N8N-Test-Agents",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Simple n8n agent patterns for learning the ropes or validating MCP calling"
+    },
+    {
+      "name": "STT Fine Tune Project Outline",
+      "url": "https://github.com/danielrosehill/STT-Fine-Tune-Project-Outline",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Planning doc for STT fine-tuning and eval project"
+    },
+    {
+      "name": "Toxic GPT",
+      "url": "https://github.com/danielrosehill/Toxic-GPT",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Joke configuration for a downtrodden LLM assistant for those needing a break from enforced AI positivity"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2025-03-30",
+  "summary": "Public projects created on 30 March 2025: 1 repo.",
+  "intro": "A command-line tool generates batches of curated recommendations for films, books, podcasts and similar media.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "You Might Like Agent",
+      "url": "https://github.com/danielrosehill/You-Might-Like-Agent",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "CLI that generates batches of curated recommendations for movies, books, podcasts, etc"
+    }
+  ]
+}

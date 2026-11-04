@@ -1,0 +1,24 @@
+{
+  "date": "2025-07-24",
+  "summary": "Public projects created on 24 July 2025: 2 repos.",
+  "intro": "Two N8N workflow repositories cover automation tooling: an index of shared workflows and a pipeline that turns voice notes into AI-processed prompts sent by email.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "N8N Workflows Index",
+      "url": "https://github.com/danielrosehill/N8N-Workflows-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Index of N8N workflows that I have shared on Github"
+    },
+    {
+      "name": "Voicenotes Prompt To Email Workflow N8N",
+      "url": "https://github.com/danielrosehill/Voicenotes-Prompt-To-Email-Workflow-N8N",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "An automated N8N workflow that transforms voice notes into AI-processed prompts and delivers the results via email."
+    }
+  ]
+}

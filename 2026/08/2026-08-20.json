@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-20",
+  "summary": "Public projects created on 20 August 2026: 1 repo.",
+  "intro": "A Claude Code plugin builds website skills by watching a signed-in browser, proposing them, writing durable ones, and keeping them current as the interface changes.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Site Skill Builder Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Site-Skill-Builder-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Build a Claude Code plugin for a website by observing it in your own signed-in browser — propose skills, author durable ones, keep them alive as the UI drifts."
+    }
+  ]
+}

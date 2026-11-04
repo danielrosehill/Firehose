@@ -1,0 +1,296 @@
+{
+  "date": "2026-04-28",
+  "summary": "Public projects created on 28 April 2026: 35 repos and 1 dataset.",
+  "intro": "Claude Code plugins for managing infrastructure such as OPNsense, Proxmox, Synology and Home Assistant, alongside plugins for scheduling, decision frameworks, browser data capture, image annotation and Jewish utilities. Documentation repositories cover AI workspace primitives, from budget and secrets manifests to style and process guides. A Jerusalem air-quality dataset accompanies related analysis.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Dev Repo Template 1",
+      "url": "https://github.com/danielrosehill/AI-Dev-Repo-Template-1",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Template repo seeded with every primitive from AI-Dev-Workspace-Primitives. Click 'Use this template' to scaffold a new AI-assisted project."
+    },
+    {
+      "name": "AI Dev Workspace Primitives",
+      "url": "https://github.com/danielrosehill/AI-Dev-Workspace-Primitives",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of AI dev workspace primitives — root-level UPPERCASE.md context files for AI-assisted projects."
+    },
+    {
+      "name": "BUDGET.md",
+      "url": "https://github.com/danielrosehill/BUDGET.md",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Financial constraints and cost-mitigation primitive for cost-aware agent reasoning. Part of AI-Dev-Workspace-Primitives."
+    },
+    {
+      "name": "Claude Browser Data Capture Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Browser-Data-Capture-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "A Claude Code plugin to streamline programmatic data ingestion against sites and apps that don't ship a documented API."
+    },
+    {
+      "name": "Claude Business Idea Eval Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Business-Idea-Eval-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for evaluating, refining, and developing business ideas."
+    },
+    {
+      "name": "Claude Decision Evaluation Framework Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Decision-Evaluation-Framework-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Apply 20+ classical decision-making frameworks to any major decision — parallel multi-lens analysis, cross-framework synthesis, and Typst PDF export."
+    },
+    {
+      "name": "Claude Declutter Genie Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Declutter-Genie-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "A Claude Code plugin for inventory analysis and decluttering."
+    },
+    {
+      "name": "Claude Image Annotation Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Image-Annotation-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Capture screenshots and apply visual annotations — arrows, text callouts, boxes, highlights, numbered markers, and privacy redaction — on Linux, all from the CLI."
+    },
+    {
+      "name": "Claude Jewish Utilities Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Jewish-Utilities-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: shabbat times, zmanim, parsha, hebrew date conversion, upcoming holidays, daf yomi"
+    },
+    {
+      "name": "Claude Schedule Manager Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Schedule-Manager-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Personal schedule, task, and meeting management — Calendar+Todoist+Workspace MCPs, firehose routing, agenda/minutes lifecycle, wrapup/morning-brief day cycle."
+    },
+    {
+      "name": "DOCS.md",
+      "url": "https://github.com/danielrosehill/DOCS.md",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Documentation style guide and writing-preferences primitive. Part of AI-Dev-Workspace-Primitives."
+    },
+    {
+      "name": "ENVIRONMENT.md",
+      "url": "https://github.com/danielrosehill/ENVIRONMENT.md",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Development and deployment environment primitive (toolchains, runtimes, Conda, GPU). Part of AI-Dev-Workspace-Primitives."
+    },
+    {
+      "name": "Geopol Sim Plugin",
+      "url": "https://github.com/danielrosehill/Geopol-Sim-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "A thin orchestrator for running geopolitical-forecasting simulations from multiple decoupled upstream templates."
+    },
+    {
+      "name": "Google Contacts MCP",
+      "url": "https://github.com/danielrosehill/Google-Contacts-MCP",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Minimal MCP server for the Google People API — read-only contact search/lookup. Companion to Claude Code's schedule-manager plugin."
+    },
+    {
+      "name": "GROUNDING.md",
+      "url": "https://github.com/danielrosehill/GROUNDING.md",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Whitelist of authoritative URLs for agent grounding (official docs, canonical specs). Part of AI-Dev-Workspace-Primitives."
+    },
+    {
+      "name": "Home Assistant Mgmt Plugin",
+      "url": "https://github.com/danielrosehill/Home-Assistant-Mgmt-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for managing Home Assistant — REST API + SSH, with externalized per-host config"
+    },
+    {
+      "name": "Jewish Texts Reference Plugin",
+      "url": "https://github.com/danielrosehill/Jewish-Texts-Reference-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Plugin for looking up Jewish religious texts, bundling Sefaria MCP"
+    },
+    {
+      "name": "JLM Air Quality Analysis",
+      "url": "https://github.com/danielrosehill/JLM-Air-Quality-Analysis",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Halachic relabeling, cross-city control analysis, and validated findings for the Jerusalem-Air-Quality-Shabbat dataset"
+    },
+    {
+      "name": "LOG.md",
+      "url": "https://github.com/danielrosehill/LOG.md",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Raw agent work-log primitive (markdown or JSON entries). Part of AI-Dev-Workspace-Primitives."
+    },
+    {
+      "name": "Loose Tasks Plugin",
+      "url": "https://github.com/danielrosehill/Loose-Tasks-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Loose skills that will be migrated into other plugins later. Recommended not to enable/use this! Skills here are staged provisionally and may move, rename, or disappear without notice."
+    },
+    {
+      "name": "Opnsense Mgmt Plugin",
+      "url": "https://github.com/danielrosehill/Opnsense-Mgmt-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for managing OPNsense routers — SSH + API, with externalized per-host config"
+    },
+    {
+      "name": "PREFERENCES.md",
+      "url": "https://github.com/danielrosehill/PREFERENCES.md",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Persistent stack preferences primitive (model hierarchies for OpenRouter, preferred libraries). Part of AI-Dev-Workspace-Primitives."
+    },
+    {
+      "name": "PROCESS.md",
+      "url": "https://github.com/danielrosehill/PROCESS.md",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Project-specific development process primitive (review, release, branching, testing). Part of AI-Dev-Workspace-Primitives."
+    },
+    {
+      "name": "Project Flow",
+      "url": "https://github.com/danielrosehill/Project-Flow",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Abandoned: replaced by danielrosehill/Firehose, the automated daily digest"
+    },
+    {
+      "name": "PROJECT.md",
+      "url": "https://github.com/danielrosehill/PROJECT.md",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Overarching project plan, major architectural decisions, and decision history (replaces MEMORY.md). Part of AI-Dev-Workspace-Primitives."
+    },
+    {
+      "name": "Proxmox Mgmt Plugin",
+      "url": "https://github.com/danielrosehill/Proxmox-Mgmt-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for managing Proxmox VE hosts — SSH + Proxmox API, with externalized per-host config"
+    },
+    {
+      "name": "RULES.md",
+      "url": "https://github.com/danielrosehill/RULES.md",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Guardrails and authorizations primitive — what agents may and may not do. Part of AI-Dev-Workspace-Primitives."
+    },
+    {
+      "name": "SCAFFOLDS.md",
+      "url": "https://github.com/danielrosehill/SCAFFOLDS.md",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Preferred scaffold or scaffolds-library reference primitive defining repo structure. Part of AI-Dev-Workspace-Primitives."
+    },
+    {
+      "name": "SECRETS.md",
+      "url": "https://github.com/danielrosehill/SECRETS.md",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Secrets manifest primitive — names, vault locations, retrieval CLI (e.g. 1Password op), rotation posture. Never values. Part of AI-Dev-Workspace-Primitives."
+    },
+    {
+      "name": "SPEC.md",
+      "url": "https://github.com/danielrosehill/SPEC.md",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "First-entry authoritative project specification primitive. Part of AI-Dev-Workspace-Primitives."
+    },
+    {
+      "name": "STYLE.md",
+      "url": "https://github.com/danielrosehill/STYLE.md",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Brand style primitive — palette, fonts, assets, logos. Part of AI-Dev-Workspace-Primitives."
+    },
+    {
+      "name": "Synology Mgmt Plugin",
+      "url": "https://github.com/danielrosehill/Synology-Mgmt-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for managing Synology NAS — SSH + DSM API, with externalized per-host config"
+    },
+    {
+      "name": "Therapy Tracking Plugin",
+      "url": "https://github.com/danielrosehill/Therapy-Tracking-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for organising therapy reflections — pre/post-session notes, goal tracking, voice-memo structuring. Not therapy: organises notes only."
+    },
+    {
+      "name": "TOOLS.md",
+      "url": "https://github.com/danielrosehill/TOOLS.md",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Necessary / available tools primitive, typically referencing a centralized tools vault. Part of AI-Dev-Workspace-Primitives."
+    },
+    {
+      "name": "USER PROFILE.md",
+      "url": "https://github.com/danielrosehill/USER_PROFILE.md",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Per-repo user profile primitive — collaborative / out-of-VC overrides for the user-level profile. Part of AI-Dev-Workspace-Primitives."
+    },
+    {
+      "name": "Jerusalem Air Quality Shabbat",
+      "url": "https://huggingface.co/datasets/danielrosehill/Jerusalem-Air-Quality-Shabbat",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "Twelve months of 5-minute-resolution air-quality readings from 12 monitoring stations across Jerusalem, formatted for analysing the weekday vs Friday vs Shabbat (Saturday) pattern in urban pollution."
+    }
+  ]
+}

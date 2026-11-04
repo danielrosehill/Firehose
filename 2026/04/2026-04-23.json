@@ -1,0 +1,160 @@
+{
+  "date": "2026-04-23",
+  "summary": "Public projects created on 23 April 2026: 18 repos and 1 dataset.",
+  "intro": "Claude Code plugins for data analysis, cleaning, visualisation, corpus work and local web capture sit alongside an Israel-specific skills set. Further repositories cover LLM council variants for decisions, house hunting and policy ideation, plus indexes of AI data and presentation tooling. A whiteboard dataset supports vision-language OCR evaluation.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Data Utilities",
+      "url": "https://github.com/danielrosehill/AI-Data-Utilities",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Curated list of open-source AI tooling for data work — agents, chat-with-data, visualisation, cleaning, and resource lists."
+    },
+    {
+      "name": "AI Presentation Builders Index",
+      "url": "https://github.com/danielrosehill/AI-Presentation-Builders-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Point in time aggregated list of utilities for creating slide decks/presentations with AI agents"
+    },
+    {
+      "name": "Claude Data Analyst Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Data-Analyst-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "First pass data analysis skills for Claude Code"
+    },
+    {
+      "name": "Claude Data Visualisation And Publishing Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Data-Visualisation-And-Publishing-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude skills for data visualisation using common libraries"
+    },
+    {
+      "name": "Claude Data Wrangler Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Data-Wrangler-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Data cleaning, enrichment, restructuring, and packaging skills for Claude Code"
+    },
+    {
+      "name": "Claude Israel Agent Skills Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Israel-Agent-Skills-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Collection of Israel-specific skills for Claude Code and other agentic CLIs"
+    },
+    {
+      "name": "Claude LLM Council Creator Plugin",
+      "url": "https://github.com/danielrosehill/Claude-LLM-Council-Creator-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for scaffolding new LLM Council projects (Template / Grounded / Decide / Bespoke)"
+    },
+    {
+      "name": "Claude Local Web Capture Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Local-Web-Capture-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: capture geo-restricted web content (Israeli news, prices) via the user's own IP. Headless-first escalation ladder."
+    },
+    {
+      "name": "Claude Skill Definer",
+      "url": "https://github.com/danielrosehill/Claude-Skill-Definer",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Multimodal workspace for defining Claude Code skills from voice notes, videos, images+text, or written specs."
+    },
+    {
+      "name": "Claude Text Corpus Analysis Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Text-Corpus-Analysis-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: reusable task definitions for text corpus and topic analysis."
+    },
+    {
+      "name": "Israel Spam Callers",
+      "url": "https://github.com/danielrosehill/Israel-Spam-Callers",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "A community-maintained list of known spam / nuisance / scam callers operating in Israel (+972 and local prefixes)."
+    },
+    {
+      "name": "Jerusalem Honking LLM Council Run",
+      "url": "https://github.com/danielrosehill/Jerusalem-Honking-LLM-Council-Run",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Concrete policy-ideation council run for a Jerusalem local-governance challenge around car-horn use"
+    },
+    {
+      "name": "LLM Council Decide",
+      "url": "https://github.com/danielrosehill/LLM-Council-Decide",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "LLM council that evaluates a user-presented decision through a panel of formal decision-making frameworks — pros/cons, weighted matrix, pre-mortem, 10/10/10, SWOT, Six Hats, WRAP — with a Chairman..."
+    },
+    {
+      "name": "LLM Council Homehunter",
+      "url": "https://github.com/danielrosehill/LLM-Council-Homehunter",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "LLM council for house/apartment hunting — user provides context + objectives, council recommends a search spec with explicit tradeoffs and compromises"
+    },
+    {
+      "name": "LLM Council Policy Ideation",
+      "url": "https://github.com/danielrosehill/LLM-Council-Policy-Ideation",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "LLM Council variant for local-governance policy ideation — six specialist lenses deliberate on a policy problem, Chairman produces a Policy Ideation Report"
+    },
+    {
+      "name": "LLM Council V3",
+      "url": "https://github.com/danielrosehill/LLM-Council-V3",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "LLM council model that adds context - prompt separation and prompt actuation to the basic model by Karpathy"
+    },
+    {
+      "name": "State Of Claude Context 0426",
+      "url": "https://github.com/danielrosehill/State-Of-Claude-Context-0426",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Q&A notes: exploring where context bloat is most liable to accure given the current shape/engineering of the Claude Code harness and current primitives"
+    },
+    {
+      "name": "Whiteboard OCR Few Shot Learning",
+      "url": "https://github.com/danielrosehill/Whiteboard-OCR-Few-Shot-Learning",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Exploring various vision AI workflows for whiteboard processing"
+    },
+    {
+      "name": "Whiteboards",
+      "url": "https://huggingface.co/datasets/danielrosehill/Whiteboards",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Evaluation dataset",
+      "description": "A small, single-author whiteboard corpus for evaluating vision-language models on handwritten OCR accuracy and for studying pseudotext hallucination — the failure mode where a VLM invents..."
+    }
+  ]
+}

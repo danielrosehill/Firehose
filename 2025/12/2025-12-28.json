@@ -1,0 +1,16 @@
+{
+  "date": "2025-12-28",
+  "summary": "Public projects created on 28 December 2025: 1 repo.",
+  "intro": "A set of printable cable reference wall charts made with Nano Banana Pro.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Cable Reference Wall Charts",
+      "url": "https://github.com/danielrosehill/Cable-Reference-Wall-Charts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Some Nano Banana Pro cable reference graphics for printing"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2025-04-08",
+  "summary": "Public projects created on 8 April 2025: 2 repos.",
+  "intro": "Two prompt collections cover structured prompt generation through a Streamlit tool and system prompts for book authors, including proofreading and marketing assistants.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Structured System Prompt Generator",
+      "url": "https://github.com/danielrosehill/Structured-System-Prompt-Generator",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Streamlit generator to aid with the creation of structured prompts"
+    },
+    {
+      "name": "System Prompts For Book Authors",
+      "url": "https://github.com/danielrosehill/System-Prompts-For-Book-Authors",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "System prompts for configuring AI assistants to help book authors including proofreading assistants and book marketing ideation tools"
+    }
+  ]
+}

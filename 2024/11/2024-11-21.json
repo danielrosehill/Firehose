@@ -1,0 +1,16 @@
+{
+  "date": "2024-11-21",
+  "summary": "Public projects created on 21 November 2024: 1 repo.",
+  "intro": "A collection of resources and tools for prompt engineering and evaluation.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Prompt Engineering Resources",
+      "url": "https://github.com/danielrosehill/Prompt-Engineering-Resources",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Lists of resources and tools for prompt engineering and evaluation"
+    }
+  ]
+}

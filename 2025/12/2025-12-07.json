@@ -1,0 +1,32 @@
+{
+  "date": "2025-12-07",
+  "summary": "Public projects created on 7 December 2025: 3 repos.",
+  "intro": "Audio-focused multimodal AI material covers model profiles, benchmarks and documentation for speech recognition and transcription. Two smaller tools provide a utility for populating Claude workspaces and a snapshot of cloud speech-to-text pricing.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Audio Multimodal AI Resources",
+      "url": "https://github.com/danielrosehill/Audio-Multimodal-AI-Resources",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A compilation of resources (model profiles, benchmarks, docs) for multimodal AI models with audio understanding (esp. focused on ASR and transcription use-cases)"
+    },
+    {
+      "name": "Claude Workspace Setup Helper",
+      "url": "https://github.com/danielrosehill/Claude-Workspace-Setup-Helper",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Population utility for creating Claude workspaces"
+    },
+    {
+      "name": "Cloud STT Price Points 1225",
+      "url": "https://github.com/danielrosehill/Cloud-STT-Price-Points-1225",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Point in time pricing snapshots for ASR (07-12-2025)"
+    }
+  ]
+}

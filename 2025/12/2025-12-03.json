@@ -1,0 +1,56 @@
+{
+  "date": "2025-12-03",
+  "summary": "Public projects created on 3 December 2025: 5 repos and 1 dataset.",
+  "intro": "Repositories cover agentic AI reporting and local infrastructure: an MCP example for long-form report generation, an MCP server for saving files to a NAS over NFS, and documentation for running local inference on AMD GPUs. Other work covers smart home Halacha, prompt experiments comparing speech cleanup approaches, and a dataset of captioned Israel photographs.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "All About MCP",
+      "url": "https://github.com/danielrosehill/All-About-MCP",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "Example repository for agentic AI generated long form report generation"
+    },
+    {
+      "name": "AMD AI Server",
+      "url": "https://github.com/danielrosehill/AMD-AI-Server",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Local AI inference server for AMD GPU users"
+    },
+    {
+      "name": "Save To NAS MCP",
+      "url": "https://github.com/danielrosehill/Save-To-NAS-MCP",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "An MCP server for saving files and folders to a local NAS over NFS. Eliminates repetitive steps when transferring data to NAS storage."
+    },
+    {
+      "name": "Smart Home Halacha",
+      "url": "https://github.com/danielrosehill/Smart-Home-Halacha",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Notebook on Halachic dimensions of smart home usage and Home Assistant"
+    },
+    {
+      "name": "Voice Cleanup Prompt Experiment",
+      "url": "https://github.com/danielrosehill/Voice-Cleanup-Prompt-Experiment",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Testing various permutations in system prompting for raw audio transcript cleanup and comparing multimodal ASR vs. the STT + LLM approach"
+    },
+    {
+      "name": "Israel Photos",
+      "url": "https://huggingface.co/datasets/danielrosehill/Israel-Photos",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Training dataset",
+      "description": "A collection of 369 photographs captured across Israel between 2024 and 2025, with LLM-generated captions and location annotations. The images are sourced from the photographer's Pexels gallery."
+    }
+  ]
+}

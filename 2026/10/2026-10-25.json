@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-25",
+  "summary": "Public projects created on 25 October 2026: 5 repos.",
+  "intro": "Agent plugins for software comparison, Israel Post services and Voicenotes note access sat alongside tools for predicting speech-recognition errors and restoring crashed terminal sessions.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "ASR Mistranscription Predictor",
+      "url": "https://github.com/danielrosehill/ASR-Mistranscription-Predictor",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Plan: predict which words an ASR model will mistranscribe for one speaker, by extrapolating from a list of confirmed fixes mined from their dictation history, so the predictions can go into..."
+    },
+    {
+      "name": "Comparison Artifacts",
+      "url": "https://github.com/danielrosehill/Comparison-Artifacts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Comparison tables, weighted scoring and quadrant charts for software evaluations, as agent skills (Markdown, Typst, SVG)"
+    },
+    {
+      "name": "Israel Post Plugin",
+      "url": "https://github.com/danielrosehill/Israel-Post-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Israel Post (דואר ישראל) agent skills: appointments, branch search, parcel tracking"
+    },
+    {
+      "name": "Session Restore",
+      "url": "https://github.com/danielrosehill/Session-Restore",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Reopen Claude Code sessions lost when the terminal crashed: each in its repo, one Konsole window of split panes"
+    },
+    {
+      "name": "Voicenotes Plugin",
+      "url": "https://github.com/danielrosehill/Voicenotes-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Voicenotes.com for Claude Code: search notes, read transcripts, list by date or tag, create text notes (official MCP)"
+    }
+  ]
+}

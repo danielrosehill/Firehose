@@ -1,0 +1,24 @@
+{
+  "date": "2025-09-19",
+  "summary": "Public projects created on 19 September 2025: 1 repo and 1 dataset.",
+  "intro": "A set of desktop wallpapers and a reference dataset of public shelter locations in the Jerusalem area.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Desktop Wallpapers",
+      "url": "https://github.com/danielrosehill/Desktop-Wallpapers",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Some desktop wallpapers"
+    },
+    {
+      "name": "Jerusalem Emergency Shelters 0925",
+      "url": "https://huggingface.co/datasets/danielrosehill/Jerusalem-Emergency-Shelters-0925",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "This repository contains updated location data for public shelters in the Jerusalem area, populated on September 19th, 2025."
+    }
+  ]
+}

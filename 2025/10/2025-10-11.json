@@ -1,0 +1,24 @@
+{
+  "date": "2025-10-11",
+  "summary": "Public projects created on 11 October 2025: 2 repos.",
+  "intro": "Two Claude Code repositories cover command shortcuts and a set of Smithery MCP servers for the same tool.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Slash Commands",
+      "url": "https://github.com/danielrosehill/Claude-Slash-Commands",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "My Claude Code slash commands"
+    },
+    {
+      "name": "Smithery Claude Code MCP Jumpstarter",
+      "url": "https://github.com/danielrosehill/Smithery-Claude-Code-MCP-Jumpstarter",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "Group of Smithery MCPs for Claude Code"
+    }
+  ]
+}

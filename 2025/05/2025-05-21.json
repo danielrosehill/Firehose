@@ -1,0 +1,24 @@
+{
+  "date": "2025-05-21",
+  "summary": "Public projects created on 21 May 2025: 2 repos.",
+  "intro": "Two repositories cover lookup agents for standardising datasets with correct ISO values and a KDE Plasma context menu element for opening projects in an AI editor.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "ISO Loookup Assistants",
+      "url": "https://github.com/danielrosehill/ISO-Loookup-Assistants",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Lookup agents to assist with standardising datasets with correct ISO values"
+    },
+    {
+      "name": "Open In Windsurf KDE",
+      "url": "https://github.com/danielrosehill/Open-In-Windsurf-KDE",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Implementing an \"Open In Windsurf\" (AI IDE) context menu element for KDE Plasma"
+    }
+  ]
+}

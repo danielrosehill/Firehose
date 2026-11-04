@@ -1,0 +1,16 @@
+{
+  "date": "2024-12-18",
+  "summary": "Public projects created on 18 December 2024: 1 repo.",
+  "intro": "A model for routing contextual data into vector storage for use with LLMs, documented in the Context Waterfall Architecture Notes.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Context Waterfall Architecture Notes",
+      "url": "https://github.com/danielrosehill/Context-Waterfall-Architecture-Notes",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A model for routing contextual data into vector storage for use with LLMs"
+    }
+  ]
+}

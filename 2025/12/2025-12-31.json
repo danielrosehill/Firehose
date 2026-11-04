@@ -1,0 +1,56 @@
+{
+  "date": "2025-12-31",
+  "summary": "Public projects created on 31 December 2025: 6 repos.",
+  "intro": "Agent tooling and plugins covered a local MCP server exposing specialised tools, an agent for recommending LLMs, a work-in-progress CLI hook, a website makeover agent, shared AI chat research, and a prompt for generating documentation.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Desktop MCP",
+      "url": "https://github.com/danielrosehill/Desktop-MCP",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "Local MCP server exposing specialised tools to agents"
+    },
+    {
+      "name": "LLM Recommendation Agent",
+      "url": "https://github.com/danielrosehill/LLM-Recommendation-Agent",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "AI agent for suggesting suitable LLMs for projects"
+    },
+    {
+      "name": "New Turn Claude Hook",
+      "url": "https://github.com/danielrosehill/New-Turn-Claude-Hook",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "WIP/Planning for a Claude or other agent CLI hook"
+    },
+    {
+      "name": "Retro Website Designer",
+      "url": "https://github.com/danielrosehill/Retro-Website-Designer",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Website",
+      "description": "Agent to give websites a Geocities styled makeover"
+    },
+    {
+      "name": "Shared AI Chats Research",
+      "url": "https://github.com/danielrosehill/Shared-AI-Chats-Research",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "AI assisted search query (and notes)"
+    },
+    {
+      "name": "User Manual Plugin",
+      "url": "https://github.com/danielrosehill/user-manual-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Prompt for asking Claude to write you documentation"
+    }
+  ]
+}

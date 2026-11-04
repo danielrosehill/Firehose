@@ -1,0 +1,48 @@
+{
+  "date": "2025-03-25",
+  "summary": "Public projects created on 25 March 2025: 4 repos and 1 dataset.",
+  "intro": "Agent tooling for generating ideas and rewriting text covers an ideation agent, a side hustle idea agent, and a toolbox of rewriting prompts. Prompt collections for text modification appear as repositories and as a reference dataset.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Agent Ideation Agent",
+      "url": "https://github.com/danielrosehill/AI-Agent-Ideation-Agent",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Ideation agent that generates ideas for AI agents!"
+    },
+    {
+      "name": "AI Text Rewriting Toolbox",
+      "url": "https://github.com/danielrosehill/AI-Text-Rewriting-Toolbox",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "LLM text reformatting and rewriting toolbox comprised of many system prompts"
+    },
+    {
+      "name": "Side Hustle Ideation Agent",
+      "url": "https://github.com/danielrosehill/Side-Hustle-Ideation-Agent",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Agent config for ideating a batch of side hustle ideas!"
+    },
+    {
+      "name": "Writing System Prompts",
+      "url": "https://github.com/danielrosehill/Writing-System-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Some system prompts related to text modification and optimisation for some WIPs"
+    },
+    {
+      "name": "Writing System Prompts",
+      "url": "https://huggingface.co/datasets/danielrosehill/Writing-System-Prompts",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "This is a collection of system prompts derived from my larger collection of system prompts."
+    }
+  ]
+}

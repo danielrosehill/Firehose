@@ -1,0 +1,16 @@
+{
+  "date": "2025-05-30",
+  "summary": "Public projects created on 30 May 2025: 1 dataset.",
+  "intro": "A reference dataset of text transformation prompts for reformatting dictated text into various formats, styles, and structures.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Text Transformation Prompts 300525",
+      "url": "https://huggingface.co/datasets/danielrosehill/Text-Transformation-Prompts-300525",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "A comprehensive collection of text transformation prompts for reformatting dictated text into various formats, styles, and structures."
+    }
+  ]
+}

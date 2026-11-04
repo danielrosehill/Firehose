@@ -1,0 +1,24 @@
+{
+  "date": "2026-02-18",
+  "summary": "Public projects created on 18 February 2026: 2 repos.",
+  "intro": "Two small repositories cover a clock tool and a resume. The first is a dual clock display interface for single-board computers, and the second is a public resume written for both AI agents and humans.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Pi Time Zone Clock",
+      "url": "https://github.com/danielrosehill/Pi-Time-Zone-Clock",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Dual clock display interface for SBCs"
+    },
+    {
+      "name": "Resume",
+      "url": "https://github.com/danielrosehill/Resume",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Public version of resume for AI agents and humans!"
+    }
+  ]
+}

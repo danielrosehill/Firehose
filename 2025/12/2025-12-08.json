@@ -1,0 +1,40 @@
+{
+  "date": "2025-12-08",
+  "summary": "Public projects created on 8 December 2025: 4 repos.",
+  "intro": "Audio multimodal testing prompts, a karaoke video generation script, and documentation covering bug reports and component compatibility make up the new repositories.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Audio Understanding Test Prompts",
+      "url": "https://github.com/danielrosehill/Audio-Understanding-Test-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "A few test prompts to be used when evaluating audio multimodal models"
+    },
+    {
+      "name": "Bug Reports And Fixes",
+      "url": "https://github.com/danielrosehill/Bug-Reports-And-Fixes",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Aggregated notes for bug reporting and any fixes identiifed"
+    },
+    {
+      "name": "Compatibility Notes",
+      "url": "https://github.com/danielrosehill/Compatibility-Notes",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Notes verifying compatibility between components"
+    },
+    {
+      "name": "Karaoke Music Vid Generator",
+      "url": "https://github.com/danielrosehill/Karaoke-Music-Vid-Generator",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Generation script template for singalong vids (from Suno songs!)"
+    }
+  ]
+}

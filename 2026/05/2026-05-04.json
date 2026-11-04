@@ -1,0 +1,48 @@
+{
+  "date": "2026-05-04",
+  "summary": "Public projects created on 4 May 2026: 4 repos and 1 dataset.",
+  "intro": "Work on Claude Code tooling includes a snapshot of a live session's context output and an agent plugin that labels hardware components in photos, backed by a PCB annotation demo. A separate thread covers noisy audio: a small hand-curated set of real-world voice notes and an undocumented audio sample collection.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Context Analysis 0526",
+      "url": "https://github.com/danielrosehill/Claude-Context-Analysis-0526",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Point-in-time snapshot of /context output from a live Claude Code session, captured 2026-05-04."
+    },
+    {
+      "name": "Claude Hardware ID Annotation Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Hardware-ID-Annotation-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Identify and annotate hardware components from photos — circuit boards, motherboards, ICs — with overlays, datasheet cross-checks, and structured BOMs."
+    },
+    {
+      "name": "Noisy Audio Samples",
+      "url": "https://github.com/danielrosehill/Noisy-Audio-Samples",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "No description published."
+    },
+    {
+      "name": "PCB Labeller Demo",
+      "url": "https://github.com/danielrosehill/PCB-Labeller-Demo",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Proof of concept: using AI to annotate PCB (and other hardware) images and help the user plan a project, coupled with light research assistance."
+    },
+    {
+      "name": "Noisy Voice Notes",
+      "url": "https://huggingface.co/datasets/danielrosehill/Noisy-Voice-Notes",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "A small, hand-curated set of real-world voice notes recorded over roughly a year by a single speaker (me — Daniel Rosehill), captured in everyday environments rather than a studio."
+    }
+  ]
+}

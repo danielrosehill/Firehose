@@ -1,0 +1,16 @@
+{
+  "date": "2025-08-21",
+  "summary": "Public projects created on 21 August 2025: 1 dataset.",
+  "intro": "A training dataset for entity recognition in Network Video Recorder applications, focused on newborn safety monitoring.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "NVR Entity Recognition Experiment",
+      "url": "https://huggingface.co/datasets/danielrosehill/NVR-Entity-Recognition-Experiment",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Training dataset",
+      "description": "This repository contains a training dataset designed for entity recognition in Network Video Recorder (NVR) applications, specifically focused on newborn safety monitoring."
+    }
+  ]
+}

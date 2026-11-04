@@ -1,0 +1,16 @@
+{
+  "date": "2025-02-22",
+  "summary": "Public projects created on 22 February 2025: 1 repo.",
+  "intro": "A GitHub map repository indexes every public project and topic, with an agent plugin for finding and cloning them.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Start Here",
+      "url": "https://github.com/danielrosehill/Start-Here",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Start here: a map of Daniel Rosehill's GitHub — every public repo, the topic indexes, and agent skills for finding and cloning them"
+    }
+  ]
+}

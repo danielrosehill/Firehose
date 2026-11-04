@@ -1,0 +1,24 @@
+{
+  "date": "2025-11-26",
+  "summary": "Public projects created on 26 November 2025: 2 repos.",
+  "intro": "Two indexing repositories cover speech technology: one catalogues work on speech-to-text and automatic speech recognition, the other gathers assorted indexing projects.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Speech Tech Index",
+      "url": "https://github.com/danielrosehill/Speech-Tech-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of my repos related to STT, ASR"
+    },
+    {
+      "name": "Subindices",
+      "url": "https://github.com/danielrosehill/Subindices",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Index of various indexing repos I have created"
+    }
+  ]
+}

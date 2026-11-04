@@ -1,0 +1,24 @@
+{
+  "date": "2025-12-26",
+  "summary": "Public projects created on 26 December 2025: 2 repos.",
+  "intro": "Two repositories cover desktop maintenance tooling and agentic web design. One holds planning notes for a desktop maintenance utility, the other documents a web design crew that produces offbeat designs.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Sysadmin",
+      "url": "https://github.com/danielrosehill/AI-Sysadmin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Desktop maintenance utility (WIP/planning notes)"
+    },
+    {
+      "name": "Better Web Design Inc",
+      "url": "https://github.com/danielrosehill/Better-Web-Design-Inc",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Agentic web design crew specialising in offbeat designs and client dissatisfaction!"
+    }
+  ]
+}

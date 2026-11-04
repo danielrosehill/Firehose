@@ -1,0 +1,32 @@
+{
+  "date": "2025-11-28",
+  "summary": "Public projects created on 28 November 2025: 3 repos.",
+  "intro": "Android phone maintenance and local AI on AMD hardware appear alongside voice cloning training data. The repositories cover keeping USB debugging alive, notes for running models on AMD GPUs, and utilities that generate training material for voice cloning.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Adb Keep Awake",
+      "url": "https://github.com/danielrosehill/adb-keep-awake",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Scripts to prevent Android phones from sleeping while connected via USB (keeps ADB working)"
+    },
+    {
+      "name": "AMD AI Notes",
+      "url": "https://github.com/danielrosehill/AMD-AI-Notes",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Just some random notes for those exporing local AI with ... AMD GPUs!"
+    },
+    {
+      "name": "Voice Training Script Generator",
+      "url": "https://github.com/danielrosehill/Voice-Training-Script-Generator",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Helper utils for generating training data for voice cloning with LLMs"
+    }
+  ]
+}

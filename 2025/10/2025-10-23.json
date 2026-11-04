@@ -1,0 +1,64 @@
+{
+  "date": "2025-10-23",
+  "summary": "Public projects created on 23 October 2025: 7 repos.",
+  "intro": "AI coding assistants and agent tooling appear across several repositories, including a notebook setup, a CLAUDE.md home directory file, and an agent that probes other models. Other projects cover webcam configuration, a requirements.txt scanner, and resource space taxonomies.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Developer Notebook",
+      "url": "https://github.com/danielrosehill/AI-Developer-Notebook",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Notes for configuring a reference notebook with Claude Code"
+    },
+    {
+      "name": "Gemini Vibe Coding Projects",
+      "url": "https://github.com/danielrosehill/Gemini-Vibe-Coding-Projects",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "List of vibe-coded starters created with Google AI Studio app builder"
+    },
+    {
+      "name": "Home Folder Claude MD",
+      "url": "https://github.com/danielrosehill/Home-Folder-Claude-MD",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "CLAUDE.md for my home directory on an Ubuntu Linux desktop"
+    },
+    {
+      "name": "LLM Detective",
+      "url": "https://github.com/danielrosehill/LLM-Detective",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Agent that tries to probe other models' capabilities with conversation"
+    },
+    {
+      "name": "Logitech C925E Boot Configurator",
+      "url": "https://github.com/danielrosehill/Logitech-C925E-Boot-Configurator",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "v4l2 configuration script for Logitech C925e webcam - sets 1080p @ 24fps MJPEG on boot"
+    },
+    {
+      "name": "Resource Space DAM Assets",
+      "url": "https://github.com/danielrosehill/Resource-Space-DAM-Assets",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Taxonomies and a few other bits and pieces that might be of use"
+    },
+    {
+      "name": "What Reqs Scanner",
+      "url": "https://github.com/danielrosehill/What-Reqs-Scanner",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Python utility that scans a repo base for requirements.txt to analyse most used packages and suggest base env"
+    }
+  ]
+}

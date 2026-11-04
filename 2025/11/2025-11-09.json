@@ -1,0 +1,40 @@
+{
+  "date": "2025-11-09",
+  "summary": "Public projects created on 9 November 2025: 4 repos.",
+  "intro": "Claude Code tooling appears through bash aliases, a plugin marketplace, and an MCP guidance snippet. Separate from that, planning notes cover a Linux voice typing application.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Code Bash Aliases",
+      "url": "https://github.com/danielrosehill/Claude-Code-Bash-Aliases",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A few bash aliases to support efficient Claude Code use"
+    },
+    {
+      "name": "Claude Code Plugins",
+      "url": "https://github.com/danielrosehill/Claude-Code-Plugins",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Daniel Rosehill's Claude Code plugin marketplace"
+    },
+    {
+      "name": "Claude MCP Guidelines",
+      "url": "https://github.com/danielrosehill/Claude-MCP-Guidelines",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "A home folder CLAUDE.md snippet to provide guidance on MCP selection"
+    },
+    {
+      "name": "Linux Voice Typing App Notes",
+      "url": "https://github.com/danielrosehill/Linux-Voice-Typing-App-Notes",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Application",
+      "description": "Planning notes for a tool I've been working on for a while!"
+    }
+  ]
+}

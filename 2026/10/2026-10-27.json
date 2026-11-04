@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-27",
+  "summary": "Public projects created on 27 October 2026: 4 repos and 1 model.",
+  "intro": "Agentic Dev Workflows documents how to build software with AI agents across platforms, while a bounded brainstorming fine-tune generates novel items matching a format without repeating priors. An Android selection tool converts text case on device, and a personal speech-recognition model handles English dictation with tech vocabulary.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Agentic Dev Workflows",
+      "url": "https://github.com/danielrosehill/Agentic-Dev-Workflows",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Cross-cutting workflows for developing software with AI agents, any platform: UI friction options-then-build, release patterns (sprint, release-to-test) pinned to CLAUDE.md"
+    },
+    {
+      "name": "Android Selection Case Converter",
+      "url": "https://github.com/danielrosehill/Android-Selection-Case-Converter",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Android text-selection menu: UPPERCASE or ChAoS cAsE, on device, no permissions"
+    },
+    {
+      "name": "Bounded Brainstorming Finetune",
+      "url": "https://github.com/danielrosehill/Bounded-Brainstorming-Finetune",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Fine-tune spec for bounded brainstorming: given a task, priors (existing items) and a format, generate N novel items that match the format and don't repeat the priors"
+    },
+    {
+      "name": "Israel Election 2026 Vote Decision",
+      "url": "https://github.com/danielrosehill/Israel-Election-2026-Vote-Decision",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Working out who to vote for in the 27 October 2026 Knesset election, starting from a voice note of my views"
+    },
+    {
+      "name": "Fritter",
+      "url": "https://huggingface.co/danielrosehill/Fritter",
+      "network": "Hugging Face",
+      "section": "models",
+      "type": "Fine-tuned model",
+      "description": "A personal speech-recognition fine-tune for English dictation without code-switching: tech vocabulary (model and product names, CLI and cloud terms), brand names, acronyms, numbers and currency in..."
+    }
+  ]
+}

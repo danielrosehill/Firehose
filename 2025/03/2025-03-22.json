@@ -1,0 +1,16 @@
+{
+  "date": "2025-03-22",
+  "summary": "Public projects created on 22 March 2025: 1 repo.",
+  "intro": "A tool that exports a point-in-time, segmented copy of the Open WebUI API definition.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "OpenWebUI API Schema Exports",
+      "url": "https://github.com/danielrosehill/OpenWebUI-API-Schema-Exports",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Point-in-time segmented export of the Open Web UI API definition"
+    }
+  ]
+}

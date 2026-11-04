@@ -1,0 +1,16 @@
+{
+  "date": "2025-02-19",
+  "summary": "Public projects created on 19 February 2025: 1 repo.",
+  "intro": "A collection of prompts for Open Web UI, intended less for starting conversations than for steering ones already under way.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "OpenWebUI Prompt Library",
+      "url": "https://github.com/danielrosehill/OpenWebUI-Prompt-Library",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "A selection of prompts designed for use with Open Web UI (rather than conventional prompts, they're more useful for steering existing conversations)"
+    }
+  ]
+}

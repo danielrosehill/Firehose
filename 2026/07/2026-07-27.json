@@ -1,0 +1,48 @@
+{
+  "date": "2026-07-27",
+  "summary": "Public projects created on 27 July 2026: 4 repos and 1 dataset.",
+  "intro": "Webcam-driven adaptive screen brightness for KDE Plasma on Wayland, an unofficial changelog of Israel's open data portal, and planning notes for SIP phone service in Israel are among the repositories. A reference dataset covers storage container dimensions for European and North American warehouses.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Candela",
+      "url": "https://github.com/danielrosehill/Candela",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Webcam-driven adaptive screen brightness for KDE Plasma on Wayland"
+    },
+    {
+      "name": "Israel Open Data Changelog",
+      "url": "https://github.com/danielrosehill/Israel-Open-Data-Changelog",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Unofficial month-by-month changelog of what appeared on Israel's data.gov.il open data portal, reconstructed from the CKAN API"
+    },
+    {
+      "name": "Israel SIP Phone Planning",
+      "url": "https://github.com/danielrosehill/Israel-SIP-Phone-Planning",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Planning notes for SIP/VoIP phone service in Israel — requirements, provider evaluation, number porting, and hardware/softphone setup"
+    },
+    {
+      "name": "MCP Architecture 0726",
+      "url": "https://github.com/danielrosehill/MCP-Architecture-0726",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "MCP Architecture Notes - July 2026"
+    },
+    {
+      "name": "Storage Container Dimensions",
+      "url": "https://huggingface.co/datasets/danielrosehill/storage-container-dimensions",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "Planning-grade volumetric reference for the plastic containers that European and North American warehouses actually run on: Euroboxes (Euro stacking containers), attached-lid containers (ALCs), and..."
+    }
+  ]
+}

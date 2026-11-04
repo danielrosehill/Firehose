@@ -1,0 +1,64 @@
+{
+  "date": "2026-03-27",
+  "summary": "Public projects created on 27 March 2026: 7 repos.",
+  "intro": "Indexes for architectural plans and networking projects sit alongside a maintenance agent for indexing repositories. Android apps map real-time Israel Home Front Command alerts, and other tools cover rooting a OnePlus Nord 3 and a voice agent for readiness checklists.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Architectural Plans Index",
+      "url": "https://github.com/danielrosehill/Architectural-Plans-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of repositories containing architectural plans, blueprints, project specifications, and design documents"
+    },
+    {
+      "name": "GitHub Index Maintainer",
+      "url": "https://github.com/danielrosehill/Github-Index-Maintainer",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Maintance agent for indexing repos"
+    },
+    {
+      "name": "Israel Alert Map",
+      "url": "https://github.com/danielrosehill/Israel-Alert-Map",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Real-time Israel alert map - Pikud HaOref geo-visualization Android app"
+    },
+    {
+      "name": "Israel Geomap APK",
+      "url": "https://github.com/danielrosehill/Israel-Geomap-APK",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Android app for real-time visualization of Pikud HaOref (Israel Home Front Command) alerts on an interactive map."
+    },
+    {
+      "name": "Networking Projects Index",
+      "url": "https://github.com/danielrosehill/Networking-Projects-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of repositories for networking, infrastructure, homelab, and server management"
+    },
+    {
+      "name": "One Plus Nord 3 Root Guide",
+      "url": "https://github.com/danielrosehill/One-Plus-Nord-3-Root-Guide",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Guide to rooting OnePlus Nord 3 5G (CPH2493) on OxygenOS 16 with Magisk — Dimensity 9000 (MT6983)"
+    },
+    {
+      "name": "Readiness Voice Agent",
+      "url": "https://github.com/danielrosehill/Readiness-Voice-Agent",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Voice agent implemenetation for readiness checklists"
+    }
+  ]
+}

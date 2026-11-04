@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-26",
+  "summary": "Public projects created on 26 July 2026: 1 repo.",
+  "intro": "A DIY rolling dolly built from a 120x80 plastic Euro pallet, with caster specifications, a bill of materials and mounting design for an apartment move on Euroboxes.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "EUPAL Dolly",
+      "url": "https://github.com/danielrosehill/EUPAL-Dolly",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "DIY rolling dolly from a 120x80 plastic Euro pallet — caster spec, BOM and mounting design for an apartment move on Euroboxes"
+    }
+  ]
+}

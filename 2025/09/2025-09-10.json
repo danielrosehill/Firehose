@@ -1,0 +1,32 @@
+{
+  "date": "2025-09-10",
+  "summary": "Public projects created on 10 September 2025: 3 repos.",
+  "intro": "Three repositories cover agent guidance, USB device identification and wireframe cleanup. One holds basic configuration ideas for an AI agent that guides rather than does, one is a GUI for identifying USB devices with lsusb, and one documents cleaning up handdrawn sketches with Nano Banana.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Code Tutor Agent Model",
+      "url": "https://github.com/danielrosehill/Code-Tutor-Agent-Model",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Basic config/idea for an AI agent(s) to guide rather than \"do\""
+    },
+    {
+      "name": "Which USB",
+      "url": "https://github.com/danielrosehill/Which-USB",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "GUI for identifying USB devices with lsusb"
+    },
+    {
+      "name": "Wireframe Cleaner Nano Banana",
+      "url": "https://github.com/danielrosehill/Wireframe-Cleaner-Nano-Banana",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Clean up handdrawn wireframes/sketches with Nano Banana (WIP)"
+    }
+  ]
+}

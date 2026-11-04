@@ -1,0 +1,72 @@
+{
+  "date": "2025-12-15",
+  "summary": "Public projects created on 15 December 2025: 8 repos.",
+  "intro": "Project and app idea pipelines, a long-form audio preparation tool, and a list of vendor CLIs with agentic capabilities covered ideation and voice tooling. Two MCP servers handled a manually managed LAN directory and Wasabi S3 operations, alongside a subreddit collection, a vibe-coding graphic, and an AI experiment ideator.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Ideation Pipeline",
+      "url": "https://github.com/danielrosehill/Ideation-Pipeline",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Pipeline of project and app ideas in various stages of development"
+    },
+    {
+      "name": "Is Vibe Coded",
+      "url": "https://github.com/danielrosehill/Is-Vibe-Coded",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Simple graphics intended to serve as a \"this was vibe coded FYI\" and attribute model"
+    },
+    {
+      "name": "Long Form Audio Pipeline",
+      "url": "https://github.com/danielrosehill/Long-Form-Audio-Pipeline",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Basic audio pipeline for preparing long audio content for ASR transcription"
+    },
+    {
+      "name": "My Network MCP",
+      "url": "https://github.com/danielrosehill/My-Network-MCP",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "MCP for providing a manually managed LAN directory to AI tools"
+    },
+    {
+      "name": "Vendor Agent CLIs",
+      "url": "https://github.com/danielrosehill/Vendor-Agent-CLIs",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "List (may update periodically) of vendor CLIs with agentic/tool-calling capabilities"
+    },
+    {
+      "name": "Voice Tech Subreddits",
+      "url": "https://github.com/danielrosehill/Voice-Tech-Subreddits",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Small collection of subreddits where ASR, STT, voice tech is discussed"
+    },
+    {
+      "name": "Wasabi S3 MCP",
+      "url": "https://github.com/danielrosehill/Wasabi-S3-MCP",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "MCP for performing S3 operations in Wasabi S3-compliant buckets"
+    },
+    {
+      "name": "Weird AI Experiment Ideator",
+      "url": "https://github.com/danielrosehill/Weird-AI-Experiment-Ideator",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Using AI to idate \"what would happen if...?\""
+    }
+  ]
+}

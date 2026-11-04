@@ -1,0 +1,32 @@
+{
+  "date": "2025-10-28",
+  "summary": "Public projects created on 28 October 2025: 3 repos.",
+  "intro": "Three repositories cover agent tooling and audio work: a short list of MCP servers for Claude Code on Linux, a documentation project that builds awesome lists with Claude Code, and an experiment testing whether crying baby audio can be removed through audio inpainting.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Code MCP List",
+      "url": "https://github.com/danielrosehill/Claude-Code-MCP-List",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "Short collection of MCPs I use / to install for CC on Linux Desktop"
+    },
+    {
+      "name": "Claude Is Awesome",
+      "url": "https://github.com/danielrosehill/Claude-Is-Awesome",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Awesome list creator using Claude Code"
+    },
+    {
+      "name": "Crying Baby Audio Scrub",
+      "url": "https://github.com/danielrosehill/Crying-Baby-Audio-Scrub",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Experiment to see if crying baby audio can be scrubbed with audio inpainting (use-case: WIP parenting and content creation!)"
+    }
+  ]
+}

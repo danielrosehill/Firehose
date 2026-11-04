@@ -1,0 +1,16 @@
+{
+  "date": "2025-11-16",
+  "summary": "Public projects created on 16 November 2025: 1 repo.",
+  "intro": "A resource list and mapping of the Jerusalem tech ecosystem.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Jerusalem Tech Ecosystem",
+      "url": "https://github.com/danielrosehill/Jerusalem-Tech-Ecosystem",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Resource list / mapping"
+    }
+  ]
+}

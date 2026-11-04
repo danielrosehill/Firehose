@@ -1,0 +1,16 @@
+{
+  "date": "2025-07-21",
+  "summary": "Public projects created on 21 July 2025: 1 repo.",
+  "intro": "A repository of N8N configuration documentation for a stack research agent.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Stack Research Agent N8N Config",
+      "url": "https://github.com/danielrosehill/Stack-Research-Agent-N8N-Config",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "No description published."
+    }
+  ]
+}

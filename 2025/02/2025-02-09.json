@@ -1,0 +1,16 @@
+{
+  "date": "2025-02-09",
+  "summary": "Public projects created on 9 February 2025: 1 repo.",
+  "intro": "A documentation repository for an AI interview workflow explores how deliberately generating personal context data could form a narrow imprint of a person's life and interests.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Interview Workflow V2",
+      "url": "https://github.com/danielrosehill/AI-Interview-Workflow-V2",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "I'm fascinated by the idea that by taking a deliberate approach to personal context data generation, we (users) could develop something like a narrow imprint of our lives and interests."
+    }
+  ]
+}

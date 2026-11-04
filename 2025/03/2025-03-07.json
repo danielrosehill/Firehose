@@ -1,0 +1,24 @@
+{
+  "date": "2025-03-07",
+  "summary": "Public projects created on 7 March 2025: 2 repos.",
+  "intro": "Two repositories cover retrieval and home inventory tooling. One is an interactive chatbot for chunking context data before embedding into RAG, and the other reads and writes Homebox inventory information through OpenWebUI.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Context Chunker Assistant",
+      "url": "https://github.com/danielrosehill/Context-Chunker-Assistant",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A n interactive chatbot approach to chunking context data for embedding into RAG"
+    },
+    {
+      "name": "Open Web UI Homebox Tool",
+      "url": "https://github.com/danielrosehill/Open-Web-UI-Homebox-Tool",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "The aim of this repository is to create a tool for reading and writing inventory information in Homebox using OpenWebUI."
+    }
+  ]
+}

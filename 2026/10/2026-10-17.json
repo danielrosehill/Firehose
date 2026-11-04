@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-17",
+  "summary": "Public projects created on 17 October 2026: 2 datasets.",
+  "intro": "Two audio datasets cover read-aloud English speech: one of plain everyday sentences with homophone pairs, and a small hand-picked set of real voice notes.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Annotated Voice Notes",
+      "url": "https://huggingface.co/datasets/danielrosehill/Annotated-Voice-Notes",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "A small, hand-picked set of real voice notes. It is kept small on purpose."
+    },
+    {
+      "name": "General English Sentences",
+      "url": "https://huggingface.co/datasets/danielrosehill/General-English-Sentences",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "Plain, everyday English sentences (emails, messages, general prose and homophone pairs) read aloud by one speaker, with no Hebrew or Yiddish words, Israeli names or tech vocabulary."
+    }
+  ]
+}

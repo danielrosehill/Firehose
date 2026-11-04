@@ -1,0 +1,16 @@
+{
+  "date": "2025-11-10",
+  "summary": "Public projects created on 10 November 2025: 1 dataset.",
+  "intro": "A training dataset capturing a point-in-time snapshot of pricing and parameters for language models available through the OpenRouter API for inference.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Open Router API Pricing Analysis",
+      "url": "https://huggingface.co/datasets/danielrosehill/Open-Router-API-Pricing-Analysis",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Training dataset",
+      "description": "This dataset provides a point-in-time capture of pricing and parameters for LLMs available through the OpenRouter API for inference."
+    }
+  ]
+}

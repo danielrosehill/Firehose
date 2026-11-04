@@ -1,0 +1,48 @@
+{
+  "date": "2025-10-26",
+  "summary": "Public projects created on 26 October 2025: 5 repos.",
+  "intro": "Five repositories cover AI tooling and documentation: a voice-sample EQ preset creator, batch CLAUDE.md generation, context extraction from voice recordings, and two indexes, one of context-gathering projects and one of resource lists and ecosystem maps.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Personal EQ Creator",
+      "url": "https://github.com/danielrosehill/AI-Personal-EQ-Creator",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "AI Studio starter - upload voice sample, get EQ preset"
+    },
+    {
+      "name": "Batch ClaudeMD Repo Creator",
+      "url": "https://github.com/danielrosehill/Batch-ClaudeMD-Repo-Creator",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "For batch CLAUDE.md creation in large repository collections"
+    },
+    {
+      "name": "Context Cruncher",
+      "url": "https://github.com/danielrosehill/Context-Cruncher",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "App for extracting context data from voice recordings"
+    },
+    {
+      "name": "Context Projects Index",
+      "url": "https://github.com/danielrosehill/Context-Projects-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of projects related to context-gathering and generation for AI, including via interview approaches"
+    },
+    {
+      "name": "Resources Lists Index",
+      "url": "https://github.com/danielrosehill/Resources-Lists-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of my resource lists and ecosystem maps, especially for AI niches"
+    }
+  ]
+}

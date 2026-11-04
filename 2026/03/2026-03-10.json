@@ -1,0 +1,24 @@
+{
+  "date": "2026-03-10",
+  "summary": "Public projects created on 10 March 2026: 2 repos.",
+  "intro": "Two repositories cover agentic AI tooling: a framework-agnostic data model and visualizations mapping the parts of agentic systems, and KDE Dolphin context-menu actions for opening directories in Claude Code and Codex.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Agentic AI Architecture Visualisation",
+      "url": "https://github.com/danielrosehill/Agentic-AI-Architecture-Visualisation",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Framework-agnostic data model and visualizations mapping the moving pieces of agentic AI systems"
+    },
+    {
+      "name": "Dolphin AI Actions",
+      "url": "https://github.com/danielrosehill/Dolphin-AI-Actions",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "KDE Dolphin context-menu actions for opening directories in Claude Code and Codex"
+    }
+  ]
+}

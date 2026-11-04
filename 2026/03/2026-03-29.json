@@ -1,0 +1,32 @@
+{
+  "date": "2026-03-29",
+  "summary": "Public projects created on 29 March 2026: 3 repos.",
+  "intro": "Ubuntu setup notes sit alongside a local transcription server that runs Open Router audio models. A separate tool handles Red Alert monitoring, pulling Telegram channels and Oref alerts into Groq-written reports sent through Pushover.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Handy Ubuntu Setup",
+      "url": "https://github.com/danielrosehill/Handy-Ubuntu-Setup",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Notes and setup guides for Ubuntu"
+    },
+    {
+      "name": "OR Audio Transcription MCP",
+      "url": "https://github.com/danielrosehill/OR-Audio-Transcription-MCP",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "Local MCP for using Open Router audio models for transcription with text formatting"
+    },
+    {
+      "name": "Red Alert OSINT Notifier",
+      "url": "https://github.com/danielrosehill/Red-Alert-OSINT-Notifier",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Unified notification and OSINT intelligence module for Israel Red Alert monitoring — Telegram channel monitors, Oref volumetric alerts, Groq-powered intel reports, Pushover delivery"
+    }
+  ]
+}

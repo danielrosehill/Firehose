@@ -1,0 +1,16 @@
+{
+  "date": "2025-09-07",
+  "summary": "Public projects created on 7 September 2025: 1 repo.",
+  "intro": "Documentation for the K811 wired gaming keypad covers its EV test events.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "K811 EV Test Events",
+      "url": "https://github.com/danielrosehill/K811-EV-Test-Events",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "EV Test Events For K811 Wired Gaming Keypad"
+    }
+  ]
+}

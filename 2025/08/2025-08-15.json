@@ -1,0 +1,16 @@
+{
+  "date": "2025-08-15",
+  "summary": "Public projects created on 15 August 2025: 1 repo.",
+  "intro": "A workflow that pulls context from voice notes and upserts it into a Pinecone vector database.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "N8N Voice Note Context Pipeline Workflow",
+      "url": "https://github.com/danielrosehill/N8N-Voice-Note-Context-Pipeline-Workflow",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Workflow for extracting context data from voice notes and passing them into Pipecone vector database for upserting"
+    }
+  ]
+}

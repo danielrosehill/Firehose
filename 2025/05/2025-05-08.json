@@ -1,0 +1,24 @@
+{
+  "date": "2025-05-08",
+  "summary": "Public projects created on 8 May 2025: 1 repo and 1 dataset.",
+  "intro": "A local Linux repair bot explores using an AI IDE as an agent workspace for OS debugging. A training dataset of blog posts also appears.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Local Linux Repair Bot",
+      "url": "https://github.com/danielrosehill/Local-Linux-Repair-Bot",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Experimentary repo to try use an AI IDE as a local agent workspace for local OS debugging"
+    },
+    {
+      "name": "Blog Posts",
+      "url": "https://huggingface.co/datasets/danielrosehill/Blog-Posts",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Training dataset",
+      "description": "No description published."
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "date": "2026-04-30",
+  "summary": "Public projects created on 30 April 2026: 27 repos.",
+  "intro": "A large set of Claude Code plugins covered Linux desktop control, from KDE Plasma and OBS to CUPS printing, NFC tags, GPG, GIMP and clipboard scripting. Other plugins handled data work such as synthetic datasets, taxonomies, document conversion and diagram generation, alongside air quality, model research, digital evidence and licence tooling.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Air Quality Toolkit Plugin",
+      "url": "https://github.com/danielrosehill/Air-Quality-Toolkit-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for air quality lookups, historical data, AQI calculation, and modelling utilities. Defaults to WAQI with fallbacks to OpenAQ and AireLibre."
+    },
+    {
+      "name": "Claude AI Model Research Plugin",
+      "url": "https://github.com/danielrosehill/Claude-AI-Model-Research-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "A Claude Code plugin for researching, filtering, comparing, and evaluating AI models on OpenRouter."
+    },
+    {
+      "name": "Claude Background Removal Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Background-Removal-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: remove image backgrounds via rembg with Dolphin right-click integration"
+    },
+    {
+      "name": "Claude CopyQ Scripting Plugin",
+      "url": "https://github.com/danielrosehill/Claude-CopyQ-Scripting-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Foundational advanced clipboard scripting skills for CopyQ on Ubuntu Linux."
+    },
+    {
+      "name": "Claude Digital Evidence Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Digital-Evidence-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "General-purpose digital-evidence processing for Claude Code: capture, hash, OpenTimestamps anchoring, ExifTool/MediaInfo metadata inspection, BagIt packaging, and immutable sync to S3 Object Lock /..."
+    },
+    {
+      "name": "Claude Donetick Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Donetick-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code companion plugin for donetick-mcp — chore management against a self-hosted Donetick instance"
+    },
+    {
+      "name": "Claude Favorite Plugins Installers Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Favorite-Plugins-Installers-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "A curated library of third-party Claude Code plugins, grouped into named batches by type/theme."
+    },
+    {
+      "name": "Claude Get Toony Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Get-Toony-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "A Claude Code plugin for converting JSON, CSV, YAML, and other structured data into TOON (Token-Oriented Object Notation) — a compact, lossless re-encoding of the JSON data model that uses ~40% fewer..."
+    },
+    {
+      "name": "Claude GIMP Plugin",
+      "url": "https://github.com/danielrosehill/Claude-GIMP-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Bare-bones wrapper around the GIMP CLI for Claude Code on Linux."
+    },
+    {
+      "name": "Claude GPG Ops Plugin",
+      "url": "https://github.com/danielrosehill/Claude-GPG-Ops-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for GPG operations: generate keypairs, export public keys, encrypt, decrypt, sign, and verify files or text using the local GnuPG keyring."
+    },
+    {
+      "name": "Claude Hardware Spec Assembly Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Hardware-Spec-Assembly-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "A Claude Code plugin for defining BOMs and assembly plans for hardware projects, with first-class support for ESP32-based builds."
+    },
+    {
+      "name": "Claude KDE Plasma Plugin",
+      "url": "https://github.com/danielrosehill/Claude-KDE-Plasma-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: KDE Plasma (Wayland) runtime utilities — KWin, plasmoids, panels, virtual desktops, shortcuts, themes, KDE Connect, Klipper, Baloo, kscreen, KWallet."
+    },
+    {
+      "name": "Claude License Populator Plugin",
+      "url": "https://github.com/danielrosehill/Claude-License-Populator-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Recommend, generate, and populate software/content licenses from a user-managed template store. Advise on the best license for a project given desired freedoms and constraints."
+    },
+    {
+      "name": "Claude Network CUPS Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Network-CUPS-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Discover, diagnose, and print to networked CUPS printers from Claude Code."
+    },
+    {
+      "name": "Claude NFC Ops Plugin",
+      "url": "https://github.com/danielrosehill/Claude-NFC-Ops-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "NFC tag operations using libnfc — read, write, inspect, password-protect, and bulk-write from a CSV with manual tag-by-tag feed."
+    },
+    {
+      "name": "Claude Novelty Text Editor Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Novelty-Text-Editor-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Rewrite text in deliberately ridiculous styles."
+    },
+    {
+      "name": "Claude OBS Plugin",
+      "url": "https://github.com/danielrosehill/Claude-OBS-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for managing OBS Studio on Linux."
+    },
+    {
+      "name": "Claude OS",
+      "url": "https://github.com/danielrosehill/Claude-OS",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Multi-plugin installation/setup utility for using Claude Code to orchestrate multiple parts of daily Linux desktop computer use."
+    },
+    {
+      "name": "Claude PA",
+      "url": "https://github.com/danielrosehill/Claude-PA",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Passive-aggressive PA system for Claude Code — barks status updates over a speaker, escalates across the house via Home Assistant"
+    },
+    {
+      "name": "Claude Report Analyst Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Report-Analyst-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Skeptical analyst toolkit for long reports. Verdict, structured extraction, and executive summary skills with a built-in \"jaded reader\" persona that won't hand out gold stars for filler."
+    },
+    {
+      "name": "Claude SOP Writer Plugin",
+      "url": "https://github.com/danielrosehill/Claude-SOP-Writer-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Project-scoped Claude Code plugin for authoring SOPs and decision flowcharts, compiling to printable PDFs via Typst, and assembling multi-document binders."
+    },
+    {
+      "name": "Claude Synthetic Data Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Synthetic-Data-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Generate synthetic datasets — from a schema, from a real source, or via LLM-driven persona generation."
+    },
+    {
+      "name": "Claude Taxonomy Creation Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Taxonomy-Creation-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for generating taxonomy / lookup tables and loading them into a database."
+    },
+    {
+      "name": "Claude Voice Mode Notes 300426",
+      "url": "https://github.com/danielrosehill/Claude-Voice-Mode-Notes-300426",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Notes on Claude Code voice mode feature"
+    },
+    {
+      "name": "Document To Markdown Plugin",
+      "url": "https://github.com/danielrosehill/document-to-markdown-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Convert PDFs to clean Markdown, chunk into logical sections, and extract embedded tables to CSV."
+    },
+    {
+      "name": "Electra Desktop Controller KDE",
+      "url": "https://github.com/danielrosehill/Electra-Desktop-Controller-KDE",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "KDE Plasma desktop controller for Electra air conditioners"
+    },
+    {
+      "name": "Tech Comms Diagrams",
+      "url": "https://github.com/danielrosehill/Tech-Comms-Diagrams",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Agent skills for technical diagrams in blogs and docs: Mermaid, text-to-image and whiteboard-to-diagram, with label and arrow checks."
+    }
+  ]
+}

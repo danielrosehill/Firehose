@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-23",
+  "summary": "Public projects created on 23 October 2026: 2 repos.",
+  "intro": "Two agent plugins for Ubuntu cover machine administration and host security. The first handles health, services, logs, packages, storage, networking, hardware, Docker and KDE on desktops or servers, locally or over SSH. The second covers firewall rules, antivirus and rootkit scanning, and security posture audits.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Ubuntu Admin",
+      "url": "https://github.com/danielrosehill/Ubuntu-Admin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Agent skills for administering Ubuntu machines, desktop or server, local or over SSH: health, services, logs, packages, storage, networking, hardware, Docker, KDE."
+    },
+    {
+      "name": "Ubuntu Security",
+      "url": "https://github.com/danielrosehill/Ubuntu-Security",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Agent skills for Ubuntu host security on desktops and servers: ufw firewall (probe, allow, remove, diagnose), antivirus and rootkit scanning, security posture audits."
+    }
+  ]
+}

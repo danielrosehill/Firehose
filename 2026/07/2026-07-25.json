@@ -1,0 +1,72 @@
+{
+  "date": "2026-07-25",
+  "summary": "Public projects created on 25 July 2026: 8 repos.",
+  "intro": "Agent tooling and reference material for coding and hardware work appeared across several repositories. These covered a system prompt that makes coding agents document their findings, a plugin for building unofficial MCP servers, an index of hardware build documentation, and a parametric 3D model set for warehouse storage units. Israeli tax and regulatory material also featured, alongside an urban environmental data API blueprint.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Document As You Go",
+      "url": "https://github.com/danielrosehill/Document-As-You-Go",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "A drop-in system prompt and slash command that make coding agents capture what they discover — undocumented APIs, auth flows, dead ends — instead of losing it when the session ends."
+    },
+    {
+      "name": "Hardware Blueprints Index",
+      "url": "https://github.com/danielrosehill/Hardware-Blueprints-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of repositories that document physical hardware builds — bills of materials, sourcing, wiring and enclosure specs, and firmware plans"
+    },
+    {
+      "name": "Israel Expense Classification Codes",
+      "url": "https://github.com/danielrosehill/israel-expense-classification-codes",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Israel Tax Authority Form 6111 business expense classification codes as machine-readable JSON, plus the separate income tax and VAT deduction rules. Unofficial."
+    },
+    {
+      "name": "Israel Reference Repos",
+      "url": "https://github.com/danielrosehill/Israel-Reference-Repos",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of Israel-related reference material: standards, regulations, classification codes, datasets, directories and translated official guidance."
+    },
+    {
+      "name": "Noisycity API Blueprint",
+      "url": "https://github.com/danielrosehill/noisycity-api-blueprint",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Blueprint for a public API for citizen-derived urban environmental data — noise, particulates and vibration from volunteer-operated monitoring stations. Planning repo; noisycity.org is a placeholder."
+    },
+    {
+      "name": "Paperless Tax MCP",
+      "url": "https://github.com/danielrosehill/paperless-tax-mcp",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "Unofficial MCP server and API documentation for paperless.tax (Israeli bookkeeping SaaS) — community reverse-engineering effort"
+    },
+    {
+      "name": "Storage Box 3d Models",
+      "url": "https://github.com/danielrosehill/storage-box-3d-models",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Parametric GLB (glTF 2.0 binary) models of the standard industrial storage units you find in any warehouse, stockroom or workshop: euro stacking containers on the 600 × 400 mm module, an attached-lid..."
+    },
+    {
+      "name": "Unofficial MCP Builder Plugin",
+      "url": "https://github.com/danielrosehill/Unofficial-MCP-Builder-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for authoring and maintaining unofficial MCP servers for third-party APIs — generate from the vendor's docs (verified against the live API), detect upstream drift, and smoke-test..."
+    }
+  ]
+}

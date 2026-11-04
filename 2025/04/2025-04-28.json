@@ -1,0 +1,40 @@
+{
+  "date": "2025-04-28",
+  "summary": "Public projects created on 28 April 2025: 2 repos and 2 datasets.",
+  "intro": "Two context repositories give AI tools background on career information and on software evaluation criteria. The matching datasets hold the same material: one reference dataset of career data and one evaluation dataset for the software wish list.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Career Data AI Context Repo",
+      "url": "https://github.com/danielrosehill/Career-Data-AI-Context-Repo",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Context repository for AI tools providing career info to guide agents, assistants, etc"
+    },
+    {
+      "name": "Software Wish List AI Context",
+      "url": "https://github.com/danielrosehill/Software-Wish-List-AI-Context",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Context repository to connect to AI tools - things I look for in most software evaluations"
+    },
+    {
+      "name": "Career Data Context Repo",
+      "url": "https://huggingface.co/datasets/danielrosehill/Career-Data-Context-Repo",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "Creation Timestamp: 2025-04-28T18:59:13Z"
+    },
+    {
+      "name": "Software Wish List Context Data",
+      "url": "https://huggingface.co/datasets/danielrosehill/Software-Wish-List-Context-Data",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Evaluation dataset",
+      "description": "If you're reading this, then the context pipeline is working as intended, and you have arrived at a small repository of contextual data intended to provide you with general background context about..."
+    }
+  ]
+}

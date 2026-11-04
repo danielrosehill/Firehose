@@ -1,0 +1,24 @@
+{
+  "date": "2026-03-31",
+  "summary": "Public projects created on 31 March 2026: 2 repos.",
+  "intro": "A notebook of prompts and outputs from AI models and a local MCP server for processing financial transactions with Green Invoice make up the new repositories, covering general AI experimentation and finance.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "General AI Notebook",
+      "url": "https://github.com/danielrosehill/General-AI-Notebook",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Prompts and outputs from AI models"
+    },
+    {
+      "name": "GreenInvoice MCP",
+      "url": "https://github.com/danielrosehill/GreenInvoice-MCP",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "Local MCP for processing financial transactions using Green Invoice"
+    }
+  ]
+}

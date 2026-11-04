@@ -1,0 +1,24 @@
+{
+  "date": "2025-09-09",
+  "summary": "Public projects created on 9 September 2025: 2 repos.",
+  "intro": "A set of Claude Code subagents covers ideation, editing and version control, while planning notes sketch a personal dashboard. The two repositories sit in agent tooling and personal productivity.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Sub Agent Network",
+      "url": "https://github.com/danielrosehill/Claude-Sub-Agent-Network",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Collection of subagents for Claude Code with configs spanning ideation, editing, version control"
+    },
+    {
+      "name": "Heads Up Dash 0925",
+      "url": "https://github.com/danielrosehill/Heads-Up-Dash-0925",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Planning notes for a personal dashboard 09/25"
+    }
+  ]
+}

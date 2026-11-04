@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-26",
+  "summary": "Public projects created on 26 October 2026: 1 dataset.",
+  "intro": "A dataset of real recordings of Jewish and Israeli first-name wake words, for training local wake word models with openWakeWord and microWakeWord, for Home Assistant Assist and desktop use.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Wake Words",
+      "url": "https://huggingface.co/datasets/danielrosehill/Wake-Words",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "Real recordings of Jewish and Israeli first-name wake words, for training local wake word models (openWakeWord, microWakeWord) to use with Home Assistant Assist and on the desktop, in place of \"Hey..."
+    }
+  ]
+}

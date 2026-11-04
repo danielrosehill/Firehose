@@ -1,0 +1,40 @@
+{
+  "date": "2026-08-08",
+  "summary": "Public projects created on 8 August 2026: 4 repos.",
+  "intro": "Claude Code plugin architecture and repository cleanup tooling appeared alongside certification planning work. The plugin projects cover a workspace vault for sustained agent work and a specification-first certification workflow, while the other tools prune git working copies and GitHub repositories and survey certifications against written requirements.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Plugin Workspace Vault",
+      "url": "https://github.com/danielrosehill/Claude-Plugin-Workspace-Vault",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "An architecture for Claude Code plugins that do sustained work: a public plugin, a private workspace instantiated from a template repo, and a vault at ~/.claude-plugins/<name>/ for user data."
+    },
+    {
+      "name": "Repo Purge",
+      "url": "https://github.com/danielrosehill/repo-purge",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Prune git working copies and their GitHub repositories: one alphabetical list of every repo under a directory, a window and a keystroke-driven review CLI, and deletion locally, on GitHub, or both"
+    },
+    {
+      "name": "Spec Led Certification",
+      "url": "https://github.com/danielrosehill/Spec-Led-Certification",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Choose a professional certification spec-first: write the requirements, then survey and score the market against them. An agent workflow, as a template repo."
+    },
+    {
+      "name": "Spec Led Certification Plugin",
+      "url": "https://github.com/danielrosehill/spec-led-certification-plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: choose a certification specification-first — interview, freeze a weighted scorecard, then survey and score the market against it."
+    }
+  ]
+}

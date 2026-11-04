@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-18",
+  "summary": "Public projects created on 18 October 2026: 2 repos.",
+  "intro": "Two tools cover automated political decision making and long term archival storage. One is a constrained model that votes for, against or abstains on parliamentary motions with a stated reason for a declared constituency. The other is a self hosted web interface that retrieves archives from cloud storage and burns them to M-DISC BD-R discs.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Delegate Vote Model",
+      "url": "https://github.com/danielrosehill/AI-Delegate-Vote-Model",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "A constrained decision model that votes for/against/abstain on parliamentary motions, with a reason, on behalf of a declared constituency"
+    },
+    {
+      "name": "MDisc Archive Burner",
+      "url": "https://github.com/danielrosehill/MDisc-Archive-Burner",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Self-hosted web UI that pulls archives from cloud storage and burns them to M-DISC BD-R, with autopilot disc swapping"
+    }
+  ]
+}

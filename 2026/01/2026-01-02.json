@@ -1,0 +1,32 @@
+{
+  "date": "2026-01-02",
+  "summary": "Public projects created on 2 January 2026: 3 repos.",
+  "intro": "Home Assistant automation for detecting power outages sits alongside MCP work: a research task into server stacks and an installer helper for personal MCP servers.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Home Assistant Power Outage Automation",
+      "url": "https://github.com/danielrosehill/Home-Assistant-Power-Outage-Automation",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "HA automation for power outage detection"
+    },
+    {
+      "name": "MCP Server Research",
+      "url": "https://github.com/danielrosehill/MCP-Server-Research",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "Stack research task 02-01-2026"
+    },
+    {
+      "name": "My MCP Installer",
+      "url": "https://github.com/danielrosehill/My-MCP-Installer",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "Installer helper (MCP) for my MCPs"
+    }
+  ]
+}

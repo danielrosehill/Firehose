@@ -1,0 +1,24 @@
+{
+  "date": "2025-05-06",
+  "summary": "Public projects created on 6 May 2025: 2 repos.",
+  "intro": "A prompt library for text transformation in Audiopen.ai and documentation for a personal dashboard project in progress make up the repositories.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Audiopenai Edit Prompts",
+      "url": "https://github.com/danielrosehill/Audiopenai-Edit-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Text transformation prompts library for Audiopen.ai (my customs)"
+    },
+    {
+      "name": "Personal Dashboard Project",
+      "url": "https://github.com/danielrosehill/Personal-Dashboard-Project",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Project to build a personal dashboard (WIP)"
+    }
+  ]
+}

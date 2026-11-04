@@ -1,0 +1,16 @@
+{
+  "date": "2025-08-06",
+  "summary": "Public projects created on 6 August 2025: 1 repo.",
+  "intro": "A Model Context Protocol server that connects to Nuclino, the collaborative note-taking and knowledge management platform.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Nuclino MCP",
+      "url": "https://github.com/danielrosehill/nuclino-mcp",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "A Model Context Protocol (MCP) server for seamless integration with Nuclino, the collaborative note-taking and knowledge management platform."
+    }
+  ]
+}

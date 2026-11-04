@@ -1,0 +1,16 @@
+{
+  "date": "2026-03-03",
+  "summary": "Public projects created on 3 March 2026: 1 repo.",
+  "intro": "An MCP server lets AI agents point users to public shelters in Israel.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Miklat MCP",
+      "url": "https://github.com/danielrosehill/Miklat-MCP",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "MCP to enable AI agents to guide users towards miklatim tziburim (public shelters) in Israel"
+    }
+  ]
+}

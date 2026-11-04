@@ -1,0 +1,16 @@
+{
+  "date": "2026-03-19",
+  "summary": "Public projects created on 19 March 2026: 1 repo.",
+  "intro": "Home Assistant automations that announce red alert events in Israel through text to speech, built on the Oref Alert integration.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Home Assistant Red Alert Automations",
+      "url": "https://github.com/danielrosehill/Home-Assistant-Red-Alert-Automations",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Home Assistant automations for Oref Alert integration with TTS announcements for red alert events in Israel"
+    }
+  ]
+}

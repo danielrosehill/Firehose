@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-24",
+  "summary": "Public projects created on 24 October 2026: 3 repos, 3 datasets and 2 models.",
+  "intro": "Agent tooling covers a Kaizen plugin for steady task breakdown and a hook that spots unrelated tasks and moves them to a fresh session. Speech recognition work includes a model that adds paragraph breaks to flat transcripts, an ASR cleanup model, and training data for both.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Kaizen Please",
+      "url": "https://github.com/danielrosehill/Kaizen-Please",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Kaizen for any project, not just code: small steady steps, task breakdown, reviews, a Kaizen assessment essay, clean uninstall. Agent skills."
+    },
+    {
+      "name": "New Task Split",
+      "url": "https://github.com/danielrosehill/New-Task-Split",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Claude Code hook: a local ONNX classifier detects an unrelated new task and moves it to a fresh session"
+    },
+    {
+      "name": "Proofed",
+      "url": "https://github.com/danielrosehill/Proofed",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Proofed: integrated ASR + post-processing model, from speech straight to clean, proofed text."
+    },
+    {
+      "name": "Agent Task Break Detector",
+      "url": "https://huggingface.co/datasets/danielrosehill/Agent-Task-Break-Detector",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Training dataset",
+      "description": "Synthetic training data for a small classifier that answers one question on every user turn of an AI agent session:"
+    },
+    {
+      "name": "Paragraph Dictation Passages",
+      "url": "https://huggingface.co/datasets/danielrosehill/Paragraph-Dictation-Passages",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "Data for a separate paragraph-inference model; not used to train any Hebrish model."
+    },
+    {
+      "name": "Proofed ASR Cleanup Training Data",
+      "url": "https://huggingface.co/datasets/danielrosehill/Proofed-ASR-Cleanup-Training-Data",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "Audio paired with clean, proofed target text for training an ASR model to do its own post-processing: no fillers, repeats or false starts, numbers and money as digits, self-corrections applied,..."
+    },
+    {
+      "name": "Agent Task Break Detector ModernBERT",
+      "url": "https://huggingface.co/danielrosehill/Agent-Task-Break-Detector-ModernBERT",
+      "network": "Hugging Face",
+      "section": "models",
+      "type": "Fine-tuned model",
+      "description": "A small cross-encoder that answers one question on every user turn of an AI agent session:"
+    },
+    {
+      "name": "MiniLM L12 ASR Paragraph Breaks",
+      "url": "https://huggingface.co/danielrosehill/MiniLM-L12-ASR-Paragraph-Breaks",
+      "network": "Hugging Face",
+      "section": "models",
+      "type": "Fine-tuned model",
+      "description": "Adds paragraph breaks to flat speech-to-text output. Speech recognition returns punctuated, cased text as one block; this model decides, word by word, where a new paragraph starts."
+    }
+  ]
+}

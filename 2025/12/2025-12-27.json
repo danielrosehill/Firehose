@@ -1,0 +1,32 @@
+{
+  "date": "2025-12-27",
+  "summary": "Public projects created on 27 December 2025: 3 repos.",
+  "intro": "Three tools for agent and desktop workflows: a recovery boot target for using an agentic CLI on Ubuntu, a slash command that pushes agents to reuse existing solutions, and a KDE Plasma action for quick background removal.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude System Recovery Mode",
+      "url": "https://github.com/danielrosehill/Claude-System-Recovery-Mode",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Boot target for using an agentic CLI for system recovery on Ubuntu (adapting to other GRUB-supporting OSes should be simple; for non-Linux envs, fork and modify)."
+    },
+    {
+      "name": "No Wheel Inventions",
+      "url": "https://github.com/danielrosehill/No-Wheel-Inventions",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Slash command for Claude (and agents) to encourage them to avoid reinventing the wheel"
+    },
+    {
+      "name": "Quick RMBG",
+      "url": "https://github.com/danielrosehill/Quick-RMBG",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Dolphin action for KDE Plasma to quickly invoke RMBG for background removal with support for two-pass and infinite-pass operation modes"
+    }
+  ]
+}

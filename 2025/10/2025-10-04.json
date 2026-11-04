@@ -1,0 +1,16 @@
+{
+  "date": "2025-10-04",
+  "summary": "Public projects created on 4 October 2025: 1 repo.",
+  "intro": "A desktop app for reading and writing NFC tags with an ACS ACR1252U reader.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "NFC Reader Writer",
+      "url": "https://github.com/danielrosehill/NFC-Reader-Writer",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Desktop NFC reader/writer app for ACS ACR1252U"
+    }
+  ]
+}

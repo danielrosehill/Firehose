@@ -1,0 +1,16 @@
+{
+  "date": "2025-04-04",
+  "summary": "Public projects created on 4 April 2025: 1 repo.",
+  "intro": "A tool for remote job seekers that researches companies, gathering background details and remote-specific information.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Remote Jobs Research Agent",
+      "url": "https://github.com/danielrosehill/Remote-Jobs-Research-Agent",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Company research agent targeted towards the needs of remote job seekers sourcing detailed information about company backgrounds as well as remote-specific information"
+    }
+  ]
+}

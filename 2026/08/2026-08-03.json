@@ -1,0 +1,32 @@
+{
+  "date": "2026-08-03",
+  "summary": "Public projects created on 3 August 2026: 2 repos and 1 dataset.",
+  "intro": "Agent tooling covered standing instructions for AI agents and a Claude Code plugin for Israeli phonebook entries in Google Contacts. A training dataset classified household and small business goods hierarchically, with handling attributes on each class.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Agent Habits",
+      "url": "https://github.com/danielrosehill/Agent-Habits",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Standing instructions for AI agents: habits (rules) and SOPs (procedures), one markdown file each, with a library of example habits to adopt and a small generated system-prompt block."
+    },
+    {
+      "name": "Israel Phonebook Manager",
+      "url": "https://github.com/danielrosehill/Israel-Phonebook-Manager",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for creating and maintaining Israeli phonebook entries in Google Contacts — counter vs call-centre hours, Shabbat and chag closures, seasonal timetables, star and 1-800 numbers..."
+    },
+    {
+      "name": "Homegoods Taxonomy",
+      "url": "https://huggingface.co/datasets/danielrosehill/homegoods-taxonomy",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Training dataset",
+      "description": "A hierarchical classification of the physical goods in an ordinary home or small business, with a physical handling attribute layer attached to every class."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-14",
+  "summary": "Public projects created on 14 October 2026: 1 repo and 1 dataset.",
+  "intro": "Regex snippets for cleaning up speech-to-text output, built for Android first with Linux engine differences flagged, sit alongside a dictation-style English audio dataset of sentences dense in software, DevOps, cloud, self-hosting and AI vocabulary.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "ASR Regex Post Processing",
+      "url": "https://github.com/danielrosehill/ASR-Regex-Post-Processing",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Regex snippets for cleaning up speech-to-text output — Android (ICU) first, with Linux engine differences flagged and machine-checked."
+    },
+    {
+      "name": "Tech Sentences",
+      "url": "https://huggingface.co/datasets/danielrosehill/Tech-Sentences",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "Dictation-style English sentences dense in software, DevOps, cloud, self-hosting and AI vocabulary (product names, CLI tools, acronyms, model names), read aloud by one speaker."
+    }
+  ]
+}

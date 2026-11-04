@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-16",
+  "summary": "Public projects created on 16 July 2026: 1 repo.",
+  "intro": "A local MQTT bridge with Home Assistant discovery for Gerber Prime 6000-series relay and shutter controllers, keeping the devices off the vendor cloud.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Gerber Prime 6000 Mqtt Bridge",
+      "url": "https://github.com/danielrosehill/gerber-prime-6000-mqtt-bridge",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Local MQTT bridge (HA discovery) for Gerber Prime 6000-series relay/shutter controllers — no vendor cloud"
+    }
+  ]
+}

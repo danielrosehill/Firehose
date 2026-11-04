@@ -1,0 +1,24 @@
+{
+  "date": "2025-02-06",
+  "summary": "Public projects created on 6 February 2025: 2 repos.",
+  "intro": "Home Assistant smoke alarm monitoring documentation and an AI assistant configuration for Home Front Command preparedness guidelines are the two repositories.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Home Assistant Smoke Alarm Config",
+      "url": "https://github.com/danielrosehill/Home-Assistant-Smoke-Alarm-Config",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Documentation and code samples for smoke alarm monitoring in HA"
+    },
+    {
+      "name": "Israel Preparedness Guidelines AI Assistant",
+      "url": "https://github.com/danielrosehill/Israel-Preparedness-Guidelines-AI-Assistant",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "AI assistant configuration for proviidng Home Front Command guidelines"
+    }
+  ]
+}

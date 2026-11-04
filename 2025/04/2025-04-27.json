@@ -1,0 +1,24 @@
+{
+  "date": "2025-04-27",
+  "summary": "Public projects created on 27 April 2025: 2 repos.",
+  "intro": "Two prompt collections cover self-debugging assistants and agents, plus system prompts grouped by capability for testing agent and assistant platforms.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Prompt Debugger System Prompts",
+      "url": "https://github.com/danielrosehill/Prompt-Debugger-System-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "SPs for configuring \"self-debugging\" AI assistants and agents"
+    },
+    {
+      "name": "Test System Prompts",
+      "url": "https://github.com/danielrosehill/Test-System-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "A collection of system prompts organised by capabilities for testing out various agent/assistant platforms"
+    }
+  ]
+}

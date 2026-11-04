@@ -1,0 +1,56 @@
+{
+  "date": "2025-11-30",
+  "summary": "Public projects created on 30 November 2025: 5 repos and 1 dataset.",
+  "intro": "Jewish religious life and technology appear across several repositories: documentation collecting AI tools, Hebrew calendar and text study projects, an index of tech and Judaism work, and tests of Sefaria MCP servers. Voice work covers a Ragie pipeline, a prompt cleanup script, and a synthetic audio dataset of career narration.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Jewish AI Projects",
+      "url": "https://github.com/danielrosehill/Jewish-AI-Projects",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Collection of technological projects for Jewish religious life — AI tools, Hebrew calendar, text study, MCP servers, home automation, and more"
+    },
+    {
+      "name": "Jewish Related Index",
+      "url": "https://github.com/danielrosehill/Jewish-Related-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Index of repositories involving tech + Judaism"
+    },
+    {
+      "name": "Sefaria MCP Testing",
+      "url": "https://github.com/danielrosehill/Sefaria-MCP-Testing",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "Some tests with Sefaria (and other Jewish-relevant MCPs!)"
+    },
+    {
+      "name": "Voice Note Ragie Pipeline",
+      "url": "https://github.com/danielrosehill/Voice-Note-Ragie-Pipeline",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Test pipeline: voice context data to Ragie"
+    },
+    {
+      "name": "Voice Prompt Cleanup Script",
+      "url": "https://github.com/danielrosehill/Voice-Prompt-Cleanup-Script",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Cleanup audio processing script"
+    },
+    {
+      "name": "Sample Voice Context Data",
+      "url": "https://huggingface.co/datasets/danielrosehill/Sample-Voice-Context-Data",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "A small synthetic dataset containing LLM-generated context information simulating a job seeker narrating their career trajectory."
+    }
+  ]
+}

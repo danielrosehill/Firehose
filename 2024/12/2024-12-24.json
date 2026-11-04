@@ -1,0 +1,32 @@
+{
+  "date": "2024-12-24",
+  "summary": "Public projects created on 24 December 2024: 3 repos.",
+  "intro": "Three documentation repositories cover AI assistant configuration for generating personal context, character sketches for an AI character, and a chatbot for exploring the global value factors database.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Context Data Generation Bot",
+      "url": "https://github.com/danielrosehill/Context-Data-Generation-Bot",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Configuration for an AI assistant to generate personal contextual data (and intended workflow)"
+    },
+    {
+      "name": "Corn The Sloth Public",
+      "url": "https://github.com/danielrosehill/Corn-The-Sloth-Public",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Character sketches for an AI character..."
+    },
+    {
+      "name": "GVFD Explorer Chatbot V2",
+      "url": "https://github.com/danielrosehill/GVFD-Explorer-Chatbot-V2",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Chatbot supporting user discovery of the global value factors database"
+    }
+  ]
+}

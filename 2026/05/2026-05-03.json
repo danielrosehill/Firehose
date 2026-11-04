@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-03",
+  "summary": "Public projects created on 3 May 2026: 6 repos.",
+  "intro": "Five Claude Code plugins covered Linux desktop administration, text-to-speech preparation, and Zigbee home network upkeep, alongside planning notes for the plugins and skills mechanism. Documentation for a cheap WiFi LCD wall clock rounded out the repositories.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Linux AV Manager Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Linux-AV-Manager-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for managing antivirus, rootkit-detection, and host firewall on a Linux desktop."
+    },
+    {
+      "name": "Claude Linux System Optimisation Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Linux-System-Optimisation-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for Linux desktop users. Two halves:"
+    },
+    {
+      "name": "Claude Skills Model 0526",
+      "url": "https://github.com/danielrosehill/Claude-Skills-Model-0526",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Stub. Planning notes for the plugins and skills mechanism."
+    },
+    {
+      "name": "Claude Text To Speech Toolkit Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Text-To-Speech-Toolkit-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin with skills for preprocessing text for TTS engines — SSML conversion, ElevenLabs markup, TTS safety review, and manual prosody addition."
+    },
+    {
+      "name": "Claude Zigbee Home Maintenance Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Zigbee-Home-Maintenance-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin for maintaining a home Zigbee network."
+    },
+    {
+      "name": "MAS 8710 Clock",
+      "url": "https://github.com/danielrosehill/MAS-8710-Clock",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Reverse-engineering and operational notes for an inexpensive WiFi LCD wall clock sold under several names."
+    }
+  ]
+}

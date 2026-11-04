@@ -1,0 +1,16 @@
+{
+  "date": "2025-08-02",
+  "summary": "Public projects created on 2 August 2025: 1 repo.",
+  "intro": "MQTT control scripts for the NEO NAS-AB02B2 Zigbee siren.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "NEO NAS AB02B2 MQTT Control",
+      "url": "https://github.com/danielrosehill/NEO_NAS_AB02B2_MQTT_Control",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "MQTT controls scripts for the NEO NAS-AB02B2 Zigbee siren"
+    }
+  ]
+}

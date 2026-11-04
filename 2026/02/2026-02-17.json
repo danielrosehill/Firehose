@@ -1,0 +1,32 @@
+{
+  "date": "2026-02-17",
+  "summary": "Public projects created on 17 February 2026: 3 repos.",
+  "intro": "Three repositories cover agent-facing documents and Claude tooling: notes on a resume built for AI agents, a slash command for splitting CLAUDE.md, and one for setting up a split human-agent context system.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Resume",
+      "url": "https://github.com/danielrosehill/AI-Resume",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Notes / test for creating a version of a resume/CV specifically intended for AI agents"
+    },
+    {
+      "name": "Claude MD Chunk",
+      "url": "https://github.com/danielrosehill/Claude-MD-Chunk",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Slash command for splitting up CLAUDE.md"
+    },
+    {
+      "name": "Split Context Setup",
+      "url": "https://github.com/danielrosehill/Split-Context-Setup",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Slash command for setting up a split human-agent context system in Claude repos"
+    }
+  ]
+}

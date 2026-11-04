@@ -1,0 +1,208 @@
+{
+  "date": "2026-10-19",
+  "summary": "Public projects created on 19 October 2026: 12 repos and 13 datasets.",
+  "intro": "Model evaluations dominated the work, covering political framing, propaganda bait, conspiracy endorsement, American centrism and moralising, with matching prompt datasets and raw run outputs. Agent plugins put Claude in a KDE virtual desktop and ran a modular research pipeline. Audio datasets supplied dictation sentences on Linux administration, smart homes, AI coding agents, personal vocabulary and homophones.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "American Centrism Eval",
+      "url": "https://github.com/danielrosehill/American-Centrism-Eval",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "Eval: does a model assume the user is in the US when not told? Component of Dan-Eval (placeholder)"
+    },
+    {
+      "name": "ASR Dataset Blending",
+      "url": "https://github.com/danielrosehill/ASR-Dataset-Blending",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Research notes on blending datasets for ASR fine-tunes: mixing tools, replay ratios, forgetting prevention, general corpora"
+    },
+    {
+      "name": "Claude KDE Agent Workspace Plugin",
+      "url": "https://github.com/danielrosehill/Claude-KDE-Agent-Workspace-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Give Claude its own KDE Plasma virtual desktop: create it, test real apps there via AT-SPI + KWin capture, bind it to a monitor."
+    },
+    {
+      "name": "Claude Modular Research Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Modular-Research-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Modular research task: dictated brief → research repo → Typst PDF → two-host podcast (Gemini TTS) → Google Drive → email. Every output optional."
+    },
+    {
+      "name": "Conspiracy Endorsement Eval",
+      "url": "https://github.com/danielrosehill/Conspiracy-Endorsement-Eval",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "Does a model push back on, endorse, or encourage conspiracy theories a user brings to it? Safety eval."
+    },
+    {
+      "name": "Dan Eval",
+      "url": "https://github.com/danielrosehill/Dan-Eval",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "Composite of my pet-peeve evaluations for models I'm considering adopting: Israel/Palestine framing, Chinese censorship, American centrism (placeholder)"
+    },
+    {
+      "name": "Ha Ir Ac Comfort Thermostat",
+      "url": "https://github.com/danielrosehill/ha-ir-ac-comfort-thermostat",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Home Assistant pattern: single-room comfort thermostat for an IR-only AC (assumed state, fan + setpoint loop)"
+    },
+    {
+      "name": "Israel Palestine Framing Eval",
+      "url": "https://github.com/danielrosehill/Israel-Palestine-Framing-Eval",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "Eval: does a model lean pro-Israel or pro-Palestinian on mirrored framings of contested events? Component of Dan-Eval (placeholder)"
+    },
+    {
+      "name": "Parlance Dictation",
+      "url": "https://github.com/danielrosehill/Parlance-Dictation",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Parlance: on-device dictation with NVIDIA Parakeet for Android, Linux and Windows, with a choice of model (stock or fine-tunes). General-purpose sibling of Hebrish."
+    },
+    {
+      "name": "Propaganda Bait Eval",
+      "url": "https://github.com/danielrosehill/Propaganda-Bait-Eval",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "Baits LLMs with loaded political premises (CCP, MAGA, pro-Israel, pro-Palestine, Kremlin, US-left) and scores how readily they regurgitate the framing"
+    },
+    {
+      "name": "The PC Bench",
+      "url": "https://github.com/danielrosehill/The-PC-Bench",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Does the model scold you? A benchmark for moralising, lecturing and unsolicited PC framing in LLM responses (PC = political correctness, not personal computers)"
+    },
+    {
+      "name": "US Partisan Framing Eval",
+      "url": "https://github.com/danielrosehill/US-Partisan-Framing-Eval",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "Neutral questions on divisive US issues: does the answer adopt the Democratic or Republican framing, hawkish or dovish?"
+    },
+    {
+      "name": "AI Interactions Sentences",
+      "url": "https://huggingface.co/datasets/danielrosehill/AI-Interactions-Sentences",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "Instructions dictated to AI coding agents (Claude Code, Codex and others) and the git and GitHub workflow around them, read aloud by one speaker: subagents, worktrees, compaction, plan mode, hooks,..."
+    },
+    {
+      "name": "American Centrism Eval",
+      "url": "https://huggingface.co/datasets/danielrosehill/American-Centrism-Eval",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Evaluation dataset",
+      "description": "Test prompts for an evaluation of whether a language model assumes the user is in the United States when nothing says so, and more broadly whether it treats American conventions as the default."
+    },
+    {
+      "name": "Conspiracy Endorsement Eval",
+      "url": "https://huggingface.co/datasets/danielrosehill/Conspiracy-Endorsement-Eval",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Evaluation dataset",
+      "description": "Test prompts for an evaluation of whether a language model pushes back on, endorses, or encourages conspiracy theories that a user brings to it."
+    },
+    {
+      "name": "Conspiracy Endorsement Eval Runs",
+      "url": "https://huggingface.co/datasets/danielrosehill/Conspiracy-Endorsement-Eval-Runs",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Evaluation dataset",
+      "description": "Raw model outputs from runs of Conspiracy-Endorsement-Eval. The prompts themselves are a separate dataset: danielrosehill/Conspiracy-Endorsement-Eval. This dataset holds only what models said back."
+    },
+    {
+      "name": "Homophone Context Sentences",
+      "url": "https://huggingface.co/datasets/danielrosehill/Homophone-Context-Sentences",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "English sentences whose context settles which spelling of a homophone is meant (their/there, principal/principle, and 58 more sets), read aloud by one speaker."
+    },
+    {
+      "name": "Israel Palestine Framing Eval",
+      "url": "https://huggingface.co/datasets/danielrosehill/Israel-Palestine-Framing-Eval",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Evaluation dataset",
+      "description": "Test prompts for an evaluation of whether a language model leans pro-Israel or pro-Palestinian."
+    },
+    {
+      "name": "Linux Admin Sentences",
+      "url": "https://huggingface.co/datasets/danielrosehill/Linux-Admin-Sentences",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "Dictation-style English sentences about Linux desktop and server administration (KDE Plasma, GNOME, systemd, storage, networking, homelab), read aloud by one speaker."
+    },
+    {
+      "name": "Personal Vocabulary Sentences",
+      "url": "https://huggingface.co/datasets/danielrosehill/Personal-Vocabulary-Sentences",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "English sentences built around names a speech model gets wrong for one speaker: his own name, his company and his project names (Daniel Rosehill, DSR Holdings, Carrot Cake AI, the podcast My Weird..."
+    },
+    {
+      "name": "Propaganda Bait Eval",
+      "url": "https://huggingface.co/datasets/danielrosehill/Propaganda-Bait-Eval",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Evaluation dataset",
+      "description": "Loaded-premise prompts that test whether a language model repeats a one-sided political line when the question takes it for granted, or pushes back."
+    },
+    {
+      "name": "Propaganda Bait Eval Runs",
+      "url": "https://huggingface.co/datasets/danielrosehill/Propaganda-Bait-Eval-Runs",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Evaluation dataset",
+      "description": "Raw model outputs from runs of Propaganda-Bait-Eval. The prompts themselves are a separate dataset: danielrosehill/Propaganda-Bait-Eval."
+    },
+    {
+      "name": "Smart Home Sentences",
+      "url": "https://huggingface.co/datasets/danielrosehill/Smart-Home-Sentences",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "Dictation-style English sentences about home automation (Home Assistant, Zigbee, Z-Wave, Matter, Thread, ESPHome, MQTT and device brands), read aloud by one speaker."
+    },
+    {
+      "name": "The PC Bench",
+      "url": "https://huggingface.co/datasets/danielrosehill/The-PC-Bench",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Evaluation dataset",
+      "description": "Test prompts for an evaluation of scolding: model responses that make the user feel judged for asking, by lecturing, moralising, correcting their vocabulary or adding unrequested disclaimers, rather..."
+    },
+    {
+      "name": "US Partisan Framing Eval",
+      "url": "https://huggingface.co/datasets/danielrosehill/US-Partisan-Framing-Eval",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Evaluation dataset",
+      "description": "Test prompts for an evaluation of whether a language model, asked a neutral question about a divisive US issue, answers with the popular Democratic or the popular Republican framing."
+    }
+  ]
+}

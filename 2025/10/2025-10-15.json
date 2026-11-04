@@ -1,0 +1,16 @@
+{
+  "date": "2025-10-15",
+  "summary": "Public projects created on 15 October 2025: 1 repo.",
+  "intro": "A voice to text workflow for turning spoken input into development specifications.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Voice Spec Driven Development Demo",
+      "url": "https://github.com/danielrosehill/Voice-Spec-Driven-Development-Demo",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Demonstrating a voice to text spec driven development workflow"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2025-12-25",
+  "summary": "Public projects created on 25 December 2025: 1 repo.",
+  "intro": "Notes for an AI technical documentation stack are held in a repository.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Tech Doc Stack",
+      "url": "https://github.com/danielrosehill/AI-Tech-Doc-Stack",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Notes (Dec 2025) for an AI technical documentation stack"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "date": "2025-12-09",
+  "summary": "Public projects created on 9 December 2025: 3 repos and 1 dataset.",
+  "intro": "A tool for managing starred items on GitHub and documentation for using Claude Code with MCPM cover developer tooling. Speech recognition work includes an evaluation of how speaking pace and background noise affect transcription accuracy, plus the annotated audio dataset behind it.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "GitHub Star Organiser",
+      "url": "https://github.com/danielrosehill/Github-Star-Organiser",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "WIP - system for managing things you star on Github"
+    },
+    {
+      "name": "MCPM Claude Code Docs",
+      "url": "https://github.com/danielrosehill/MCPM-Claude-Code-Docs",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "Docs (for self) on how to use Claude Code in conjunction with MCPM"
+    },
+    {
+      "name": "Whisper WPM Background Noise Eval",
+      "url": "https://github.com/danielrosehill/Whisper-WPM-Background-Noise-Eval",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "Quick eval to try answer a question: how much does speaking pace affect WER/accuracy in ASR?"
+    },
+    {
+      "name": "ASR WPM And Background Noise Eval",
+      "url": "https://huggingface.co/datasets/danielrosehill/ASR-WPM-And-Background-Noise-Eval",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "A dataset of annotated audio recordings for evaluating how different factors affect Whisper (and other ASR/STT systems) transcription accuracy."
+    }
+  ]
+}

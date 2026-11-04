@@ -1,0 +1,24 @@
+{
+  "date": "2025-11-03",
+  "summary": "Public projects created on 3 November 2025: 2 repos.",
+  "intro": "Two voice-input projects: a GUI for capturing speech data for text-to-speech and voice-clone training, using synthetic text generation, and planning notes for a macropad aimed at speech-to-text users.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Voice Training Data Creator",
+      "url": "https://github.com/danielrosehill/Voice-Training-Data-Creator",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "GUI to facilitate capturing voice data for TTS / voice clone training with LLM synthetic text generation and saving logic (Ubuntu Linux)"
+    },
+    {
+      "name": "Voicepad",
+      "url": "https://github.com/danielrosehill/Voicepad",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Planning notes for a macropad for STT users"
+    }
+  ]
+}

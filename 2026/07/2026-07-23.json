@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-23",
+  "summary": "Public projects created on 23 July 2026: 2 repos.",
+  "intro": "Two repositories cover Israel-focused agent work: a Claude Code plugin of AliExpress shopping skills for an Israel-based buyer, with ship-to Israel, locale and currency handling, and an AI-assisted political platform experiment, a researched manifesto for a party that does not exist.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Aliexpress Israel Skills",
+      "url": "https://github.com/danielrosehill/Aliexpress-Israel-Skills",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "A Claude Code plugin of AliExpress shopping skills built for an Israel-based buyer: ship-to Israel in your preferred locale (default EN/USD; ILS and Hebrew supported, with a guard against the site's..."
+    },
+    {
+      "name": "MK Claude",
+      "url": "https://github.com/danielrosehill/MK-Claude",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "An AI-assisted political platform experiment for Israel — a detailed, researched manifesto for a party that doesn't exist"
+    }
+  ]
+}

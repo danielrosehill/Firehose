@@ -1,0 +1,24 @@
+{
+  "date": "2025-10-30",
+  "summary": "Public projects created on 30 October 2025: 2 repos.",
+  "intro": "A benchmark for local speech-to-text models on Ubuntu and a notebook of notes on installing MCP servers covered speech recognition evaluation and MCP tooling.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Local ASR STT Benchmark",
+      "url": "https://github.com/danielrosehill/Local-ASR-STT-Benchmark",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "Quick evaluation to find the best STT model in Speech Note (Ubuntu) for my HW"
+    },
+    {
+      "name": "MCP Installation Notebook",
+      "url": "https://github.com/danielrosehill/MCP-Installation-Notebook",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "Notebook of things I've figured out about installing MCPs - as I figure them out"
+    }
+  ]
+}

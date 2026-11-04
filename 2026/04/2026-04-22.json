@@ -1,0 +1,16 @@
+{
+  "date": "2026-04-22",
+  "summary": "Public projects created on 22 April 2026: 1 repo.",
+  "intro": "A curated index of open-source projects for situational awareness, geopolitical monitoring, and information-fusion dashboards, covering news grids, video walls, and ops-center common operational pictures.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Monitoring The Situation",
+      "url": "https://github.com/danielrosehill/Monitoring-The-Situation",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Curated index of open-source projects for situational awareness, geopolitical monitoring, and information-fusion dashboards (news grids, video walls, ops-center COPs)."
+    }
+  ]
+}

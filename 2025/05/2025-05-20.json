@@ -1,0 +1,16 @@
+{
+  "date": "2025-05-20",
+  "summary": "Public projects created on 20 May 2025: 1 repo.",
+  "intro": "A repository documents point-in-time analysis of Social Impact Bond data from INDIGO, maintained by the Government Outcomes Lab at Oxford University.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Social Impact Bond Data",
+      "url": "https://github.com/danielrosehill/Social-Impact-Bond-Data",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Point-in-time analysis of impact bond data from INDIGO (Government Outcomes Lab, Oxford University)"
+    }
+  ]
+}

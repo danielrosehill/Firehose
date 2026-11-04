@@ -1,0 +1,96 @@
+{
+  "date": "2026-05-06",
+  "summary": "Public projects created on 6 May 2026: 10 repos and 1 dataset.",
+  "intro": "Agent plugins for Claude covered decision logging, document nudging, and Linux audio preset management, alongside work-in-progress skill baskets for Israeli mortgage and property research. Documentation and datasets centred on Israeli open data, with bilingual catalogue translations and a reference snapshot of data.gov.il.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Decision Mapper",
+      "url": "https://github.com/danielrosehill/Claude-Decision-Mapper",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A repository for mapping and codifying an iterative spec-refinement process used with Claude (and applicable to other LLM-driven planning conversations)."
+    },
+    {
+      "name": "Claude Document Nudge",
+      "url": "https://github.com/danielrosehill/Claude-Document-Nudge",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "A snippet (and thin plugin wrapper) that nudges Claude to document decisions, todos, sprints, and handovers as we work — without being asked each time."
+    },
+    {
+      "name": "Claude Shopping Demo 2",
+      "url": "https://github.com/danielrosehill/Claude-Shopping-Demo--2",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "model for a claude shopping research tool customised by shops + tasks"
+    },
+    {
+      "name": "Easy Effects Manager",
+      "url": "https://github.com/danielrosehill/Easy-Effects-Manager",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude-Controller plugin for managing Easy Effects on Linux: preset library, autoload bindings, level testing, voice-dictation setup"
+    },
+    {
+      "name": "Easy Effects Presets",
+      "url": "https://github.com/danielrosehill/Easy-Effects-Presets",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "My Easy Effects input presets"
+    },
+    {
+      "name": "Israel Agent Skills Dev Index",
+      "url": "https://github.com/danielrosehill/Israel-Agent-Skills-Dev-Index",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Index of WIP skills-development repos feeding into Israel-Agent-Skills-Dev / Claude-Israel-Agent-Skills-Plugin."
+    },
+    {
+      "name": "Israel Mortgage Research Skills",
+      "url": "https://github.com/danielrosehill/Israel-Mortgage-Research-Skills",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "WIP skills basket for Israeli residential mortgage research (track mix, BoI rules, DSR/LTV, bank quirks). Verified skills graduate to Israel-Agent-Skills-Dev."
+    },
+    {
+      "name": "Israel Open Data Catalogue Translations",
+      "url": "https://github.com/danielrosehill/Israel-Open-Data-Catalogue-Translations",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Hebrew/English translation mapping for every dataset on data.gov.il"
+    },
+    {
+      "name": "Israel Open Data Resources",
+      "url": "https://github.com/danielrosehill/Israel-Open-Data-Resources",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Open access data and a list of Israeli data projects"
+    },
+    {
+      "name": "Israel Property Research Skills",
+      "url": "https://github.com/danielrosehill/Israel-Property-Research-Skills",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "WIP skills basket for Israeli property due diligence (Tabu, tik binyan, shimush choreg, comps). Verified skills graduate to Israel-Agent-Skills-Dev."
+    },
+    {
+      "name": "Israel Open Data Catalogue",
+      "url": "https://huggingface.co/datasets/danielrosehill/Israel-Open-Data-Catalogue",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "A bilingual (Hebrew/English) snapshot of the entire dataset catalogue published on data.gov.il, Israel's official open-data portal."
+    }
+  ]
+}

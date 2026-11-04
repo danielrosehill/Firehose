@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-28",
+  "summary": "Public projects created on 28 July 2026: 2 repos.",
+  "intro": "Two repositories cover audio preparation and development standards. The first provides Audacity export presets, silence-trimming settings and macros for producing recordings optimised for Whisper or AssemblyAI transcription. The second is research into specification standards for agentic and spec-driven development.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Audacity Transcription Presets",
+      "url": "https://github.com/danielrosehill/audacity-transcription-presets",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Export presets, silence-trimming settings and macros for turning an Audacity recording into a file optimised for Whisper/AssemblyAI transcription"
+    },
+    {
+      "name": "Spec Standard Research",
+      "url": "https://github.com/danielrosehill/Spec-Standard-Research",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Research into specification standards for agentic / spec-driven development"
+    }
+  ]
+}

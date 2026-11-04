@@ -1,0 +1,16 @@
+{
+  "date": "2026-01-25",
+  "summary": "Public projects created on 25 January 2026: 1 repo.",
+  "intro": "Notes on setting up failover internet in Israel.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Failover Internet Israel Notes",
+      "url": "https://github.com/danielrosehill/Failover-Internet-Israel-Notes",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Notes (Jan 2026) on setting up failover internet in Israel"
+    }
+  ]
+}

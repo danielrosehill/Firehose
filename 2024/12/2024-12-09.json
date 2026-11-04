@@ -1,0 +1,32 @@
+{
+  "date": "2024-12-09",
+  "summary": "Public projects created on 9 December 2024: 3 repos.",
+  "intro": "A data pipeline supplying emissions figures for visualisation work, alongside a series comparing companies' greenhouse gas emissions with their EBITDA. There are also unit exchange calculators for common conversions.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "GHG Emissions Data Pipeline",
+      "url": "https://github.com/danielrosehill/GHG-Emissions-Data-Pipeline",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Data pipeline repository supplying various data visualisation projects"
+    },
+    {
+      "name": "GHG Vs EBITDA V2",
+      "url": "https://github.com/danielrosehill/GHG-vs-EBITDA-V2",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Another data visualisation series comparing companies' GHG emissions with their EBITDA"
+    },
+    {
+      "name": "My Calculators",
+      "url": "https://github.com/danielrosehill/My-Calculators",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Unit exchange calculators for calculations I commonly require"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2025-12-05",
+  "summary": "Public projects created on 5 December 2025: 2 repos.",
+  "intro": "A Claude Code plugin for planning and burning batch optical disc archives on Ubuntu, with copy multipliers for offsite duplicates, and a prototype chat interface for lashon hara questions and answers.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Batch Optical Archivist Plugin",
+      "url": "https://github.com/danielrosehill/Claude-Batch-Optical-Archivist-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Claude Code plugin: plan and burn batch M-Disc / BD-R / DVD archives on Ubuntu via growisofs with copy multipliers for offsite duplicates."
+    },
+    {
+      "name": "Lashon Hara Chatbot",
+      "url": "https://github.com/danielrosehill/Lashon-Hara-Chatbot",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Prototype chat UI for lashon hara Q&A"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-20",
+  "summary": "Public projects created on 20 October 2026: 4 repos and 2 datasets.",
+  "intro": "Android app work covered a thin fork template with weekly upstream merges and signed releases, a public F-Droid repository, and an offline family first-aid app for Israel. Other repositories hid encrypted messages in spoken sentences. Datasets graded Israel-Palestine framing outputs and labelled unsolicited outreach emails.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Android Thin Fork Autosync",
+      "url": "https://github.com/danielrosehill/Android-Thin-Fork-Autosync",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Template for a thin downstream fork of an active Android app: narrow hooks, weekly auto-merge of upstream releases, seam checks, signed release APKs via GitHub Actions"
+    },
+    {
+      "name": "F Droid Public Repo",
+      "url": "https://github.com/danielrosehill/F-Droid-Public-Repo",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Public F-Droid repo for Daniel Rosehill's Android apps, served from Cloudflare R2 at apps.bydanielrosehill.com"
+    },
+    {
+      "name": "Family First Aid Android",
+      "url": "https://github.com/danielrosehill/Family-First-Aid-Android",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Offline Android first-aid app for families in Israel (MDA / Hatzalah): adult + child protocols, interactive decision flows, spaced review. Not medical advice."
+    },
+    {
+      "name": "LLM Spoken Steganography",
+      "url": "https://github.com/danielrosehill/LLM-Spoken-Steganography",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "LLM hides an encrypted message in the sentence openers of a mundane podcast that survives TTS -> air -> STT. Grew out of My Weird Prompts #6141."
+    },
+    {
+      "name": "Israel Palestine Framing Eval Runs",
+      "url": "https://huggingface.co/datasets/danielrosehill/Israel-Palestine-Framing-Eval-Runs",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Evaluation dataset",
+      "description": "Model outputs and grades from runs of Israel-Palestine-Framing-Eval. The prompts are a separate dataset, danielrosehill/Israel-Palestine-Framing-Eval."
+    },
+    {
+      "name": "Pseudo Personalised Outreach",
+      "url": "https://huggingface.co/datasets/danielrosehill/pseudo-personalised-outreach",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Training dataset",
+      "description": "Real unsolicited emails sent to one person, labelled genuine or pseudo_personalised, with every sender identity replaced by a plausible fake."
+    }
+  ]
+}

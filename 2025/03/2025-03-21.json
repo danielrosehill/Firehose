@@ -1,0 +1,24 @@
+{
+  "date": "2025-03-21",
+  "summary": "Public projects created on 21 March 2025: 2 repos.",
+  "intro": "Two repositories cover home automation and model tooling: a pipeline that moves data from a GitHub repository into Open WebUI knowledge, and documentation with automations and hardware advice for Home Assistant and Pikud HaOref integration.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "GitHub To OpenWebUI Context Pipeline",
+      "url": "https://github.com/danielrosehill/Github-To-OpenWebUI-Context-Pipeline",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Model data pipeline from a Github repository to Open Web UI knowledge using actions"
+    },
+    {
+      "name": "HA Red Alerts Model Automations",
+      "url": "https://github.com/danielrosehill/HA-Red-Alerts-Model-Automations",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A few automations and hardware recommendations for HA + Pikud HaOref integration"
+    }
+  ]
+}

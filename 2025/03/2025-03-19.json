@@ -1,0 +1,24 @@
+{
+  "date": "2025-03-19",
+  "summary": "Public projects created on 19 March 2025: 2 repos.",
+  "intro": "A personal backlog of tech projects to check out and a script that converts manual JSON exports into parsed CSV data covered documentation and data processing.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Interesting Tech Things",
+      "url": "https://github.com/danielrosehill/Interesting-Tech-Things",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A personal (and open-source) backlog of tech projects to check out"
+    },
+    {
+      "name": "OpenWebUI Model Export Converter",
+      "url": "https://github.com/danielrosehill/OpenWebUI-Model-Export-Converter",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Data processing script for converting manual JSON exports into parsed CSV data"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2025-12-13",
+  "summary": "Public projects created on 13 December 2025: 2 repos.",
+  "intro": "Two repositories cover career planning for programmers and a local MCP handler for secrets that pairs with a cloud API.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Developers Career Planning Notes",
+      "url": "https://github.com/danielrosehill/AI-Developers-Career-Planning-Notes",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Notes/ideas for the evolving face of programming jobs!"
+    },
+    {
+      "name": "Local Secrets MCP",
+      "url": "https://github.com/danielrosehill/Local-Secrets-MCP",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "MCP server",
+      "description": "Notes / an idea for a local MCP handler for secrets that works in conjunction with a cloud API"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2024-12-02",
+  "summary": "Public projects created on 2 December 2024: 1 repo.",
+  "intro": "A configuration for an LLM assistant that performs analysis on sustainability data.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Eco Ninja 3",
+      "url": "https://github.com/danielrosehill/Eco-Ninja-3",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Configuration for an LLM assistant that performs analysis on sustainability data"
+    }
+  ]
+}

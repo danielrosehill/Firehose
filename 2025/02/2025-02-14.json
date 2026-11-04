@@ -1,0 +1,16 @@
+{
+  "date": "2025-02-14",
+  "summary": "Public projects created on 14 February 2025: 1 repo.",
+  "intro": "An ecosystem map of the AI agent and assistant building landscape as of February 2025.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Awesome AI Agents And Assistants",
+      "url": "https://github.com/danielrosehill/Awesome-AI-Agents-And-Assistants",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "An ecosystem map of the AI agent and assistant building landscape in Feb 2025"
+    }
+  ]
+}

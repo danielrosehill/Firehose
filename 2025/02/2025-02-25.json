@@ -1,0 +1,24 @@
+{
+  "date": "2025-02-25",
+  "summary": "Public projects created on 25 February 2025: 2 repos.",
+  "intro": "Two prompt collections for configuring large language models: a set of general system prompts intended to encourage neutral behaviour, and a user interface that combines model and user characteristics to generate more targeted prompts.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "General System Prompts",
+      "url": "https://github.com/danielrosehill/General-System-Prompts",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "Some system prompts intended to (attempt to) configure neutral behavior from LLMs"
+    },
+    {
+      "name": "System Prompt Factory",
+      "url": "https://github.com/danielrosehill/System-Prompt-Factory",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Prompt collection",
+      "description": "A system prompt generation UI that combines model and user characteristics to generate more targeted (but still general) system prompts for LLMs"
+    }
+  ]
+}
