@@ -1,0 +1,418 @@
+{
+ "metrics": {
+  "totals": {
+   "repos": 22,
+   "datasets": 8,
+   "models": 5,
+   "total": 35,
+   "days": 7
+  },
+  "by_month": [
+   {
+    "month": "2026-10",
+    "days": 4,
+    "repos": 9,
+    "datasets": 5,
+    "models": 3,
+    "total": 17
+   },
+   {
+    "month": "2026-11",
+    "days": 3,
+    "repos": 13,
+    "datasets": 3,
+    "models": 2,
+    "total": 18
+   }
+  ],
+  "by_day": [
+   {
+    "date": "2026-10-28",
+    "repos": 2,
+    "datasets": 3,
+    "models": 0,
+    "total": 5
+   },
+   {
+    "date": "2026-10-29",
+    "repos": 2,
+    "datasets": 1,
+    "models": 3,
+    "total": 6
+   },
+   {
+    "date": "2026-10-30",
+    "repos": 1,
+    "datasets": 0,
+    "models": 0,
+    "total": 1
+   },
+   {
+    "date": "2026-10-31",
+    "repos": 4,
+    "datasets": 1,
+    "models": 0,
+    "total": 5
+   },
+   {
+    "date": "2026-11-01",
+    "repos": 2,
+    "datasets": 0,
+    "models": 0,
+    "total": 2
+   },
+   {
+    "date": "2026-11-02",
+    "repos": 7,
+    "datasets": 1,
+    "models": 0,
+    "total": 8
+   },
+   {
+    "date": "2026-11-03",
+    "repos": 4,
+    "datasets": 2,
+    "models": 2,
+    "total": 8
+   }
+  ]
+ },
+ "entries": [
+  {
+   "date": "2026-11-03",
+   "summary": "Public projects created on 3 November 2026: 4 repos, 2 datasets and 2 models.",
+   "intro": "New repositories covered agent tooling and home network security, with three agent plugins and a playbook for keeping cheap IP cameras local-only. On Hugging Face, the new work was speech-recognition training material: a small model that writes read-aloud sentences, its training data, and a mixed English-Hebrew sentence dataset.",
+   "scope": "created",
+   "projects": [
+    {
+     "name": "ChatGPT Workspace Agents Claude Plugin",
+     "url": "https://github.com/danielrosehill/ChatGPT-Workspace-Agents-Claude-Plugin",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Agent plugin",
+     "description": "Builds and manages ChatGPT Workspace Agents from Claude Code by driving the agent builder in a browser, since OpenAI has no public API for creating them."
+    },
+    {
+     "name": "Guava Health Plugin",
+     "url": "https://github.com/danielrosehill/Guava-Health-Plugin",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Agent plugin",
+     "description": "Unofficial plugin and Python CLI for the Guava Health API: logs medications, symptoms and readings, and reviews the data, including for dependents on a family plan."
+    },
+    {
+     "name": "IP Cam Lockdown",
+     "url": "https://github.com/danielrosehill/IP-Cam-Lockdown",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Documentation",
+     "description": "Forensics and a playbook for running cheap AliExpress IP cameras local-only: how each one reaches the vendor cloud, and how to cut it off."
+    },
+    {
+     "name": "Network Forensics Plugin",
+     "url": "https://github.com/danielrosehill/Network-Forensics-Plugin",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Agent plugin",
+     "description": "Skills for tracing what a device on a home network talks to, documenting it, blocking it at the firewall and verifying the lockdown."
+    },
+    {
+     "name": "English Hebrew Mixed Sentences",
+     "url": "https://huggingface.co/datasets/danielrosehill/English-Hebrew-Mixed-Sentences",
+     "network": "Hugging Face",
+     "section": "datasets",
+     "type": "Training dataset",
+     "description": "English sentences with Hebrew words and phrases mixed in, for training and evaluating speech-to-text for English speakers in Israel."
+    },
+    {
+     "name": "Term Context Sentences",
+     "url": "https://huggingface.co/datasets/danielrosehill/term-context-sentences",
+     "network": "Hugging Face",
+     "section": "datasets",
+     "type": "Training dataset",
+     "description": "Training data for writing short read-aloud sentences that use a given term in a given context, covering romanized Hebrew and Yiddish, Israeli names and tech vocabulary."
+    },
+    {
+     "name": "Contextual Sentence Creator",
+     "url": "https://huggingface.co/danielrosehill/Contextual-Sentence-Creator",
+     "network": "Hugging Face",
+     "section": "models",
+     "type": "Fine-tuned model",
+     "description": "LoRA fine-tune of Granite 4.2 3B that returns natural sentences using a given term in a given context, for recording speech-recognition training data."
+    },
+    {
+     "name": "Contextual Sentence Creator GGUF",
+     "url": "https://huggingface.co/danielrosehill/Contextual-Sentence-Creator-GGUF",
+     "network": "Hugging Face",
+     "section": "models",
+     "type": "Quantised model",
+     "description": "GGUF builds of Contextual-Sentence-Creator in Q4_K_M and Q8_0, for running it with llama.cpp."
+    }
+   ]
+  },
+  {
+   "date": "2026-11-02",
+   "summary": "Public projects created on 2 November 2026: 7 repos and 1 dataset.",
+   "intro": "New repositories covered agent tooling and local speech work, with two agent plugins for text-to-speech and staged transcription. Other projects included a handwriting recognition model, an Android clock widget, a manual-rewriting tool, and Konsole settings for Claude Code sessions. On Hugging Face, the new dataset was one speaker reading desktop voice commands.",
+   "scope": "created",
+   "projects": [
+    {
+     "name": "Claude Konsole Setup",
+     "url": "https://github.com/danielrosehill/Claude-Konsole-Setup",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Tool",
+     "description": "Konsole settings for running Claude Code sessions: window-close protection, no single-tab prompt, split layout; apply.sh for other machines"
+    },
+    {
+     "name": "Daniel Handwriting Recognition",
+     "url": "https://github.com/danielrosehill/Daniel-Handwriting-Recognition",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Tool",
+     "description": "Fine-tuning a handwriting recognition (HTR) model on Daniel's handwriting: data collection plan, ground truth, training"
+    },
+    {
+     "name": "Laptop Search 1126",
+     "url": "https://github.com/danielrosehill/Laptop-Search-1126",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Documentation",
+     "description": "Laptop search, November 2026: requirements, spec notes and voice-note transcripts."
+    },
+    {
+     "name": "Local TTS Plugin",
+     "url": "https://github.com/danielrosehill/Local-TTS-Plugin",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Agent plugin",
+     "description": "Local text-to-speech for Claude Code: Kokoro (CPU), NeuTTS Air (CPU cloning), Chatterbox (ROCm/CUDA). Installs, registers and runs local TTS models."
+    },
+    {
+     "name": "Local UTC Widget",
+     "url": "https://github.com/danielrosehill/Local-UTC-Widget",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Tool",
+     "description": "Android home-screen widget: local time and UTC side by side, 24-hour, with optional date, UTC offset and font choice"
+    },
+    {
+     "name": "Transcription Pipeline",
+     "url": "https://github.com/danielrosehill/Transcription-Pipeline",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Agent plugin",
+     "description": "Agent skills for transcription in stages: retrieve, preprocess (EQ, denoise, VAD), transcribe (OpenRouter/Gemini, AssemblyAI, local Whisper/Parakeet), clean, label speakers, reshape, Typst PDF, save"
+    },
+    {
+     "name": "Useful User Manuals",
+     "url": "https://github.com/danielrosehill/Useful-User-Manuals",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Tool",
+     "description": "Turn bloated product manuals into useful ones: fetch, trim to your language, rewrite, or one-task how-to PDFs, always citing the original."
+    },
+    {
+     "name": "Voice Command Sentences",
+     "url": "https://huggingface.co/datasets/danielrosehill/Voice-Command-Sentences",
+     "network": "Hugging Face",
+     "section": "datasets",
+     "type": "Audio dataset",
+     "description": "One speaker reading desktop voice commands for a KDE Plasma voice-command agent: launching, switching to and closing apps (Konsole, Kate, Dolphin, Kdenlive, Audacity), browser and terminal tabs,..."
+    }
+   ]
+  },
+  {
+   "date": "2026-11-01",
+   "summary": "Public projects created on 1 November 2026: 2 repos.",
+   "intro": "New repositories covered audio dataset preservation and mobile GitHub discovery, with a tool for archiving audio datasets into checksummed, disc-sized snapshots and an Android app for browsing topics, running advanced search operators, sorting results, and starring repos into Lists.",
+   "scope": "created",
+   "projects": [
+    {
+     "name": "Audio Dataset Backup",
+     "url": "https://github.com/danielrosehill/Audio-Dataset-Backup",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Tool",
+     "description": "Gathers Daniel's Hugging Face audio datasets into a pinned, checksummed, disc-sized point-in-time archive (M-DISC / cloud)"
+    },
+    {
+     "name": "GitHub Discovery",
+     "url": "https://github.com/danielrosehill/GitHub-Discovery",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Tool",
+     "description": "Android app for discovering GitHub repos: browse topics, use desktop-grade advanced search operators on mobile, sort by newest or most starred, and star repos into Lists."
+    }
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "summary": "Public projects created on 31 October 2026: 4 repos and 1 dataset.",
+   "intro": "New repositories covered agent tooling and dictation cleanup, with an agent plugin for capturing mid-thread ideas into in-repo sprints and a catalogue of LoRA format adapters on a small dictation model. Two further repositories documented conversational AI triage and batch inference mechanics on OpenRouter. On Hugging Face, the new dataset was a reference list of OpenRouter batch-capable models with batch and sync prices.",
+   "scope": "created",
+   "projects": [
+    {
+     "name": "AI Assistant Triage",
+     "url": "https://github.com/danielrosehill/AI-Assistant-Triage",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Documentation",
+     "description": "A public notebook of quick, point-in-time triage scorecards for conversational AI tools with native agentic capabilities, looked at through one lens: how well they integrate with external tools (MCP..."
+    },
+    {
+     "name": "Dictation Format Adapters",
+     "url": "https://github.com/danielrosehill/Dictation-Format-Adapters",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Tool",
+     "description": "Bounded catalogue of LoRA format adapters (shopping list, emails, blog outline, calendar JSON) on a 0.6B dictation cleanup model"
+    },
+    {
+     "name": "Flow Control",
+     "url": "https://github.com/danielrosehill/Flow-Control",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Agent plugin",
+     "description": "Stay in flow: capture and triage mid-thread ideas, requests and bugs into in-repo sprints and backlog, then carry on. Agent skills."
+    },
+    {
+     "name": "OpenRouter Batch Notes",
+     "url": "https://github.com/danielrosehill/OpenRouter-Batch-Notes",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Tool",
+     "description": "Research notebook on batch inference via OpenRouter: Batch API mechanics, batch vs sync pricing, traps. Written by Claude Opus 5.5, 2026-10-31."
+    },
+    {
+     "name": "OR Batch Inference Models",
+     "url": "https://huggingface.co/datasets/danielrosehill/OR-Batch-Inference-Models",
+     "network": "Hugging Face",
+     "section": "datasets",
+     "type": "Reference dataset",
+     "description": "Every model with a :batch id on OpenRouter on 2026-10-31 (71 models), with batch and sync prices, the providers that serve batch, and a price-tier label."
+    }
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "summary": "Public projects created on 30 October 2026: 1 repo.",
+   "intro": "A command-line tool for spoken-word audio applies silence and filler-word removal, pause shortening, and voice-fitted equalization to reach a target loudness. The work sits in podcast post-production and audio processing.",
+   "scope": "created",
+   "projects": [
+    {
+     "name": "Podcast Light Edit Chain",
+     "url": "https://github.com/danielrosehill/Podcast-Light-Edit-Chain",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Tool",
+     "description": "One-command light edit for spoken-word recordings: cut ums with the Uhm frame classifier (no ASR), shorten long pauses, voice-fitted EQ, -16 LUFS. With a measured demo."
+    }
+   ]
+  },
+  {
+   "date": "2026-10-29",
+   "summary": "Public projects created on 29 October 2026: 2 repos, 1 dataset and 3 models.",
+   "intro": "New repositories covered voice-data preparation and rclone administration, with a tool that trims clicks from training recordings and agent skills for remotes, mounts and config backup. On Hugging Face, the work was wake-word and dictation cleanup: two \"Hey Yossi\" models, a fine-tune that edits raw dictation, and a reference dataset.",
+   "scope": "created",
+   "projects": [
+    {
+     "name": "Keyclick Detector",
+     "url": "https://github.com/danielrosehill/Keyclick-Detector",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Tool",
+     "description": "Detects keyboard and mouse clicks at the start and end of voice-training recordings so they can be trimmed. Trained on real recorder takes."
+    },
+    {
+     "name": "Rclone Manager",
+     "url": "https://github.com/danielrosehill/Rclone-Manager",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Agent plugin",
+     "description": "Agent skills for routine rclone admin: install, remotes, mounts, config backup and migration, docs lookup"
+    },
+    {
+     "name": "ASR Cleanup Before After",
+     "url": "https://huggingface.co/datasets/danielrosehill/ASR-Cleanup-Before-After",
+     "network": "Hugging Face",
+     "section": "datasets",
+     "type": "Reference dataset",
+     "description": "No description published."
+    },
+    {
+     "name": "Hey Yossi microWakeWord",
+     "url": "https://huggingface.co/danielrosehill/Hey-Yossi-microWakeWord",
+     "network": "Hugging Face",
+     "section": "models",
+     "type": "Other",
+     "description": "A custom \"Hey Yossi\" wake word for microWakeWord, trained 2026-10-29. It is a streaming, int8-quantised TFLite model of 61 KB."
+    },
+    {
+     "name": "Hey Yossi openWakeWord",
+     "url": "https://huggingface.co/danielrosehill/Hey-Yossi-openWakeWord",
+     "network": "Hugging Face",
+     "section": "models",
+     "type": "Other",
+     "description": "A custom \"Hey Yossi\" wake word for openWakeWord, trained 2026-10-29 for a personal voice assistant."
+    },
+    {
+     "name": "S1 ASR Cleanup",
+     "url": "https://huggingface.co/danielrosehill/S1-ASR-Cleanup",
+     "network": "Hugging Face",
+     "section": "models",
+     "type": "Fine-tuned model",
+     "description": "S1-ASR-Cleanup is a fine-tune of S1-mini by Superwhisper (superwhisper/s1-mini, Qwen3-0.6B) that cleans raw speech-to-text dictation the way one user edits his own."
+    }
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "summary": "Public projects created on 28 October 2026: 2 repos and 3 datasets.",
+   "intro": "New repositories covered agent tooling and image-model evaluation, with a plugin for documenting and analysing home noise pollution and a periodic check of whether image models can produce stylised tech diagrams with correct text and arrows. On Hugging Face, the new work was evaluation material for that graphics benchmark: its test prompts, every generated image, and the raw human ratings.",
+   "scope": "created",
+   "projects": [
+    {
+     "name": "Noise Pollution Analysis",
+     "url": "https://github.com/danielrosehill/Noise-Pollution-Analysis",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Agent plugin",
+     "description": "Agent skills to document home noise pollution and analyse recordings at the frequency level: hums, tones, low-frequency drone, cycling."
+    },
+    {
+     "name": "Tech Graphics Benchmark",
+     "url": "https://github.com/danielrosehill/Tech-Graphics-Benchmark",
+     "network": "GitHub",
+     "section": "repos",
+     "type": "Evaluation",
+     "description": "Lightweight periodic check: can image models make colourful, stylised tech diagrams with exact text and correct arrows? Text-to-image and image-to-image."
+    },
+    {
+     "name": "Tech Graphics Benchmark",
+     "url": "https://huggingface.co/datasets/danielrosehill/Tech-Graphics-Benchmark",
+     "network": "Hugging Face",
+     "section": "datasets",
+     "type": "Evaluation dataset",
+     "description": "Test prompts for Tech-Graphics-Benchmark: can an image model make a characterful banner or a restyled diagram for a tech repo or blog post without getting the text or the arrows wrong?"
+    },
+    {
+     "name": "Tech Graphics Benchmark Ratings",
+     "url": "https://huggingface.co/datasets/danielrosehill/Tech-Graphics-Benchmark-Ratings",
+     "network": "Hugging Face",
+     "section": "datasets",
+     "type": "Evaluation dataset",
+     "description": "Raw human evaluation data for Tech-Graphics-Benchmark: one JSON file per annotated generation, written by the annotation Space."
+    },
+    {
+     "name": "Tech Graphics Benchmark Runs",
+     "url": "https://huggingface.co/datasets/danielrosehill/Tech-Graphics-Benchmark-Runs",
+     "network": "Hugging Face",
+     "section": "datasets",
+     "type": "Evaluation dataset",
+     "description": "Every image generated for Tech-Graphics-Benchmark, one folder per round."
+    }
+   ]
+  }
+ ]
+}
