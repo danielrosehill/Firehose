@@ -6,7 +6,7 @@ creation day in --tz, and writes YYYY/MM/YYYY-MM-DD.json with everything except 
 (scripts/write_intros.py fills that). Days already holding a .json or .md are skipped unless
 --force, so hand-written entries survive. Format: FORMAT.md. Standard library only.
 
-Usage: assemble.py --from YYYY-MM-DD --to YYYY-MM-DD [--tz Asia/Jerusalem] [--force] [--dry-run]
+Usage: assemble.py --from YYYY-MM-DD --to YYYY-MM-DD [--tz Asia/Jerusalem] [--deny file.json] [--force] [--dry-run]
 """
 import argparse, base64, datetime as dt, json, os, re, subprocess, sys
 import urllib.error, urllib.request
@@ -170,6 +170,7 @@ def main():
     ap.add_argument("--from", dest="start", required=True)
     ap.add_argument("--to", dest="end", required=True)
     ap.add_argument("--tz", default="Asia/Jerusalem")
+    ap.add_argument("--deny", help="JSON array of project URLs to leave out")
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--dry-run", action="store_true")
     a = ap.parse_args()
@@ -184,6 +185,8 @@ def main():
     days = github_projects(day_of, wanted, token(), problems)
     hf_projects("datasets", day_of, wanted, days, problems)
     hf_projects("models", day_of, wanted, days, problems)
+    deny = {u.lower() for u in json.loads(Path(a.deny).read_text())} if a.deny and Path(a.deny).exists() else set()
+    days = {d: kept for d, ps in days.items() if (kept := [p for p in ps if p["url"].lower() not in deny])}
     if problems:  # a failed source must never read as a quiet day
         sys.exit("aborting, nothing written:\n" + "\n".join(problems))
 
