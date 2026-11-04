@@ -18,7 +18,7 @@ Replaces [Project-Flow](https://github.com/danielrosehill/Project-Flow), the man
 
 ## How it works
 
-Entries live at `YYYY/MM/YYYY-MM-DD.md`, one per day, with the day boundary in Asia/Jerusalem time.
+Entries live at `YYYY/MM/YYYY-MM-DD.md`, one per day. A day runs midnight to midnight Israel time (`Asia/Jerusalem`).
 
 1. `scripts/collect.py [--date YYYY-MM-DD]` prints the day's activity as JSON. Standard library only. Set `GH_TOKEN` or be logged in to `gh`.
 2. An agent turns that JSON into the entry, using the `write-entry` skill in the private `firehose-author` plugin.
