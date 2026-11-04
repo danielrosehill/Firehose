@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-30",
+  "summary": "Public projects created on 30 October 2026: 1 repo.",
+  "intro": "A command-line tool for spoken-word audio applies silence and filler-word removal, pause shortening, and voice-fitted equalization to reach a target loudness. The work sits in podcast post-production and audio processing.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Podcast Light Edit Chain",
+      "url": "https://github.com/danielrosehill/Podcast-Light-Edit-Chain",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "One-command light edit for spoken-word recordings: cut ums with the Uhm frame classifier (no ASR), shorten long pauses, voice-fitted EQ, -16 LUFS. With a measured demo."
+    }
+  ]
+}

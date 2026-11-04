@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-28",
+  "summary": "Public projects created on 28 October 2026: 2 repos and 3 datasets.",
+  "intro": "New repositories covered agent tooling and image-model evaluation, with a plugin for documenting and analysing home noise pollution and a periodic check of whether image models can produce stylised tech diagrams with correct text and arrows. On Hugging Face, the new work was evaluation material for that graphics benchmark: its test prompts, every generated image, and the raw human ratings.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Noise Pollution Analysis",
+      "url": "https://github.com/danielrosehill/Noise-Pollution-Analysis",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Agent skills to document home noise pollution and analyse recordings at the frequency level: hums, tones, low-frequency drone, cycling."
+    },
+    {
+      "name": "Tech Graphics Benchmark",
+      "url": "https://github.com/danielrosehill/Tech-Graphics-Benchmark",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Evaluation",
+      "description": "Lightweight periodic check: can image models make colourful, stylised tech diagrams with exact text and correct arrows? Text-to-image and image-to-image."
+    },
+    {
+      "name": "Tech Graphics Benchmark",
+      "url": "https://huggingface.co/datasets/danielrosehill/Tech-Graphics-Benchmark",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Evaluation dataset",
+      "description": "Test prompts for Tech-Graphics-Benchmark: can an image model make a characterful banner or a restyled diagram for a tech repo or blog post without getting the text or the arrows wrong?"
+    },
+    {
+      "name": "Tech Graphics Benchmark Ratings",
+      "url": "https://huggingface.co/datasets/danielrosehill/Tech-Graphics-Benchmark-Ratings",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Evaluation dataset",
+      "description": "Raw human evaluation data for Tech-Graphics-Benchmark: one JSON file per annotated generation, written by the annotation Space."
+    },
+    {
+      "name": "Tech Graphics Benchmark Runs",
+      "url": "https://huggingface.co/datasets/danielrosehill/Tech-Graphics-Benchmark-Runs",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Evaluation dataset",
+      "description": "Every image generated for Tech-Graphics-Benchmark, one folder per round."
+    }
+  ]
+}

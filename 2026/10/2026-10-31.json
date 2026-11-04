@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-31",
+  "summary": "Public projects created on 31 October 2026: 4 repos and 1 dataset.",
+  "intro": "New repositories covered agent tooling and dictation cleanup, with an agent plugin for capturing mid-thread ideas into in-repo sprints and a catalogue of LoRA format adapters on a small dictation model. Two further repositories documented conversational AI triage and batch inference mechanics on OpenRouter. On Hugging Face, the new dataset was a reference list of OpenRouter batch-capable models with batch and sync prices.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "AI Assistant Triage",
+      "url": "https://github.com/danielrosehill/AI-Assistant-Triage",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "A public notebook of quick, point-in-time triage scorecards for conversational AI tools with native agentic capabilities, looked at through one lens: how well they integrate with external tools (MCP..."
+    },
+    {
+      "name": "Dictation Format Adapters",
+      "url": "https://github.com/danielrosehill/Dictation-Format-Adapters",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Bounded catalogue of LoRA format adapters (shopping list, emails, blog outline, calendar JSON) on a 0.6B dictation cleanup model"
+    },
+    {
+      "name": "Flow Control",
+      "url": "https://github.com/danielrosehill/Flow-Control",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Stay in flow: capture and triage mid-thread ideas, requests and bugs into in-repo sprints and backlog, then carry on. Agent skills."
+    },
+    {
+      "name": "OpenRouter Batch Notes",
+      "url": "https://github.com/danielrosehill/OpenRouter-Batch-Notes",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Research notebook on batch inference via OpenRouter: Batch API mechanics, batch vs sync pricing, traps. Written by Claude Opus 5.5, 2026-10-31."
+    },
+    {
+      "name": "OR Batch Inference Models",
+      "url": "https://huggingface.co/datasets/danielrosehill/OR-Batch-Inference-Models",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "Every model with a :batch id on OpenRouter on 2026-10-31 (71 models), with batch and sync prices, the providers that serve batch, and a price-tier label."
+    }
+  ]
+}

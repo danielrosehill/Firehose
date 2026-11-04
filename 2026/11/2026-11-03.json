@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "summary": "Three agent plugins, a playbook for keeping IP cameras local-only, a small sentence-generation model with its training data, and a mixed English-Hebrew sentence dataset.",
+  "summary": "Public projects created on 3 November 2026: 4 repos, 2 datasets and 2 models.",
   "intro": "New repositories covered agent tooling and home network security, with three agent plugins and a playbook for keeping cheap IP cameras local-only. On Hugging Face, the new work was speech-recognition training material: a small model that writes read-aloud sentences, its training data, and a mixed English-Hebrew sentence dataset.",
   "scope": "created",
   "projects": [

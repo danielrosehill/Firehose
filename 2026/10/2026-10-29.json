@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-29",
+  "summary": "Public projects created on 29 October 2026: 2 repos, 1 dataset and 3 models.",
+  "intro": "New repositories covered voice-data preparation and rclone administration, with a tool that trims clicks from training recordings and agent skills for remotes, mounts and config backup. On Hugging Face, the work was wake-word and dictation cleanup: two \"Hey Yossi\" models, a fine-tune that edits raw dictation, and a reference dataset.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Keyclick Detector",
+      "url": "https://github.com/danielrosehill/Keyclick-Detector",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Detects keyboard and mouse clicks at the start and end of voice-training recordings so they can be trimmed. Trained on real recorder takes."
+    },
+    {
+      "name": "Rclone Manager",
+      "url": "https://github.com/danielrosehill/Rclone-Manager",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Agent skills for routine rclone admin: install, remotes, mounts, config backup and migration, docs lookup"
+    },
+    {
+      "name": "ASR Cleanup Before After",
+      "url": "https://huggingface.co/datasets/danielrosehill/ASR-Cleanup-Before-After",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Reference dataset",
+      "description": "No description published."
+    },
+    {
+      "name": "Hey Yossi microWakeWord",
+      "url": "https://huggingface.co/danielrosehill/Hey-Yossi-microWakeWord",
+      "network": "Hugging Face",
+      "section": "models",
+      "type": "Other",
+      "description": "A custom \"Hey Yossi\" wake word for microWakeWord, trained 2026-10-29. It is a streaming, int8-quantised TFLite model of 61 KB."
+    },
+    {
+      "name": "Hey Yossi openWakeWord",
+      "url": "https://huggingface.co/danielrosehill/Hey-Yossi-openWakeWord",
+      "network": "Hugging Face",
+      "section": "models",
+      "type": "Other",
+      "description": "A custom \"Hey Yossi\" wake word for openWakeWord, trained 2026-10-29 for a personal voice assistant."
+    },
+    {
+      "name": "S1 ASR Cleanup",
+      "url": "https://huggingface.co/danielrosehill/S1-ASR-Cleanup",
+      "network": "Hugging Face",
+      "section": "models",
+      "type": "Fine-tuned model",
+      "description": "S1-ASR-Cleanup is a fine-tune of S1-mini by Superwhisper (superwhisper/s1-mini, Qwen3-0.6B) that cleans raw speech-to-text dictation the way one user edits his own."
+    }
+  ]
+}

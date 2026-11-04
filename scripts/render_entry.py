@@ -21,8 +21,6 @@ TYPES = {
 def check(e, path):
     day = dt.date.fromisoformat(e["date"])
     problems = [] if path.stem == e["date"] else [f"file name does not match date {e['date']}"]
-    if not e.get("summary"):
-        problems.append("missing summary")
     if not e.get("intro"):
         problems.append("missing intro")
     if not e.get("projects"):
@@ -42,6 +40,16 @@ def check(e, path):
         if not p.get("description"):
             problems.append(f"{label}: missing description")
     return day, problems
+
+
+def templated_summary(e, day):
+    parts = []
+    for section, noun in NOUNS.items():
+        n = sum(p["section"] == section for p in e["projects"])
+        if n:
+            parts.append(f"{n} {noun}{'' if n == 1 else 's'}")
+    listed = parts[0] if len(parts) == 1 else ", ".join(parts[:-1]) + " and " + parts[-1]
+    return f"Public projects created on {day.day} {day:%B %Y}: {listed}."
 
 
 def render(e, day):
@@ -68,6 +76,9 @@ for arg in sys.argv[1:]:
         print(f"{path}: " + "; ".join(problems), file=sys.stderr)
         continue
     entry["projects"].sort(key=lambda p: (list(SECTIONS).index(p["section"]), p["name"].casefold()))
+    ordered = {"date": entry["date"], "summary": templated_summary(entry, day), "intro": entry["intro"],
+               "scope": entry.get("scope", "created"), "projects": entry["projects"]}
+    entry = ordered
     path.write_text(json.dumps(entry, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     path.with_suffix(".md").write_text(render(entry, day), encoding="utf-8")
     print(f"rendered {path.with_suffix('.md')}")

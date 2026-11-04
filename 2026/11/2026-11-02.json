@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-02",
+  "summary": "Public projects created on 2 November 2026: 7 repos and 1 dataset.",
+  "intro": "New repositories covered agent tooling and local speech work, with two agent plugins for text-to-speech and staged transcription. Other projects included a handwriting recognition model, an Android clock widget, a manual-rewriting tool, and Konsole settings for Claude Code sessions. On Hugging Face, the new dataset was one speaker reading desktop voice commands.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Claude Konsole Setup",
+      "url": "https://github.com/danielrosehill/Claude-Konsole-Setup",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Konsole settings for running Claude Code sessions: window-close protection, no single-tab prompt, split layout; apply.sh for other machines"
+    },
+    {
+      "name": "Daniel Handwriting Recognition",
+      "url": "https://github.com/danielrosehill/Daniel-Handwriting-Recognition",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Fine-tuning a handwriting recognition (HTR) model on Daniel's handwriting: data collection plan, ground truth, training"
+    },
+    {
+      "name": "Laptop Search 1126",
+      "url": "https://github.com/danielrosehill/Laptop-Search-1126",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Documentation",
+      "description": "Laptop search, November 2026: requirements, spec notes and voice-note transcripts."
+    },
+    {
+      "name": "Local TTS Plugin",
+      "url": "https://github.com/danielrosehill/Local-TTS-Plugin",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Local text-to-speech for Claude Code: Kokoro (CPU), NeuTTS Air (CPU cloning), Chatterbox (ROCm/CUDA). Installs, registers and runs local TTS models."
+    },
+    {
+      "name": "Local UTC Widget",
+      "url": "https://github.com/danielrosehill/Local-UTC-Widget",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Android home-screen widget: local time and UTC side by side, 24-hour, with optional date, UTC offset and font choice"
+    },
+    {
+      "name": "Transcription Pipeline",
+      "url": "https://github.com/danielrosehill/Transcription-Pipeline",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Agent plugin",
+      "description": "Agent skills for transcription in stages: retrieve, preprocess (EQ, denoise, VAD), transcribe (OpenRouter/Gemini, AssemblyAI, local Whisper/Parakeet), clean, label speakers, reshape, Typst PDF, save"
+    },
+    {
+      "name": "Useful User Manuals",
+      "url": "https://github.com/danielrosehill/Useful-User-Manuals",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Turn bloated product manuals into useful ones: fetch, trim to your language, rewrite, or one-task how-to PDFs, always citing the original."
+    },
+    {
+      "name": "Voice Command Sentences",
+      "url": "https://huggingface.co/datasets/danielrosehill/Voice-Command-Sentences",
+      "network": "Hugging Face",
+      "section": "datasets",
+      "type": "Audio dataset",
+      "description": "One speaker reading desktop voice commands for a KDE Plasma voice-command agent: launching, switching to and closing apps (Konsole, Kate, Dolphin, Kdenlive, Audacity), browser and terminal tabs,..."
+    }
+  ]
+}

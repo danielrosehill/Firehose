@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-01",
+  "summary": "Public projects created on 1 November 2026: 2 repos.",
+  "intro": "New repositories covered audio dataset preservation and mobile GitHub discovery, with a tool for archiving audio datasets into checksummed, disc-sized snapshots and an Android app for browsing topics, running advanced search operators, sorting results, and starring repos into Lists.",
+  "scope": "created",
+  "projects": [
+    {
+      "name": "Audio Dataset Backup",
+      "url": "https://github.com/danielrosehill/Audio-Dataset-Backup",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Gathers Daniel's Hugging Face audio datasets into a pinned, checksummed, disc-sized point-in-time archive (M-DISC / cloud)"
+    },
+    {
+      "name": "GitHub Discovery",
+      "url": "https://github.com/danielrosehill/GitHub-Discovery",
+      "network": "GitHub",
+      "section": "repos",
+      "type": "Tool",
+      "description": "Android app for discovering GitHub repos: browse topics, use desktop-grade advanced search operators on mobile, sort by newest or most starred, and star repos into Lists."
+    }
+  ]
+}
