@@ -376,7 +376,7 @@
     },
     {
      "name": "Fritter",
-     "url": "https://huggingface.co/danielrosehill/Fritter",
+     "url": "https://huggingface.co/Fritter-ASR/Fritter",
      "network": "Hugging Face",
      "section": "models",
      "type": "Fine-tuned model",
